@@ -7,15 +7,10 @@
     </audio>
         <nav class="navbar navbar-inverse d-lg-none bg-dark">
                     <div class="container-fluid">
-                      <div class="navbar-header">
-                        <button type="button" class="navbar-toggle border-0 bg-transparent text-white" data-toggle="collapse" data-target="#myNavbar">
-                          <i class="fas fa-bars fa-3x"></i>                    
-                        </button>
-                      </div>
+                      <div class="col-8" style="font-size: 25px">
+                              <span style="color: #ee7000;">SELAHATTIN</span><span> AKKAYA</span>
+                          </div>
                       <div class="collapse navbar-collapse" id="myNavbar">
-                        <div class="text-center col-3" style="font-size: 25px">
-                            <span style="color: #ee7000;">SELAHATTIN</span><span> AKKAYA</span>
-                        </div>
                         <ul class="nav navbar-nav text-right pt-5 mt-5 col-9">
                                 <li><a href="/" class = "text-decoration-none text-white">ANA SAYFA</a></li>
                                 <li><a href="/sessions.php" class = "text-decoration-none text-white">SEANSLAR</a></li>

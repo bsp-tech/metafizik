@@ -20,7 +20,9 @@
                     <a href="" class = "text-decoration-none text-dark">metafizik.herokuapp.com * 123456789</a>
             </div>
         </section>
-       
+        <div class="logo bg-light text-center rounded-circle">
+                <p>SELAHATTIN AKKAYA</p>
+        </div>
     </footer>
    
     <!--iconlar ucun     Font Awasome-->
