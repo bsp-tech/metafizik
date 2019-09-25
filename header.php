@@ -7,9 +7,9 @@
     </audio>
     <nav class="navbar navbar-inverse d-lg-none bg-dark">
                     <div class="container-fluid">
-    <div class="col-8" style="font-size: 25px">
+                        <a href="/" class="col-8" style="font-size: 25px">
                             <span style="color: #ee7000;">SELAHATTIN</span><span class="text-light"> AKKAYA</span>
-                        </div>
+                        </a>
                       <div class="navbar-header">
                         <button type="button" class="navbar-toggle border-0 bg-transparent text-white" data-toggle="collapse" data-target="#myNavbar" aria-expanded="true">
                           <i class="fas fa-bars fa-3x" aria-hidden="true"></i>                    
@@ -26,13 +26,13 @@
                                 <li><a href="/about.php" class="text-decoration-none text-white">SELAHATTIN AKKAYA KIMDIR</a></li>
                             </ul>
                       </div>
-                    </div>
+                    </div>  
       </nav>
       <section class="text-right bg-dark text-white d-none d-lg-block">
           <div class="row m-0 pt-3 pb-2">
-              <div class="text-center col-3" style="font-size: 25px">
+              <a href="/" class="text-center col-3" style="font-size: 25px">
                   <span style="color: #ee7000;">SELAHATTIN</span><span class="text-light"> AKKAYA</span>
-              </div>
+              </a>
               <div class="col-8">
                   <ul class="list-unstyled mt-2">
                       <li class="d-inline-block border border-left-0 border-top-0 border-bottom-0 px-2"><a href="" class="text-decoration-none text-white">ANA SAYFA</a></li>
