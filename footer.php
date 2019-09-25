@@ -9,7 +9,7 @@
                                 <li class = "d-inline-block border border-left-0 border-top-0 border-bottom-0 px-4"><a href="" class = "text-decoration-none text-white">MAKALELER</a></li>
                                 <li class = "d-inline-block border border-left-0 border-top-0 border-bottom-0 px-4"><a href="" class = "text-decoration-none text-white">SIZDEN GELENLER</a></li>
                                 <li class = "d-inline-block border border-left-0 border-top-0 border-bottom-0 px-4"><a href="" class = "text-decoration-none text-white">BASINDA BİZ</a></li>
-                                <li class = "d-inline-block pl-4"><a href="" class = "text-decoration-none text-white">ELAHATTIN AKKAYA KIMDIR</a></li>
+                                <li class = "d-inline-block pl-4"><a href="" class = "text-decoration-none text-white">SELAHATTIN AKKAYA KIMDIR</a></li>
                         </ul>
                 </div>
             </div>

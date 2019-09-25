@@ -116,6 +116,9 @@
 					<button class="btn btn-links text-danger font-weight-bold p-0">View Details</button>
 				</a>
 			</div>
+            <div class="col-lg-5 col-md-6 col-sm-12">
+                <button class="btn mt-3 bg-dark text-light">DAHA FAZLA</button>
+            </div>
 		</div>
 	</div>
 	<?php require('footer.php');?>
