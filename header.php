@@ -13,7 +13,10 @@
                         </button>
                       </div>
                       <div class="collapse navbar-collapse" id="myNavbar">
-                        <ul class="nav navbar-nav text-right pt-5 mt-5">
+                        <div class="text-center col-3" style="font-size: 25px">
+                            <span style="color: #ee7000;">SELAHATTIN</span><span> AKKAYA</span>
+                        </div>
+                        <ul class="nav navbar-nav text-right pt-5 mt-5 col-9">
                                 <li><a href="/" class = "text-decoration-none text-white">ANA SAYFA</a></li>
                                 <li><a href="/sessions.php" class = "text-decoration-none text-white">SEANSLAR</a></li>
                                 <li><a href="/articles.php" class = "text-decoration-none text-white">MAKALELER</a></li>
