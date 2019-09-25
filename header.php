@@ -14,11 +14,11 @@
                       </div>
                       <div class="collapse navbar-collapse" id="myNavbar">
                         <ul class="nav navbar-nav text-right pt-5 mt-5">
-                                <li><a href="" class = "text-decoration-none text-white">ANA SAYFA</a></li>
+                                <li><a href="/" class = "text-decoration-none text-white">ANA SAYFA</a></li>
                                 <li><a href="/sessions.php" class = "text-decoration-none text-white">SEANSLAR</a></li>
                                 <li><a href="/articles.php" class = "text-decoration-none text-white">MAKALELER</a></li>
-                                <li><a href="" class = "text-decoration-none text-white">SIZDEN GELENLER</a></li>
-                                <li><a href="" class = "text-decoration-none text-white">BASINDA BİZ</a></li>
+                                <li><a href="/fromyou.php" class = "text-decoration-none text-white">SIZDEN GELENLER</a></li>
+                                <li><a href="/media.php" class = "text-decoration-none text-white">BASINDA BİZ</a></li>
                                 <li><a href="/about.php" class = "text-decoration-none text-white">SELAHATTIN AKKAYA KIMDIR</a></li>
                             </ul>
                       </div>
@@ -32,8 +32,8 @@
                     <li class = "d-inline-block border border-left-0 border-top-0 border-bottom-0 px-2"><a href="" class = "text-decoration-none text-white">ANA SAYFA</a></li>
                     <li class = "d-inline-block border border-left-0 border-top-0 border-bottom-0 px-2"><a href="/sessions.php" class = "text-decoration-none text-white">SEANSLAR</a></li>
                     <li class = "d-inline-block border border-left-0 border-top-0 border-bottom-0 px-2"><a href="/articles.php" class = "text-decoration-none text-white">MAKALELER</a></li>
-                    <li class = "d-inline-block border border-left-0 border-top-0 border-bottom-0 px-2"><a href="" class = "text-decoration-none text-white">SIZDEN GELENLER</a></li>
-                    <li class = "d-inline-block border border-left-0 border-top-0 border-bottom-0 px-2"><a href="" class = "text-decoration-none text-white">BASINDA BİZ</a></li>
+                    <li class = "d-inline-block border border-left-0 border-top-0 border-bottom-0 px-2"><a href="/fromyou.php" class = "text-decoration-none text-white">SIZDEN GELENLER</a></li>
+                    <li class = "d-inline-block border border-left-0 border-top-0 border-bottom-0 px-2"><a href="/media.php" class = "text-decoration-none text-white">BASINDA BİZ</a></li>
                     <li class = "d-inline-block pl-2"><a href="/about.php" class = "text-decoration-none text-white">SELAHATTIN AKKAYA KIMDIR</a></li>
                 </ul>
             </div>
