@@ -8,8 +8,6 @@
 </head>
 <body>
     <?php require('header.php');?>
-    
-
     <section>
         <img src="img/bg.jpg" alt="" class = "w-100" height ="400">
     </section>

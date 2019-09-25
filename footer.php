@@ -21,7 +21,7 @@
             </div>
         </section>
         <div class="logo bg-light text-center rounded-circle">
-                <h4>SELAHATTIN AKKAYA</h4>
+                <p>SELAHATTIN AKKAYA</p>
         </div>
     </footer>
    
