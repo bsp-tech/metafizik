@@ -1,0 +1,26 @@
+/*body { 
+    overflow-y: hidden;
+}*/
+
+.logo{
+    width:250px;
+    height:250px;
+    position:absolute;
+    top:30px;
+    left:50px;
+}
+.logo h2{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+}
+@media screen and (max-width:700px){
+    .logo{
+        width:150px;
+        height:150px;
+    }
+    .logo h2{
+        font-size:26px
+    }
+}
