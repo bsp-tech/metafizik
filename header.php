@@ -7,7 +7,7 @@
     </audio>
     <nav class="navbar navbar-inverse d-lg-none bg-dark">
                     <div class="container-fluid">
-                        <a href="/" class="col-8" style="font-size: 25px">
+                        <a href="/" class="col-8" style="font-size: 25px;text-decoration: none;">
                             <span style="color: #ee7000;">SELAHATTIN</span><span class="text-light"> AKKAYA</span>
                         </a>
                       <div class="navbar-header">
@@ -31,7 +31,7 @@
       <section class="text-right bg-dark text-white d-none d-lg-block">
           <div class="row m-0 pt-3 pb-2">
               <a href="/" class="text-center col-3" style="font-size: 25px">
-                  <span style="color: #ee7000;">SELAHATTIN</span><span class="text-light"> AKKAYA</span>
+                  <span style="color: #ee7000;text-decoration: none;">SELAHATTIN</span><span class="text-light"> AKKAYA</span>
               </a>
               <div class="col-8">
                   <ul class="list-unstyled mt-2">
