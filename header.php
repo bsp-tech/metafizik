@@ -5,24 +5,29 @@
             <p>If you are reading this, it is because your browser does not support the audio element.     </p>
             <embed src="/assets/backgroundmusic.m4a" width="180" height="90" hidden="true" />
     </audio>
-        <nav class="navbar navbar-inverse d-lg-none bg-dark">
+    <nav class="navbar navbar-inverse d-lg-none bg-dark">
                     <div class="container-fluid">
-                      <div class="col-8" style="font-size: 25px">
-                              <span style="color: #ee7000;">SELAHATTIN</span><span> AKKAYA</span>
-                          </div>
-                      <div class="collapse navbar-collapse" id="myNavbar">
-                        <ul class="nav navbar-nav text-right pt-5 mt-5 col-9">
-                                <li><a href="/" class = "text-decoration-none text-white">ANA SAYFA</a></li>
-                                <li><a href="/sessions.php" class = "text-decoration-none text-white">SEANSLAR</a></li>
-                                <li><a href="/articles.php" class = "text-decoration-none text-white">MAKALELER</a></li>
-                                <li><a href="/fromyou.php" class = "text-decoration-none text-white">SIZDEN GELENLER</a></li>
-                                <li><a href="/media.php" class = "text-decoration-none text-white">BASINDA BİZ</a></li>
-                                <li><a href="/about.php" class = "text-decoration-none text-white">SELAHATTIN AKKAYA KIMDIR</a></li>
+    <div class="col-8" style="font-size: 25px">
+                            <span style="color: #ee7000;">SELAHATTIN</span><span> AKKAYA</span>
+                        </div>
+                      <div class="navbar-header">
+                        <button type="button" class="navbar-toggle border-0 bg-transparent text-white" data-toggle="collapse" data-target="#myNavbar" aria-expanded="true">
+                          <i class="fas fa-bars fa-3x" aria-hidden="true"></i>                    
+                        </button>
+                      </div>
+                      <div class="navbar-collapse collapse show" id="myNavbar" style="">
+                        
+                        <ul class="nav navbar-nav text-right col-12 pr-0">
+                                <li><a href="/" class="text-decoration-none text-white">ANA SAYFA</a></li>
+                                <li><a href="/sessions.php" class="text-decoration-none text-white">SEANSLAR</a></li>
+                                <li><a href="/articles.php" class="text-decoration-none text-white">MAKALELER</a></li>
+                                <li><a href="/fromyou.php" class="text-decoration-none text-white">SIZDEN GELENLER</a></li>
+                                <li><a href="/media.php" class="text-decoration-none text-white">BASINDA BİZ</a></li>
+                                <li><a href="/about.php" class="text-decoration-none text-white">SELAHATTIN AKKAYA KIMDIR</a></li>
                             </ul>
                       </div>
                     </div>
       </nav>
-
       <section class="text-right bg-dark text-white d-none d-lg-block">
           <div class="row m-0 pt-3 pb-2">
               <div class="text-center col-3" style="font-size: 25px">

@@ -19,8 +19,8 @@
 }
 /* nabar*/
 .navbar-header{
-    position:absolute;
-    top:40px;
+    /* position:absolute; */
+    /* top:40px; */
     right:20px;
 }
 @media screen and (max-width:940px){
