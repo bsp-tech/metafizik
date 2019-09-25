@@ -8,7 +8,7 @@
     <nav class="navbar navbar-inverse d-lg-none bg-dark">
                     <div class="container-fluid">
     <div class="col-8" style="font-size: 25px">
-                            <span style="color: #ee7000;">SELAHATTIN</span><span> AKKAYA</span>
+                            <span style="color: #ee7000;">SELAHATTIN</span><span class="text-light"> AKKAYA</span>
                         </div>
                       <div class="navbar-header">
                         <button type="button" class="navbar-toggle border-0 bg-transparent text-white" data-toggle="collapse" data-target="#myNavbar" aria-expanded="true">
@@ -31,7 +31,7 @@
       <section class="text-right bg-dark text-white d-none d-lg-block">
           <div class="row m-0 pt-3 pb-2">
               <div class="text-center col-3" style="font-size: 25px">
-                  <span style="color: #ee7000;">SELAHATTIN</span><span> AKKAYA</span>
+                  <span style="color: #ee7000;">SELAHATTIN</span><span class="text-light"> AKKAYA</span>
               </div>
               <div class="col-8">
                   <ul class="list-unstyled mt-2">
