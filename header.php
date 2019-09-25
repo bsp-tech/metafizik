@@ -15,11 +15,11 @@
                       <div class="collapse navbar-collapse" id="myNavbar">
                         <ul class="nav navbar-nav text-right pt-5 mt-5">
                                 <li><a href="" class = "text-decoration-none text-white">ANA SAYFA</a></li>
-                                <li><a href="/sessions.html" class = "text-decoration-none text-white">SEANSLAR</a></li>
-                                <li><a href="/articles.html" class = "text-decoration-none text-white">MAKALELER</a></li>
+                                <li><a href="/sessions.php" class = "text-decoration-none text-white">SEANSLAR</a></li>
+                                <li><a href="/articles.php" class = "text-decoration-none text-white">MAKALELER</a></li>
                                 <li><a href="" class = "text-decoration-none text-white">SIZDEN GELENLER</a></li>
                                 <li><a href="" class = "text-decoration-none text-white">BASINDA BİZ</a></li>
-                                <li><a href="/about.html" class = "text-decoration-none text-white">SELAHATTIN AKKAYA KIMDIR</a></li>
+                                <li><a href="/about.php" class = "text-decoration-none text-white">SELAHATTIN AKKAYA KIMDIR</a></li>
                             </ul>
                       </div>
                     </div>
