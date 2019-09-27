@@ -1,0 +1,88 @@
+body{
+    font-family: 'Fira Sans', sans-serif;
+}
+/* logo */
+.logo{
+    width:150px;
+    height:150px;
+    position:absolute;
+    top:20px;
+    left:50px;
+}
+.logo p{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+}
+/* nabar*/
+.navbar-header{
+    /* position:absolute; */
+    /* top:40px; */
+    right:20px;
+}
+.abs-navbar{
+    position: absolute;
+    
+    width: 100%;
+}
+.back_image{
+    background-image: url("../img/bg.jpg");
+    height: 550px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+@media screen and (max-width:940px){
+    .logo{
+        width:150px;
+        height:150px;
+    }
+    .logo h2{
+        font-size:26px
+    }
+}
+.mobilnav{
+    background-color: black;
+    opacity: 0.9;
+    padding: 13px;
+}
+.mobilnav a{
+    font-weight: 600;
+}
+@media only screen and (max-width: 768px) {
+    .back_image{
+        height: 300px; 
+    }
+    .back_image_text{
+        padding-top:10px !important;
+    }
+    .back_image_content{
+        padding-top:100px !important;
+    }
+    .back_image_text {
+        font-size: 15px !important;
+    }
+
+}
+.navbg-color{
+    
+    background-color: #fb3!important;
+}
+
+hr{
+    
+    border-color: gainsboro;
+}
+.back_image_content{
+    padding-top:200px;
+}
+.back_image_text {
+    font-size: 35px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight:600 ;
+}
+
+.own_logo span{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
