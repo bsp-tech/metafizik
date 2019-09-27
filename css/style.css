@@ -1,0 +1,51 @@
+body{
+    font-family: 'Rubik', sans-serif;
+}
+/* logo */
+.logo{
+    width:150px;
+    height:150px;
+    position:absolute;
+    top:20px;
+    left:50px;
+}
+.logo p{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+}
+/* nabar*/
+.navbar-header{
+    /* position:absolute; */
+    /* top:40px; */
+    right:20px;
+}
+.back_image{
+    background-image: url("../img/bg.jpg");
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+@media screen and (max-width:940px){
+    .logo{
+        width:150px;
+        height:150px;
+    }
+    .logo h2{
+        font-size:26px
+    }
+}
+@media only screen and (max-width: 768px) {
+    .back_image{
+        height: 300px; 
+    }
+
+
+}
+
+
+hr{
+    
+    border-color: gainsboro;
+}
