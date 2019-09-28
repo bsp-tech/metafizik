@@ -42,13 +42,9 @@ body{
     }
 }
 .mobilnav{
-    background-color: black;
-    opacity: 0.9;
-    padding: 13px;
+    
 }
-.mobilnav a{
-    font-weight: 600;
-}
+
 @media only screen and (max-width: 768px) {
     .back_image{
         height: 300px; 
@@ -60,6 +56,12 @@ body{
         padding-top:100px !important;
     }
     .back_image_text {
+        font-size: 25px !important;
+    }
+    .review_image{
+        width:150px !important;
+     }
+     .review_text{
         font-size: 15px !important;
     }
 
@@ -68,7 +70,12 @@ body{
     
     background-color: #fb3!important;
 }
-
+.review_image{
+   width:200px;
+}
+.review_text{
+    font-size: 20px;
+}
 hr{
     
     border-color: gainsboro;
