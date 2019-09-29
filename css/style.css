@@ -48,16 +48,13 @@ body{
 }
 
 @media only screen and (max-width: 768px) {
-   
-    .back_image_text{
-        padding-top:10px !important;
-    }
     .back_image_content{
         padding-top:100px !important;
     }
     .back_image_text {
-        font-size: 20px !important;
-        margin-top: 90px !important;
+        font-size: 40px;
+        font-family: 'Montserrat', sans-serif;
+        font-weight:600 ;
     }
     .review_image{
         width:150px !important;
@@ -82,15 +79,22 @@ hr{
     border-color: gainsboro;
 }
 .back_image_content{
-    padding-top:200px;
+    margin-top: 25%;
 }
 .back_image_text {
-    font-size: 35px;
+    font-size: 40px;
     font-family: 'Montserrat', sans-serif;
     font-weight:600 ;
 }
 
 .own_logo span{
     font-family: 'Montserrat', sans-serif;
+    font-size:27px;
     font-weight: 600;
+}
+
+.down{
+    cursor: pointer;
+    margin-top: 16%;
+    font-size: 21px;
 }
