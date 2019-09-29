@@ -17,14 +17,13 @@ body{
 }
 /* nabar*/
 .navbar-header{
-    /* position:absolute; */
-    /* top:40px; */
     right:20px;
 }
 .abs-navbar{
     position: absolute;
-    
     width: 100%;
+    z-index: 9999;
+    padding: 0px !important;
 }
 .back_image{
     background-image: url("../img/bg.jpg");
