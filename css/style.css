@@ -28,7 +28,7 @@ body{
 }
 .back_image{
     background-image: url("../img/bg.jpg");
-    height: 550px;
+    
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -48,9 +48,7 @@ body{
 }
 
 @media only screen and (max-width: 768px) {
-    .back_image{
-        height: 300px; 
-    }
+   
     .back_image_text{
         padding-top:10px !important;
     }
@@ -58,7 +56,8 @@ body{
         padding-top:100px !important;
     }
     .back_image_text {
-        font-size: 25px !important;
+        font-size: 20px !important;
+        margin-top: 90px !important;
     }
     .review_image{
         width:150px !important;
