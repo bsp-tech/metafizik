@@ -2,7 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da3c599d-62dd-4dff-84aa-95566da8af5b" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/icons8-asthma-60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons8-bandage-52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons8-bottle-of-water-100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons8-brain-stroke-100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons8-colon-100 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons8-colon-100 (2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons8-colon-100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons8-epilepsy-smart-watch-128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons8-headache-128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons8-insomnia-160.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons8-lungs-100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons8-olive-100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons8-standing-man-80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons8-syringe-128.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -10,14 +25,6 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>.php</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>.html</replace>
-    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -70,7 +77,7 @@
       <workItem from="1569483166470" duration="993000" />
       <workItem from="1569681550120" duration="198000" />
       <workItem from="1569683506250" duration="631000" />
-      <workItem from="1569785463216" duration="377000" />
+      <workItem from="1569785463216" duration="1067000" />
     </task>
     <servers />
   </component>
