@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da3c599d-62dd-4dff-84aa-95566da8af5b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/about.php" beforeDir="false" afterPath="$PROJECT_DIR$/about.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles.php" beforeDir="false" afterPath="$PROJECT_DIR$/articles.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/contact.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fromyou.php" beforeDir="false" afterPath="$PROJECT_DIR$/fromyou.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fromyou_oldversion.html" beforeDir="false" afterPath="$PROJECT_DIR$/fromyou_oldversion.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fromyoudetails.php" beforeDir="false" afterPath="$PROJECT_DIR$/fromyoudetails.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap-4.3.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap-4.3.1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/fontawesome.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/fontawesome.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery-3.3.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery-3.3.1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/media-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media.php" beforeDir="false" afterPath="$PROJECT_DIR$/media.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/menulist.php" beforeDir="false" afterPath="$PROJECT_DIR$/menulist.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services.php" beforeDir="false" afterPath="$PROJECT_DIR$/services.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sessions.php" beforeDir="false" afterPath="$PROJECT_DIR$/sessions.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sessions_oldversion.html" beforeDir="false" afterPath="$PROJECT_DIR$/sessions_oldversion.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/videodetails.php" beforeDir="false" afterPath="$PROJECT_DIR$/videodetails.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,11 +22,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="menulist.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="menulist.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/menulist.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+            <state relative-caret-position="330">
+              <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#li#4;n#ul#0;n#!!top" expanded="true" />
               </folding>
@@ -50,11 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="menulistmobile.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="menulistmobile.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/menulistmobile.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+            <state relative-caret-position="300">
+              <caret line="20" column="57" selection-start-line="20" selection-start-column="57" selection-end-line="20" selection-end-column="57" />
               <folding>
                 <element signature="n#style#0;n#ul#0;n#!!top" expanded="true" />
               </folding>
@@ -92,8 +76,8 @@
         <option value="$PROJECT_DIR$/fromyou.php" />
         <option value="$PROJECT_DIR$/fromyoudetails.php" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/menulist.php" />
         <option value="$PROJECT_DIR$/menulistmobile.php" />
+        <option value="$PROJECT_DIR$/menulist.php" />
       </list>
     </option>
   </component>
@@ -178,15 +162,16 @@
       <workItem from="1569681550120" duration="198000" />
       <workItem from="1569683506250" duration="631000" />
       <workItem from="1569785463216" duration="1691000" />
-      <workItem from="1569965821077" duration="5357000" />
+      <workItem from="1569965821077" duration="5591000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5357000" />
+    <option name="totallyTimeSpent" value="5591000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1136" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
@@ -334,22 +319,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/menulist.php">
+    <entry file="file://$PROJECT_DIR$/menulistmobile.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+        <state relative-caret-position="300">
+          <caret line="20" column="57" selection-start-line="20" selection-start-column="57" selection-end-line="20" selection-end-column="57" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#li#4;n#ul#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/menulistmobile.php">
+    <entry file="file://$PROJECT_DIR$/menulist.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+        <state relative-caret-position="330">
+          <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
           <folding>
-            <element signature="n#style#0;n#ul#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#4;n#ul#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
