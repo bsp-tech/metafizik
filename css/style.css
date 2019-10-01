@@ -97,3 +97,10 @@ hr{
     margin-top: 16%;
     font-size: 21px;
 }
+
+.yt-thumbnail{
+    height: 175px;
+    background-size: 317px;
+    background-position: 0px -33px;
+    min-width: 317px;
+}

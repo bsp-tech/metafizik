@@ -11,83 +11,9 @@
   <link href="/css/style.css" rel="stylesheet">
 	<title>Document</title>
 </head>
-<body>
-<!--Start of Tawk.to Script-->
-<script type="text/javascript">
-    var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-    (function(){
-        var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-        s1.async=true;
-        s1.src='https://embed.tawk.to/5d8bf12b6c1dde20ed037c74/default';
-        s1.charset='UTF-8';
-        s1.setAttribute('crossorigin','*');
-        s0.parentNode.insertBefore(s1,s0);
-    })();
-</script>
-<!--End of Tawk.to Script-->
+<body> 
 
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-<link rel="stylesheet" href="css/style.css">
-<audio src="/assets/backgroundmusic.m4a" autoplay>
-    <p>If you are reading this, it is because your browser does not support the audio element.     </p>
-    <embed src="/assets/backgroundmusic.m4a" width="180" height="90" hidden="true" />
-</audio>
-<nav style="z-index: 9999;" class="navbar navbar-inverse   d-lg-none bg-dark">
-    <div class="container-fluid">
-        <a href="/" class="col-10" style="font-size: 20px;text-decoration: none;">
-            <span style="color: #ee7000;">SELAHATTIN</span><span class="text-light"> AKKAYA</span>
-        </a>
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle border-0 bg-transparent text-white" data-toggle="collapse" data-target="#myNavbar" aria-expanded="true">
-            
-            <span style="font-size: 2.5em;">
-                <i class="fas fa-bars"></i>    
-            </span>
-                          
-        </button>
-      </div>
-      <div class="navbar-collapse  collapse  " id="myNavbar" >
-        
-        <ul class="nav navbar-nav text-right col-12 pr-0">
-            <li class="d-inline-block border border-light rounded-pill mt-2   px-3 py-1"><a href="" class="text-decoration-none text-white">Ana Sayfa</a></li>
-            <li class="d-inline-block  border border-light rounded-pill mt-2 ml-2   px-3 py-1"><a href="/sessions.html" class="text-decoration-none text-white" >Seanslar</a></li>
-            <li class="d-inline-block border border-light rounded-pill mt-2  ml-2  px-3 py-1"><a href="/articles.html" class="text-decoration-none text-white">Makaleler</a></li>
-            <li class="d-inline-block border border-light rounded-pill mt-2  ml-2  px-3 py-1"><a href="/fromyou.html" class="text-decoration-none text-white">Sizden gelenler</a></li>
-            <li class="d-inline-block border border-light rounded-pill mt-2  ml-2  px-3 py-1"><a href="/media.html" class="text-decoration-none text-white">Basında biz</a></li>
-            <li class="d-inline-block border border-light rounded-pill mt-2  ml-2    px-3 py-1"><a href="/contact.html" class="text-decoration-none text-white">İletişim</a></li>
-            <li class="d-inline-block mt-2  ml-1"><a href="/" class="text-decoration-none text-white"><img width="26px" src="/assets/icons8-turkey-96.png" alt="" srcset=""></a></li>
-            <li class="d-inline-block mt-2  ml-1"><a href="/" class="text-decoration-none text-white"><img width="26px" src="/assets/icons8-germany-96.png" alt="" srcset=""></a></li>
-           </ul>
-      </div>
-    </div>  
-</nav>
-<section style="z-index: 9999;" class="text-right bg-dark   navbar  text-white d-none d-lg-block">
-<div class="row m-0 py-2">
-<a href="/" class="text-center own_logo col-4 mt-3" style="font-size: 27px;text-decoration: none;">
-  <span style="color: #ff7700;">SELAHATTIN</span><span class="text-light"> AKKAYA</span>
-</a>
-<div class="col-8">
-  <ul class="list-unstyled text-light mt-2">
-      <li class="d-inline-block border border-light rounded-pill mt-2   px-3 py-1"><a href="" class="text-decoration-none text-white">Ana Sayfa</a></li>
-      <li class="d-inline-block  border border-light rounded-pill mt-2 ml-2   px-3 py-1"><a href="/sessions.html" class="text-decoration-none text-white" >Seanslar</a></li>
-      <li class="d-inline-block border border-light rounded-pill mt-2  ml-2  px-3 py-1"><a href="/articles.html" class="text-decoration-none text-white">Makaleler</a></li>
-      <li class="d-inline-block border border-light rounded-pill mt-2  ml-2  px-3 py-1"><a href="/fromyou.html" class="text-decoration-none text-white">Sizden gelenler</a></li>
-      <li class="d-inline-block border border-light rounded-pill mt-2  ml-2  px-3 py-1"><a href="/media.html" class="text-decoration-none text-white">Basında biz</a></li>
-      <li class="d-inline-block border border-light rounded-pill mt-2  ml-2    px-3 py-1"><a href="/contact.html" class="text-decoration-none text-white">İletişim</a></li>
-      <li class="d-inline-block mt-2  ml-1"><a href="/" class="text-decoration-none text-white"><img width="26px" src="/assets/icons8-turkey-96.png" alt="" srcset=""></a></li>
-      <li class="d-inline-block mt-2  ml-1"><a href="/" class="text-decoration-none text-white"><img width="26px" src="/assets/icons8-germany-96.png" alt="" srcset=""></a></li>
-     
-    </ul>
-
-</div>
-
-</div>
-</section>
-</section> 
-
-<section>
-
+<?php require('header.php');?>
 <div class="container ">
 		<div class="row mt-5" >
 			<div class="col-sm-12 col-md-12 col-lg-5" >
