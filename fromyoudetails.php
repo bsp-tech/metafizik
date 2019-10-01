@@ -45,11 +45,11 @@
 						<div class="row">
 							<div class="ml-auto">
 								<span class="text-danger fa-2x">SHARE ON</span>
-								<a href="/videodetails.html"
+								<a href="/videodetails.php"
 									class="bg-primary px-1 py-1 mx-1 text-white fa-2x fab fa-twitter"></a>
-								<a href="/videodetails.html" style="background-color: #3B5998"
+								<a href="/videodetails.php" style="background-color: #3B5998"
 									class="px-1 py-1 mx-1 text-white fa-2x fab fa-facebook"></a>
-								<a href="/videodetails.html"
+								<a href="/videodetails.php"
 									class="bg-danger px-1 py-1 mx-1 text-white fa-2x fab fa-youtube"></a>
 							</div>
 						</div>
@@ -73,7 +73,7 @@
 							</div>
 							<div class="col-12 mt-1">
 								<h6 class="font-weight-bold">
-									<a href="/videodetails.html" class="text-decoration-none text-dark">
+									<a href="/videodetails.php" class="text-decoration-none text-dark">
 										<i aria-hidden="true" class="fa fa-play-circle text-primary"></i>
 										<?=$videoSnippet['title']?>
 									</a>
@@ -97,7 +97,7 @@
 	
 	
 					<div class="col-md-3 col-lg-4 col-xl-3 mx-auto mt-3">
-						<h4 class="text-uppercase mb-4 font-weight-bold"> <a href="/about.html">SELAHATTIN AKKAYA</a></h4>
+						<h4 class="text-uppercase mb-4 font-weight-bold"> <a href="/about.php">SELAHATTIN AKKAYA</a></h4>
 						<p>Selahattin AKKAYA 1966 Erzurum doğumludur. Eğitim ve Öğretimini İstanbul’da tamamlamıştır. Dünya
 							çapında bu hizmeti veren AKKAYA gerekli bilgi, birikim, donanım ve referansa sahiptir.</p>
 					</div>
@@ -114,12 +114,12 @@
 						</p>
 						<p>
 	
-							<a href="/sessions.html"
+							<a href="/sessions.php"
 								class="stretched-link btn btn-sm border border-warning rounded-pill text-decoration-none text-dark px-4">Seanslar</a>
 						</p>
 						<p>
 	
-							<a href="/articles.html"
+							<a href="/articles.php"
 								class="stretched-link btn btn-sm border border-warning rounded-pill text-decoration-none text-dark px-4">Makaleler</a>
 						</p>
 	
@@ -134,17 +134,17 @@
 					<div class="col-md-3 col-lg-2 col-xl-2 pt-3 mx-auto mt-4">
 						<p>
 	
-							<a href="/fromyou.html"
+							<a href="/fromyou.php"
 								class="stretched-link btn btn-sm border border-warning rounded-pill text-decoration-none text-dark px-4">Sizden
 								gelenler</a>
 						</p>
 						<p>
-							<a href="/media.html" class="stretched-link btn btn-sm border border-warning rounded-pill px-4 text-decoration-none text-dark">
+							<a href="/media.php" class="stretched-link btn btn-sm border border-warning rounded-pill px-4 text-decoration-none text-dark">
 									Basında biz
 							</a>
 						</p>
 	
-						<p><a href="/contact.html"
+						<p><a href="/contact.php"
 								class="stretched-link btn btn-sm border border-warning rounded-pill px-4 text-decoration-none text-dark">İletişim</a>
 						</p>
 	

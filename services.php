@@ -23,107 +23,107 @@
             <div class="row services_text pl-3">
                 <div class="col-md-4 p-2">
                         <img style="width: 28px;" class="mr-2" src="assets/icons8-asthma-60.png" />
-                        <a class="text-decoration-none text-dark" href="/services.html#asthma">Astım</a>
+                        <a class="text-decoration-none text-dark" href="/services.php#asthma">Astım</a>
                     </div>
                     <div class="col-md-4 p-2">
                         <img style="width: 28px;" class="mr-2" src="assets/icons8-sprout-64.png" />
-                        <a class="text-decoration-none text-dark" href="/services.html#bio">Bioenerji</a>
+                        <a class="text-decoration-none text-dark" href="/services.php#bio">Bioenerji</a>
                     </div>
                     <div class="col-md-4 p-2">
                         <img style="width: 28px;" class="mr-2" src="assets/icons8-posture-100.png" />
-                        <a class="text-decoration-none text-dark" href="/services.html#spine">Bel ve Boyun Fıtığı Tedavisi</a>
+                        <a class="text-decoration-none text-dark" href="/services.php#spine">Bel ve Boyun Fıtığı Tedavisi</a>
                     </div>
                     <div class="col-md-4 p-2">
                         <img style="width: 28px;" class="mr-2" src="assets/icons8-colon-100 (1).png" />
-                        <a class="text-decoration-none text-dark" href="/services.html#bowelinfection"> Bağırsak İltihabı</a>
+                        <a class="text-decoration-none text-dark" href="/services.php#bowelinfection"> Bağırsak İltihabı</a>
                     </div>
                     <div class="col-md-4 p-2">
                         <img style="width: 28px;" class="mr-2" src="assets/icons8-colon-100 (2).png" />
-                        <a class="text-decoration-none text-dark" href="/services.html#bowellaziness">Bağırsak tembelliği</a>
+                        <a class="text-decoration-none text-dark" href="/services.php#bowellaziness">Bağırsak tembelliği</a>
                     </div>
                     <div class="col-md-4 p-2">
                         <img style="width: 27px;" class="mr-2" src="assets/icons8-brain-stroke-100.png" />
-                        <a class="text-decoration-none text-dark" href="/services.html#subsconcious">Bilinçaltı Temizliği</a>
+                        <a class="text-decoration-none text-dark" href="/services.php#subsconcious">Bilinçaltı Temizliği</a>
                     </div>
                     <div class="col-md-4 p-2">
                         <img style="width: 28px;" class="mr-2" src="assets/icons8-olive-100.png" />
-                        <a class="text-decoration-none text-dark" href="/services.html#vitamind">D Vitamini Eksikliği</a>
+                        <a class="text-decoration-none text-dark" href="/services.php#vitamind">D Vitamini Eksikliği</a>
                     </div>
                     <div class="col-md-4 p-2">
                         <img style="width: 28px;" class="mr-2" src="assets/icons8-therapy-60.png" />
-                        <a class="text-decoration-none text-dark" href="/services.html#estetic">Estetik Cilt Tedavisi</a>
+                        <a class="text-decoration-none text-dark" href="/services.php#estetic">Estetik Cilt Tedavisi</a>
                     </div>
                     <div class="col-md-4 p-2">
                         <img style="width: 32px;" class="mr-2" src="assets/icons8-epilepsy-smart-watch-128.png" />
-                        <a class="text-decoration-none text-dark" href="/services.html#epilepsi">Epilepsi</a>
+                        <a class="text-decoration-none text-dark" href="/services.php#epilepsi">Epilepsi</a>
                     </div>
                     <div class="col-md-4 p-2">
                         <img style="width: 28px;" class="mr-2" src="assets/icons8-general-massage-area-100.png" />
-                        <a class="text-decoration-none text-dark" href="/services.html#fibro">Fibromiyaliji</a>
+                        <a class="text-decoration-none text-dark" href="/services.php#fibro">Fibromiyaliji</a>
                     </div>
                     <div class="col-md-4 p-2">
                         <img style="width: 28px;" class="mr-2" src="assets/icons8-eye-160.png" />
-                        <a class="text-decoration-none text-dark" href="/services.html#eye">Göz Tedavisi (Frekans Yöntemi)</a>
+                        <a class="text-decoration-none text-dark" href="/services.php#eye">Göz Tedavisi (Frekans Yöntemi)</a>
                     </div>
                     <div class="col-md-4 p-2">
                         <img style="width: 28px;" class="mr-2" src="assets/icons8-physical-therapy-100.png" />
-                        <a class="text-decoration-none text-dark" href="/services.html#paralysis">Kısmi Felç Tedavisi</a>
+                        <a class="text-decoration-none text-dark" href="/services.php#paralysis">Kısmi Felç Tedavisi</a>
                     </div>
                     <div class="col-md-4 p-2">
                         <img style="width: 28px;" class="mr-2" src="assets/icons8-lungs-100.png" />
-                        <a class="text-decoration-none text-dark" href="/services.html#koah">KOAH Hastalığı</a>
+                        <a class="text-decoration-none text-dark" href="/services.php#koah">KOAH Hastalığı</a>
                     </div>
                     <div class="col-md-4 p-2">
                         <img style="width: 28px;" class="mr-2" src="assets/icons8-colon-100.png" />
-                        <a class="text-decoration-none text-dark" href="/services.html#kolit"> KOLİT</a>
+                        <a class="text-decoration-none text-dark" href="/services.php#kolit"> KOLİT</a>
                     </div>
                     <div class="col-md-4 p-2">
                         <img style="width: 28px;" class="mr-2" src="assets/icons8-development-skill-48.png" />
-                        <a class="text-decoration-none text-dark" href="/services.html#motivation">Motivasyon Artırım</a>
+                        <a class="text-decoration-none text-dark" href="/services.php#motivation">Motivasyon Artırım</a>
                     </div>
                     <div class="col-md-4 p-2">
                         <img style="width: 28px;" class="mr-2" src="assets/icons8-physics-128.png" />
-                        <a class="text-decoration-none text-dark" href="/services.html#metaphysics">Metafizik Unsurlar</a>
+                        <a class="text-decoration-none text-dark" href="/services.php#metaphysics">Metafizik Unsurlar</a>
                     </div>
                     <div class="col-md-4 p-2">
                         <img style="width: 32px;" class="mr-2" src="assets/icons8-standing-man-80.png" />
-                        <a class="text-decoration-none text-dark" href="/services.html#multiplskleroz">Multipl skleroz</a>
+                        <a class="text-decoration-none text-dark" href="/services.php#multiplskleroz">Multipl skleroz</a>
                     </div>
                     <div class="col-md-4 p-2">
                         <img style="width: 28px;" class="mr-2" src="assets/icons8-leg-48.png" />
-                        <a class="text-decoration-none text-dark" href="/services.html#meniskus">Menisküs Tedavisi</a>
+                        <a class="text-decoration-none text-dark" href="/services.php#meniskus">Menisküs Tedavisi</a>
                     </div>
                     <div class="col-md-4 p-2">
                         <img style="width: 28px;" class="mr-2" src="assets/icons8-syringe-128.png" />
-                        <a class="text-decoration-none text-dark" href="/services.html#substanceabuse">Madde Bağımlılığı</a>
+                        <a class="text-decoration-none text-dark" href="/services.php#substanceabuse">Madde Bağımlılığı</a>
                     </div>
                     <div class="col-md-4 p-2">
                         <img style="width: 28px;" class="mr-2" src="assets/icons8-bottle-of-water-100.png" />
-                        <a class="text-decoration-none text-dark" href="/services.html#minerallack">Mineral Eksikliği</a>
+                        <a class="text-decoration-none text-dark" href="/services.php#minerallack">Mineral Eksikliği</a>
                     </div>
                     <div class="col-md-4 p-2">
                         <img style="width: 28px;" class="mr-2" src="assets/icons8-headache-128.png" />
-                        <a class="text-decoration-none text-dark" href="/services.html#migren">Migren</a>
+                        <a class="text-decoration-none text-dark" href="/services.php#migren">Migren</a>
                     </div>
                     <div class="col-md-4 p-2">
                         <img style="width: 28px;" class="mr-2" src="assets/icons8-hair-brush-100.png" />
-                        <a class="text-decoration-none text-dark" href="/services.html#hair">Saç Tedavisi (Frekans Yöntemi)</a>
+                        <a class="text-decoration-none text-dark" href="/services.php#hair">Saç Tedavisi (Frekans Yöntemi)</a>
                     </div>
                     <div class="col-md-4 p-2">
                         <img style="width: 28px;" class="mr-2" src="assets/icons8-wise-mind-100.png" />
-                        <a class="text-decoration-none text-dark" href="/services.html#emotion">Terapi (Duygusal ve Zihinsel)</a>
+                        <a class="text-decoration-none text-dark" href="/services.php#emotion">Terapi (Duygusal ve Zihinsel)</a>
                     </div>
                     <div class="col-md-4 p-2">
                         <img style="width: 28px;" class="mr-2" src="assets/icons8-insomnia-160.png" />
-                        <a class="text-decoration-none text-dark" href="/services.html#sleep">Uyku Apnesi</a>
+                        <a class="text-decoration-none text-dark" href="/services.php#sleep">Uyku Apnesi</a>
                     </div>
                     <div class="col-md-4 p-2">
                         <img style="width: 28px;" class="mr-2" src="assets/icons8-personal-trainer-100.png" />
-                        <a class="text-decoration-none text-dark" href="/services.html#life">Yaşam Koçluğu</a>
+                        <a class="text-decoration-none text-dark" href="/services.php#life">Yaşam Koçluğu</a>
                     </div>
                     <div class="col-md-4 p-2">
                         <img style="width: 23px;" class="mr-2" src="assets/icons8-bandage-52.png" />
-                        <a class="text-decoration-none text-dark" href="/services.html#zona">Zona Hastalığı</a>
+                        <a class="text-decoration-none text-dark" href="/services.php#zona">Zona Hastalığı</a>
                     </div>
 
 
@@ -420,7 +420,7 @@
     
     
                     <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mt-3">
-                        <h4 class="text-uppercase mb-4 font-weight-bold"> <a href="/about.html">SELAHATTIN AKKAYA</a></h4>
+                        <h4 class="text-uppercase mb-4 font-weight-bold"> <a href="/about.php">SELAHATTIN AKKAYA</a></h4>
                         <p>Selahattin AKKAYA 1966 Erzurum doğumludur. Eğitim ve Öğretimini İstanbul’da tamamlamıştır. Dünya
                             çapında bu hizmeti veren AKKAYA gerekli bilgi, birikim, donanım ve referansa sahiptir.</p>
                     </div>
@@ -437,12 +437,12 @@
                         </p>
                         <p>
     
-                            <a href="/sessions.html"
+                            <a href="/sessions.php"
                                 class="stretched-link btn btn-sm border border-warning rounded-pill text-decoration-none text-dark px-4">Seanslar</a>
                         </p>
                         <p>
     
-                            <a href="/articles.html"
+                            <a href="/articles.php"
                                 class="stretched-link btn btn-sm border border-warning rounded-pill text-decoration-none text-dark px-4">Makaleler</a>
                         </p>
     
@@ -457,17 +457,17 @@
                     <div class="col-md-3 col-lg-2 col-xl-2 pt-3 mx-auto mt-4">
                         <p>
     
-                            <a href="/fromyou.html"
+                            <a href="/fromyou.php"
                                 class="stretched-link btn btn-sm border border-warning rounded-pill text-decoration-none text-dark px-4">Sizden
                                 gelenler</a>
                         </p>
                         <p>
-                            <a href="/media.html" class="stretched-link btn btn-sm border border-warning rounded-pill px-4 text-decoration-none text-dark">
+                            <a href="/media.php" class="stretched-link btn btn-sm border border-warning rounded-pill px-4 text-decoration-none text-dark">
                                     Basında biz
                             </a>
                         </p>
     
-                        <p><a href="/contact.html"
+                        <p><a href="/contact.php"
                                 class="stretched-link btn btn-sm border border-warning rounded-pill px-4 text-decoration-none text-dark">İletişim</a>
                         </p>
     
@@ -483,7 +483,7 @@
                             <a href="https://www.youtube.com/channel/UCzyIznzYBn1jLCziyT7QCOg" class=" text-decoration-none" style="font-size: 25px;color: #E62117">
                                 <i class="fab fa-youtube mr-3"></i>YouTube</a>
                         </p>
-                        <p><a href="/services.html#" class="text-decoration-none" style="font-size: 25px;color: #F58529">
+                        <p><a href="/services.php#" class="text-decoration-none" style="font-size: 25px;color: #F58529">
                                 <i class="fab fa-instagram mr-3"></i>Instagram</a>
                         </p>
                     </div>

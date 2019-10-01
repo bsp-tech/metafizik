@@ -19,10 +19,8 @@
                                 Medya
                             </button>
                             <div style="opacity: 0.9;" class="mt-2 dropdown-menu dropdown-menu-right">
-                                <a href="/fromyou.html" class="dropdown-item text-decoration-none ">Hastalarımızın Dilinden</a>
-                                <a href="/media.html" class="dropdown-item text-decoration-none">Basında biz</a>
-
-
+                                <a href="/fromyou.php" class="dropdown-item text-decoration-none ">Hastalarımızın Dilinden</a>
+                                <a href="/media.pho" class="dropdown-item text-decoration-none">Basında biz</a>
                             </div>
                         </div>
 

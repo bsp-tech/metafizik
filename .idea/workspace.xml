@@ -2,23 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da3c599d-62dd-4dff-84aa-95566da8af5b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/article.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/footer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fromyou.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fromyoudetails.html" beforeDir="false" afterPath="$PROJECT_DIR$/fromyoudetails.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/header.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mediadetails.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sessions.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videodetails.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.php" beforeDir="false" afterPath="$PROJECT_DIR$/about.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/articles.php" beforeDir="false" afterPath="$PROJECT_DIR$/articles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fromyou.php" beforeDir="false" afterPath="$PROJECT_DIR$/fromyou.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fromyou_oldversion.html" beforeDir="false" afterPath="$PROJECT_DIR$/fromyou_oldversion.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fromyoudetails.php" beforeDir="false" afterPath="$PROJECT_DIR$/fromyoudetails.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap-4.3.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap-4.3.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/fontawesome.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/fontawesome.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-3.3.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery-3.3.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/media-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media.php" beforeDir="false" afterPath="$PROJECT_DIR$/media.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menulist.php" beforeDir="false" afterPath="$PROJECT_DIR$/menulist.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services.php" beforeDir="false" afterPath="$PROJECT_DIR$/services.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sessions.php" beforeDir="false" afterPath="$PROJECT_DIR$/sessions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sessions_oldversion.html" beforeDir="false" afterPath="$PROJECT_DIR$/sessions_oldversion.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videodetails.php" beforeDir="false" afterPath="$PROJECT_DIR$/videodetails.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -41,8 +41,8 @@
       <file leaf-file-name="menulist.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/menulist.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="34" lean-forward="true" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+            <state relative-caret-position="345">
+              <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#li#4;n#ul#0;n#!!top" expanded="true" />
               </folding>
@@ -53,8 +53,8 @@
       <file leaf-file-name="menulistmobile.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/menulistmobile.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="150">
+              <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
               <folding>
                 <element signature="n#style#0;n#ul#0;n#!!top" expanded="true" />
               </folding>
@@ -69,7 +69,15 @@
       <find />
       <find>Sizden</find>
       <find>yt-th</find>
+      <find>.html</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>.php</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -170,31 +178,30 @@
       <workItem from="1569681550120" duration="198000" />
       <workItem from="1569683506250" duration="631000" />
       <workItem from="1569785463216" duration="1691000" />
-      <workItem from="1569965821077" duration="4863000" />
+      <workItem from="1569965821077" duration="5357000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4863000" />
+    <option name="totallyTimeSpent" value="5357000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1136" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32876712" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32876712" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32876712" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32876712" />
       <window_info anchor="right" id="Remote Host" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3190128" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3190128" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -329,8 +336,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/menulist.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="34" lean-forward="true" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+        <state relative-caret-position="345">
+          <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#li#4;n#ul#0;n#!!top" expanded="true" />
           </folding>
@@ -339,8 +346,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/menulistmobile.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="150">
+          <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
           <folding>
             <element signature="n#style#0;n#ul#0;n#!!top" expanded="true" />
           </folding>

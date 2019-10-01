@@ -44,7 +44,7 @@
   
     
         <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mt-3">
-          <h4 class="text-uppercase mb-4 font-weight-bold"> <a  href="/about.html">SELAHATTIN AKKAYA</a></h4>
+          <h4 class="text-uppercase mb-4 font-weight-bold"> <a  href="/about.php">SELAHATTIN AKKAYA</a></h4>
           <p>Selahattin AKKAYA 1966 Erzurum doğumludur. Eğitim ve Öğretimini İstanbul’da tamamlamıştır. Dünya çapında bu hizmeti veren AKKAYA gerekli bilgi, birikim, donanım ve referansa sahiptir.</p>
         </div>
        
@@ -58,11 +58,11 @@
             </p>
             <p>
               
-                <a  href="/sessions.html" class = "stretched-link btn btn-sm border border-warning rounded-pill text-decoration-none text-dark px-4">Seanslar</a>
+                <a  href="/sessions.php" class = "stretched-link btn btn-sm border border-warning rounded-pill text-decoration-none text-dark px-4">Seanslar</a>
             </p>
             <p>
               
-                <a href="/articles.html"  class = "stretched-link btn btn-sm border border-warning rounded-pill text-decoration-none text-dark px-4">Makaleler</a>
+                <a href="/articles.php"  class = "stretched-link btn btn-sm border border-warning rounded-pill text-decoration-none text-dark px-4">Makaleler</a>
             </p>
            
   
@@ -76,13 +76,13 @@
         <div class="col-md-3 col-lg-2 col-xl-2 pt-3 mx-auto mt-4">
             <p>
               
-                <a href="/fromyou.html"  class = "stretched-link btn btn-sm border border-warning rounded-pill text-decoration-none text-dark px-4">Sizden gelenler</a>
+                <a href="/fromyou.php"  class = "stretched-link btn btn-sm border border-warning rounded-pill text-decoration-none text-dark px-4">Sizden gelenler</a>
             </p>
           <p>
-            <a href="#!"><a href="/media.html" class = "stretched-link btn btn-sm border border-warning rounded-pill px-4 text-decoration-none text-dark">Basında biz</a></a>
+            <a href="#!"><a href="/media.php" class = "stretched-link btn btn-sm border border-warning rounded-pill px-4 text-decoration-none text-dark">Basında biz</a></a>
           </p>
           
-       <p><a href="/contact.html" class = "stretched-link btn btn-sm border border-warning rounded-pill px-4 text-decoration-none text-dark">İletişim</a></p>
+       <p><a href="/contact.php" class = "stretched-link btn btn-sm border border-warning rounded-pill px-4 text-decoration-none text-dark">İletişim</a></p>
          
         </div>
   

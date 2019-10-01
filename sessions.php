@@ -19,13 +19,13 @@
 		<div class="row pt-5">
 				<div class="pb-3 col-md-4">
 						<div class="col-12">
-							<a href="/videodetails.html">
+							<a href="/videodetails.php">
 								<img src="https://img.youtube.com/vi/6jiNS_4CEug/maxresdefault.jpg" class="img-thumbnail">
 							</a>
 						</div>
 						<div class="col-12 mt-1">
 							<h6 class="font-weight-bold">
-								<a href="/videodetails.html" class="text-decoration-none text-dark">
+								<a href="/videodetails.php" class="text-decoration-none text-dark">
 									<i aria-hidden="true" class="fa fa-play-circle text-primary"></i>
 									Funny Videos 2016 Funny Pranks.
 								</a>
@@ -33,13 +33,13 @@
 						</div>
 					</div><div class="pb-3 col-md-4">
 							<div class="col-12">
-								<a href="/videodetails.html">
+								<a href="/videodetails.php">
 									<img src="https://img.youtube.com/vi/6jiNS_4CEug/maxresdefault.jpg" class="img-thumbnail">
 								</a>
 							</div>
 							<div class="col-12 mt-1">
 								<h6 class="font-weight-bold">
-									<a href="/videodetails.html" class="text-decoration-none text-dark">
+									<a href="/videodetails.php" class="text-decoration-none text-dark">
 										<i aria-hidden="true" class="fa fa-play-circle text-primary"></i>
 										Funny Videos 2016 Funny Pranks.
 									</a>
@@ -47,13 +47,13 @@
 							</div>
 						</div><div class="pb-3 col-md-4">
 								<div class="col-12">
-									<a href="/videodetails.html">
+									<a href="/videodetails.php">
 										<img src="https://img.youtube.com/vi/6jiNS_4CEug/maxresdefault.jpg" class="img-thumbnail">
 									</a>
 								</div>
 								<div class="col-12 mt-1">
 									<h6 class="font-weight-bold">
-										<a href="/videodetails.html" class="text-decoration-none text-dark">
+										<a href="/videodetails.php" class="text-decoration-none text-dark">
 											<i aria-hidden="true" class="fa fa-play-circle text-primary"></i>
 											Funny Videos 2016 Funny Pranks.
 										</a>
@@ -61,13 +61,13 @@
 								</div>
 							</div><div class="pb-3 col-md-4">
 									<div class="col-12">
-										<a href="/videodetails.html">
+										<a href="/videodetails.php">
 											<img src="https://img.youtube.com/vi/6jiNS_4CEug/maxresdefault.jpg" class="img-thumbnail">
 										</a>
 									</div>
 									<div class="col-12 mt-1">
 										<h6 class="font-weight-bold">
-											<a href="/videodetails.html" class="text-decoration-none text-dark">
+											<a href="/videodetails.php" class="text-decoration-none text-dark">
 												<i aria-hidden="true" class="fa fa-play-circle text-primary"></i>
 												Funny Videos 2016 Funny Pranks.
 											</a>
@@ -75,13 +75,13 @@
 									</div>
 								</div><div class="pb-3 col-md-4">
 										<div class="col-12">
-											<a href="/videodetails.html">
+											<a href="/videodetails.php">
 												<img src="https://img.youtube.com/vi/6jiNS_4CEug/maxresdefault.jpg" class="img-thumbnail">
 											</a>
 										</div>
 										<div class="col-12 mt-1">
 											<h6 class="font-weight-bold">
-												<a href="/videodetails.html" class="text-decoration-none text-dark">
+												<a href="/videodetails.php" class="text-decoration-none text-dark">
 													<i aria-hidden="true" class="fa fa-play-circle text-primary"></i>
 													Funny Videos 2016 Funny Pranks.
 												</a>
@@ -89,13 +89,13 @@
 										</div>
 									</div><div class="pb-3 col-md-4">
 											<div class="col-12">
-												<a href="/videodetails.html">
+												<a href="/videodetails.php">
 													<img src="https://img.youtube.com/vi/6jiNS_4CEug/maxresdefault.jpg" class="img-thumbnail">
 												</a>
 											</div>
 											<div class="col-12 mt-1">
 												<h6 class="font-weight-bold">
-													<a href="/videodetails.html" class="text-decoration-none text-dark">
+													<a href="/videodetails.php" class="text-decoration-none text-dark">
 														<i aria-hidden="true" class="fa fa-play-circle text-primary"></i>
 														Funny Videos 2016 Funny Pranks.
 													</a>
@@ -103,13 +103,13 @@
 											</div>
 										</div><div class="pb-3 col-md-4">
 												<div class="col-12">
-													<a href="/videodetails.html">
+													<a href="/videodetails.php">
 														<img src="https://img.youtube.com/vi/6jiNS_4CEug/maxresdefault.jpg" class="img-thumbnail">
 													</a>
 												</div>
 												<div class="col-12 mt-1">
 													<h6 class="font-weight-bold">
-														<a href="/videodetails.html" class="text-decoration-none text-dark">
+														<a href="/videodetails.php" class="text-decoration-none text-dark">
 															<i aria-hidden="true" class="fa fa-play-circle text-primary"></i>
 															Funny Videos 2016 Funny Pranks.
 														</a>
@@ -117,13 +117,13 @@
 												</div>
 											</div><div class="pb-3 col-md-4">
 													<div class="col-12">
-														<a href="/videodetails.html">
+														<a href="/videodetails.php">
 															<img src="https://img.youtube.com/vi/6jiNS_4CEug/maxresdefault.jpg" class="img-thumbnail">
 														</a>
 													</div>
 													<div class="col-12 mt-1">
 														<h6 class="font-weight-bold">
-															<a href="/videodetails.html" class="text-decoration-none text-dark">
+															<a href="/videodetails.php" class="text-decoration-none text-dark">
 																<i aria-hidden="true" class="fa fa-play-circle text-primary"></i>
 																Funny Videos 2016 Funny Pranks.
 															</a>
@@ -131,13 +131,13 @@
 													</div>
 												</div><div class="pb-3 col-md-4">
 														<div class="col-12">
-															<a href="/videodetails.html">
+															<a href="/videodetails.php">
 																<img src="https://img.youtube.com/vi/6jiNS_4CEug/maxresdefault.jpg" class="img-thumbnail">
 															</a>
 														</div>
 														<div class="col-12 mt-1">
 															<h6 class="font-weight-bold">
-																<a href="/videodetails.html" class="text-decoration-none text-dark">
+																<a href="/videodetails.php" class="text-decoration-none text-dark">
 																	<i aria-hidden="true" class="fa fa-play-circle text-primary"></i>
 																	Funny Videos 2016 Funny Pranks.
 																</a>
@@ -145,13 +145,13 @@
 														</div>
 													</div><div class="pb-3 col-md-4">
 															<div class="col-12">
-																<a href="/videodetails.html">
+																<a href="/videodetails.php">
 																	<img src="https://img.youtube.com/vi/6jiNS_4CEug/maxresdefault.jpg" class="img-thumbnail">
 																</a>
 															</div>
 															<div class="col-12 mt-1">
 																<h6 class="font-weight-bold">
-																	<a href="/videodetails.html" class="text-decoration-none text-dark">
+																	<a href="/videodetails.php" class="text-decoration-none text-dark">
 																		<i aria-hidden="true" class="fa fa-play-circle text-primary"></i>
 																		Funny Videos 2016 Funny Pranks.
 																	</a>
@@ -159,13 +159,13 @@
 															</div>
 														</div><div class="pb-3 col-md-4">
 																<div class="col-12">
-																	<a href="/videodetails.html">
+																	<a href="/videodetails.php">
 																		<img src="https://img.youtube.com/vi/6jiNS_4CEug/maxresdefault.jpg" class="img-thumbnail">
 																	</a>
 																</div>
 																<div class="col-12 mt-1">
 																	<h6 class="font-weight-bold">
-																		<a href="/videodetails.html" class="text-decoration-none text-dark">
+																		<a href="/videodetails.php" class="text-decoration-none text-dark">
 																			<i aria-hidden="true" class="fa fa-play-circle text-primary"></i>
 																			Funny Videos 2016 Funny Pranks.
 																		</a>
@@ -173,13 +173,13 @@
 																</div>
 															</div><div class="pb-3 col-md-4">
 																	<div class="col-12">
-																		<a href="/videodetails.html">
+																		<a href="/videodetails.php">
 																			<img src="https://img.youtube.com/vi/6jiNS_4CEug/maxresdefault.jpg" class="img-thumbnail">
 																		</a>
 																	</div>
 																	<div class="col-12 mt-1">
 																		<h6 class="font-weight-bold">
-																			<a href="/videodetails.html" class="text-decoration-none text-dark">
+																			<a href="/videodetails.php" class="text-decoration-none text-dark">
 																				<i aria-hidden="true" class="fa fa-play-circle text-primary"></i>
 																				Funny Videos 2016 Funny Pranks.
 																			</a>
@@ -203,7 +203,7 @@
 
 
                 <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mt-3">
-                    <h4 class="text-uppercase mb-4 font-weight-bold"> <a href="/about.html">SELAHATTIN AKKAYA</a></h4>
+                    <h4 class="text-uppercase mb-4 font-weight-bold"> <a href="/about.php">SELAHATTIN AKKAYA</a></h4>
                     <p>Selahattin AKKAYA 1966 Erzurum doğumludur. Eğitim ve Öğretimini İstanbul’da tamamlamıştır. Dünya
                         çapında bu hizmeti veren AKKAYA gerekli bilgi, birikim, donanım ve referansa sahiptir.</p>
                 </div>
@@ -220,12 +220,12 @@
                     </p>
                     <p>
 
-                        <a href="/sessions.html"
+                        <a href="/sessions.php"
                             class="stretched-link btn btn-sm border border-warning rounded-pill text-decoration-none text-dark px-4">Seanslar</a>
                     </p>
                     <p>
 
-                        <a href="/articles.html"
+                        <a href="/articles.php"
                             class="stretched-link btn btn-sm border border-warning rounded-pill text-decoration-none text-dark px-4">Makaleler</a>
                     </p>
 
@@ -240,17 +240,17 @@
                 <div class="col-md-3 col-lg-2 col-xl-2 pt-3 mx-auto mt-4">
                     <p>
 
-                        <a href="/fromyou.html"
+                        <a href="/fromyou.php"
                             class="stretched-link btn btn-sm border border-warning rounded-pill text-decoration-none text-dark px-4">Sizden
                             gelenler</a>
                     </p>
                     <p>
-                        <a href="/services.html#!"><a href="/media.html"
+                        <a href="/services.php#!"><a href="/media.php"
                                 class="stretched-link btn btn-sm border border-warning rounded-pill px-4 text-decoration-none text-dark">Basında
                                 biz</a></a>
                     </p>
 
-                    <p><a href="/contact.html"
+                    <p><a href="/contact.php"
                             class="stretched-link btn btn-sm border border-warning rounded-pill px-4 text-decoration-none text-dark">İletişim</a>
                     </p>
 
@@ -266,7 +266,7 @@
                         <a href="https://www.youtube.com/channel/UCzyIznzYBn1jLCziyT7QCOg" class=" text-decoration-none" style="font-size: 25px;color: #E62117">
                             <i class="fab fa-youtube mr-3"></i>YouTube</a>
                     </p>
-                    <p><a href="/services.html#" class="text-decoration-none" style="font-size: 25px;color: #F58529">
+                    <p><a href="/services.php#" class="text-decoration-none" style="font-size: 25px;color: #F58529">
                             <i class="fab fa-instagram mr-3"></i>Instagram</a>
                     </p>
                 </div>
