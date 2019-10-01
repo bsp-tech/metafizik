@@ -1,6 +1,6 @@
 <ul style="font-size: 23px;"
                     class="list-unstyled text-light d-flex flex-column justify-content-end align-items-end mt-2">
-                    <li class="d-inline-block  mt-2 mr-2  px-3 py-1"><a href=""
+                    <li class="d-inline-block  mt-2 mr-2  px-3 py-1"><a href="/"
                             class="text-decoration-none text-white">Ana Sayfa</a></li>
                     <li class="d-inline-block   mt-2 mr-2   px-3 py-1"><a href="/sessions.php"
                             class="text-decoration-none text-white">Seanslar</a></li>
