@@ -104,3 +104,7 @@ hr{
     background-position: 0px -33px;
     min-width: 317px;
 }
+
+.hover{
+    cursor: pointer;
+}

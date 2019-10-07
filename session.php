@@ -11,7 +11,7 @@
 
 
     <?php
-        $videos = RestApi::getFromYous();
+        $videos = RestApi::getSessions();
         $video = RestApi::getYoutubeVideoList([$_GET['id']])[0];
     ?>
 
