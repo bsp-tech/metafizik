@@ -41,6 +41,28 @@ class RestApi
         return $response;
     }
 
+    public static function getSessions(){
+
+        $ids = [
+            "iD4nyV-XR5E",
+            "vaaGpOcLcxc",
+            "CXTJbTRxs3g",
+            "bJ--1vcLkok",
+            "7oLJMYV80lY",
+
+            "W6pFKBEhFqE",
+
+            "29ZmFAF-huo",
+
+            "3XoAIjNURkU",
+
+            "7XQDnZt9XAs"
+        ];
+
+        $response = RestApi::getYoutubeVideoList($ids);
+        return $response;
+    }
+
     public static function getYoutubeVideoList($ids){
         $idsStr = "";
         $idsSize = sizeof($ids);

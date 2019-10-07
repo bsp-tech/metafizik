@@ -1,3 +1,5 @@
+<?php require ('RestApi.php'); ?>
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -13,278 +15,134 @@
         <link href="css/style.css" rel="stylesheet">
      </head>
 <body>
-	<?php require('header.php');?>
+    
+<?php require('header.php');?>
+
 
 	<div class="container">
 		<div class="row pt-5">
+            <?php
+            $youtubeVides = RestApi::getSessions();
+            for($i=0;$i<sizeof($youtubeVides);$i++){
+                $video = $youtubeVides[$i];
+                $videoSnippet = $youtubeVides[$i]['snippet'];
+
+                $videoImage = $videoSnippet['thumbnails']['high']['url'];
+            ?>
 				<div class="pb-3 col-md-4">
 						<div class="col-12">
-							<a href="/videodetails.php">
-								<img src="https://img.youtube.com/vi/6jiNS_4CEug/maxresdefault.jpg" class="img-thumbnail">
+							<a href="/fromyoudetails.php?id=<?=$video['id']?>">
+                                <div style="background-image: url(<?=$videoImage?>);"
+                                     class="img-thumbnail yt-thumbnail"></div>
 							</a>
 						</div>
 						<div class="col-12 mt-1">
 							<h6 class="font-weight-bold">
-								<a href="/videodetails.php" class="text-decoration-none text-dark">
+								<a href="/fromyoudetails.php?id=<?=$videoSnippet['id']?>" class="text-decoration-none text-dark">
 									<i aria-hidden="true" class="fa fa-play-circle text-primary"></i>
-									Funny Videos 2016 Funny Pranks.
+									<?=$videoSnippet['title']?>
 								</a>
 							</h6>
 						</div>
-					</div><div class="pb-3 col-md-4">
-							<div class="col-12">
-								<a href="/videodetails.php">
-									<img src="https://img.youtube.com/vi/6jiNS_4CEug/maxresdefault.jpg" class="img-thumbnail">
-								</a>
-							</div>
-							<div class="col-12 mt-1">
-								<h6 class="font-weight-bold">
-									<a href="/videodetails.php" class="text-decoration-none text-dark">
-										<i aria-hidden="true" class="fa fa-play-circle text-primary"></i>
-										Funny Videos 2016 Funny Pranks.
-									</a>
-								</h6>
-							</div>
-						</div><div class="pb-3 col-md-4">
-								<div class="col-12">
-									<a href="/videodetails.php">
-										<img src="https://img.youtube.com/vi/6jiNS_4CEug/maxresdefault.jpg" class="img-thumbnail">
-									</a>
-								</div>
-								<div class="col-12 mt-1">
-									<h6 class="font-weight-bold">
-										<a href="/videodetails.php" class="text-decoration-none text-dark">
-											<i aria-hidden="true" class="fa fa-play-circle text-primary"></i>
-											Funny Videos 2016 Funny Pranks.
-										</a>
-									</h6>
-								</div>
-							</div><div class="pb-3 col-md-4">
-									<div class="col-12">
-										<a href="/videodetails.php">
-											<img src="https://img.youtube.com/vi/6jiNS_4CEug/maxresdefault.jpg" class="img-thumbnail">
-										</a>
-									</div>
-									<div class="col-12 mt-1">
-										<h6 class="font-weight-bold">
-											<a href="/videodetails.php" class="text-decoration-none text-dark">
-												<i aria-hidden="true" class="fa fa-play-circle text-primary"></i>
-												Funny Videos 2016 Funny Pranks.
-											</a>
-										</h6>
-									</div>
-								</div><div class="pb-3 col-md-4">
-										<div class="col-12">
-											<a href="/videodetails.php">
-												<img src="https://img.youtube.com/vi/6jiNS_4CEug/maxresdefault.jpg" class="img-thumbnail">
-											</a>
-										</div>
-										<div class="col-12 mt-1">
-											<h6 class="font-weight-bold">
-												<a href="/videodetails.php" class="text-decoration-none text-dark">
-													<i aria-hidden="true" class="fa fa-play-circle text-primary"></i>
-													Funny Videos 2016 Funny Pranks.
-												</a>
-											</h6>
-										</div>
-									</div><div class="pb-3 col-md-4">
-											<div class="col-12">
-												<a href="/videodetails.php">
-													<img src="https://img.youtube.com/vi/6jiNS_4CEug/maxresdefault.jpg" class="img-thumbnail">
-												</a>
-											</div>
-											<div class="col-12 mt-1">
-												<h6 class="font-weight-bold">
-													<a href="/videodetails.php" class="text-decoration-none text-dark">
-														<i aria-hidden="true" class="fa fa-play-circle text-primary"></i>
-														Funny Videos 2016 Funny Pranks.
-													</a>
-												</h6>
-											</div>
-										</div><div class="pb-3 col-md-4">
-												<div class="col-12">
-													<a href="/videodetails.php">
-														<img src="https://img.youtube.com/vi/6jiNS_4CEug/maxresdefault.jpg" class="img-thumbnail">
-													</a>
-												</div>
-												<div class="col-12 mt-1">
-													<h6 class="font-weight-bold">
-														<a href="/videodetails.php" class="text-decoration-none text-dark">
-															<i aria-hidden="true" class="fa fa-play-circle text-primary"></i>
-															Funny Videos 2016 Funny Pranks.
-														</a>
-													</h6>
-												</div>
-											</div><div class="pb-3 col-md-4">
-													<div class="col-12">
-														<a href="/videodetails.php">
-															<img src="https://img.youtube.com/vi/6jiNS_4CEug/maxresdefault.jpg" class="img-thumbnail">
-														</a>
-													</div>
-													<div class="col-12 mt-1">
-														<h6 class="font-weight-bold">
-															<a href="/videodetails.php" class="text-decoration-none text-dark">
-																<i aria-hidden="true" class="fa fa-play-circle text-primary"></i>
-																Funny Videos 2016 Funny Pranks.
-															</a>
-														</h6>
-													</div>
-												</div><div class="pb-3 col-md-4">
-														<div class="col-12">
-															<a href="/videodetails.php">
-																<img src="https://img.youtube.com/vi/6jiNS_4CEug/maxresdefault.jpg" class="img-thumbnail">
-															</a>
-														</div>
-														<div class="col-12 mt-1">
-															<h6 class="font-weight-bold">
-																<a href="/videodetails.php" class="text-decoration-none text-dark">
-																	<i aria-hidden="true" class="fa fa-play-circle text-primary"></i>
-																	Funny Videos 2016 Funny Pranks.
-																</a>
-															</h6>
-														</div>
-													</div><div class="pb-3 col-md-4">
-															<div class="col-12">
-																<a href="/videodetails.php">
-																	<img src="https://img.youtube.com/vi/6jiNS_4CEug/maxresdefault.jpg" class="img-thumbnail">
-																</a>
-															</div>
-															<div class="col-12 mt-1">
-																<h6 class="font-weight-bold">
-																	<a href="/videodetails.php" class="text-decoration-none text-dark">
-																		<i aria-hidden="true" class="fa fa-play-circle text-primary"></i>
-																		Funny Videos 2016 Funny Pranks.
-																	</a>
-																</h6>
-															</div>
-														</div><div class="pb-3 col-md-4">
-																<div class="col-12">
-																	<a href="/videodetails.php">
-																		<img src="https://img.youtube.com/vi/6jiNS_4CEug/maxresdefault.jpg" class="img-thumbnail">
-																	</a>
-																</div>
-																<div class="col-12 mt-1">
-																	<h6 class="font-weight-bold">
-																		<a href="/videodetails.php" class="text-decoration-none text-dark">
-																			<i aria-hidden="true" class="fa fa-play-circle text-primary"></i>
-																			Funny Videos 2016 Funny Pranks.
-																		</a>
-																	</h6>
-																</div>
-															</div><div class="pb-3 col-md-4">
-																	<div class="col-12">
-																		<a href="/videodetails.php">
-																			<img src="https://img.youtube.com/vi/6jiNS_4CEug/maxresdefault.jpg" class="img-thumbnail">
-																		</a>
-																	</div>
-																	<div class="col-12 mt-1">
-																		<h6 class="font-weight-bold">
-																			<a href="/videodetails.php" class="text-decoration-none text-dark">
-																				<i aria-hidden="true" class="fa fa-play-circle text-primary"></i>
-																				Funny Videos 2016 Funny Pranks.
-																			</a>
-																		</h6>
-																	</div>
-																</div>
-			 
-			<div class="row col-4 mt-5 mb-5 offset-5">
-					<button class="btn btn-dark text-light">DAHA FAZLA</button>
-			</div>
+				</div>
+            <?php }?>
+            <div class="col-md-12 mt-3 text-center">
+                <a href="https://www.youtube.com/channel/UCzyIznzYBn1jLCziyT7QCOg/videos" class="btn btn-warning">
+                    TÜM SEANSLARI GÖR
+                </a>
+            </div>
 		</div>
 		
 	</div>
 <hr>
-<footer class="page-footer font-small mdb-color pt-4">
+	<footer class="page-footer font-small mdb-color pt-4">
 
-
+        
         <div class="container text-center text-md-left">
-
-            <div class="row text-center text-md-left mt-3 pb-3">
-
-
-                <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mt-3">
-                    <h4 class="text-uppercase mb-4 font-weight-bold"> <a href="/about.php">SELAHATTIN AKKAYA</a></h4>
-                    <p>Selahattin AKKAYA 1966 Erzurum doğumludur. Eğitim ve Öğretimini İstanbul’da tamamlamıştır. Dünya
-                        çapında bu hizmeti veren AKKAYA gerekli bilgi, birikim, donanım ve referansa sahiptir.</p>
-                </div>
-
-
-                <hr class="w-100 clearfix d-md-none">
-
-                <div class="col-md-2 col-lg-2 col-xl-2  pt-3 mx-auto mt-4">
-                    <p>
-
-                        <a href="/"
-                            class="stretched-link btn btn-sm border border-warning rounded-pill text-decoration-none text-dark px-4">Ana
-                            sayfa</a>
-                    </p>
-                    <p>
-
-                        <a href="/sessions.php"
-                            class="stretched-link btn btn-sm border border-warning rounded-pill text-decoration-none text-dark px-4">Seanslar</a>
-                    </p>
-                    <p>
-
-                        <a href="/articles.php"
-                            class="stretched-link btn btn-sm border border-warning rounded-pill text-decoration-none text-dark px-4">Makaleler</a>
-                    </p>
-
-
-
-                </div>
-
-
-                <hr class="w-100 clearfix d-md-none">
-
-
-                <div class="col-md-3 col-lg-2 col-xl-2 pt-3 mx-auto mt-4">
-                    <p>
-
-                        <a href="/fromyou.php"
-                            class="stretched-link btn btn-sm border border-warning rounded-pill text-decoration-none text-dark px-4">Sizden
-                            gelenler</a>
-                    </p>
-                    <p>
-                        <a href="/services.php#!"><a href="/media.php"
-                                class="stretched-link btn btn-sm border border-warning rounded-pill px-4 text-decoration-none text-dark">Basında
-                                biz</a></a>
-                    </p>
-
-                    <p><a href="/contact.php"
-                            class="stretched-link btn btn-sm border border-warning rounded-pill px-4 text-decoration-none text-dark">İletişim</a>
-                    </p>
-
-                </div>
-
-
-                <hr class="w-100 clearfix d-md-none">
-
-
-                <div class="col-md-4 col-lg-4 d-flex align-items-center flex-column col-xl-3 mx-auto mt-3">
-                    <h4 class="text-uppercase mb-4 font-weight-bold text-primary">Sosyal ağ</h4>
-                    <p>
-                        <a href="https://www.youtube.com/channel/UCzyIznzYBn1jLCziyT7QCOg" class=" text-decoration-none" style="font-size: 25px;color: #E62117">
-                            <i class="fab fa-youtube mr-3"></i>YouTube</a>
-                    </p>
-                    <p><a href="/services.php#" class="text-decoration-none" style="font-size: 25px;color: #F58529">
-                            <i class="fab fa-instagram mr-3"></i>Instagram</a>
-                    </p>
-                </div>
+      
+          <div class="row text-center text-md-left mt-3 pb-3">
+      
+        
+            <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mt-3">
+              <h4 class="text-uppercase mb-4 font-weight-bold"> <a  href="/about.php">SELAHATTIN AKKAYA</a></h4>
+              <p>Selahattin AKKAYA 1966 Erzurum doğumludur. Eğitim ve Öğretimini İstanbul’da tamamlamıştır. Dünya çapında bu hizmeti veren AKKAYA gerekli bilgi, birikim, donanım ve referansa sahiptir.</p>
             </div>
-            <hr>
-            <div class="row d-flex justif  justify-content-center">
-                <div class="">
-                    <p class="text-center text-md-left"> <strong>
-                            © 2019 Developed by:
-                        </strong>
-                        <a href="http://www.bsptechs.com">
-                            <strong>BSP TECH</strong>
-                        </a>
-                    </p>
-                </div>
+           
+      
+            <hr class="w-100 clearfix d-md-none">
+      
+            <div class="col-md-2 col-lg-2 col-xl-2  pt-3 mx-auto mt-4">
+                <p>
+                  
+                    <a href="/" class = "stretched-link btn btn-sm border border-warning rounded-pill text-decoration-none text-dark px-4">Ana sayfa</a>
+                </p>
+                <p>
+                  
+                    <a  href="/sessions.php" class = "stretched-link btn btn-sm border border-warning rounded-pill text-decoration-none text-dark px-4">Seanslar</a>
+                </p>
+                <p>
+                  
+                    <a href="/articles.php"  class = "stretched-link btn btn-sm border border-warning rounded-pill text-decoration-none text-dark px-4">Makaleler</a>
+                </p>
+               
+      
+             
+             </div>
+          
+      
+            <hr class="w-100 clearfix d-md-none">
+      
+          
+            <div class="col-md-3 col-lg-2 col-xl-2 pt-3 mx-auto mt-4">
+                <p>
+                  
+                    <a href="/fromyou.php"  class = "stretched-link btn btn-sm border border-warning rounded-pill text-decoration-none text-dark px-4">Sizden gelenler</a>
+                </p>
+              <p>
+                <a href="#!"><a href="/media.php" class = "stretched-link btn btn-sm border border-warning rounded-pill px-4 text-decoration-none text-dark">Basında biz</a></a>
+              </p>
+              
+           <p><a href="/contact.php" class = "stretched-link btn btn-sm border border-warning rounded-pill px-4 text-decoration-none text-dark">İletişim</a></p>
+             
             </div>
+      
+            
+            <hr class="w-100 clearfix d-md-none">
+      
+          
+            <div class="col-md-4 col-lg-4 d-flex align-items-center flex-column col-xl-3 mx-auto mt-3">
+              <h4 class="text-uppercase mb-4 font-weight-bold text-primary">Sosyal ağ</h4>
+             <p>
+                <a href="dasd" class=" text-decoration-none" style="font-size: 25px;color: #E62117">
+                    <i class="fab fa-youtube mr-3"></i>YouTube</a>
+             </p>
+              <p><a href="#" class="text-decoration-none" style="font-size: 25px;color: #F58529">
+                  <i class="fab fa-instagram mr-3"></i>Instagram</a>
+              </p>
+            </div>
+            
+      
+          </div>
+     
+      
+          <hr>
+      
+          <div class="row d-flex justif  justify-content-center">
+      
+            
+            <div class="">
+                
+             
+              <p class="text-center text-md-left">© 2019 -All Rights Reserved.Developed by:
+                <a href="http://www.bsptechs.com">
+                  <strong> BSP-TECH</strong>
+                </a>
+              </p>
+      
+            </div>
+          </div>
         </div>
-    </footer>
+      </footer>
 	<script src="/js/fontawesome.js"></script>
 	<script src="/js/jquery-3.3.1.js"></script>
 	<script src="/js/popper-1.14.7.js"></script>
