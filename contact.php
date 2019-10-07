@@ -9,7 +9,7 @@
     <section>
         <h1 class="text-center py-3 font-weight-bold">Iletişime Geçin</h1>
         <div class="alert alert-warning font-weight-bold blockquote-footer px-5 mx-5 shadow">
-            Pazar hariç hergün saat 10:00 ile 17:00 arası iletişime geçiniz: +90 530 184 45 50
+            Cuma hariç hergün saat 10:00 ile 17:00 arası arama yapınız. Çalışma saati haricinde whatsappdan yaza bilirsinizz: +90 530 184 45 50
         </div>
         <div class="container my-5">
             <div class="row shadow-lg p-2 py-4">
@@ -17,8 +17,12 @@
                     <div class="contact p-2 w-100 text-muted">
                         <p class = "p-1"><i class="fas fa-home pr-2"></i>Yenibosna merkez mah güneşli Yolu Caddesi no 2/3 h blok kat 2 ofis 27 ikebana Evleri -Bahçelievler İstanbul Türkiye</p>
                         <p class = "p-1"><i class="fas fa-envelope pr-2"></i>info@metafizik.com.tr</p>
-                        <p class = "p-1"><i class="fas fa-phone-alt pr-2"></i>+90 530 184 45 50 (Pazar hariç hergün saat 10:00 ile 17:00 arası iletişime geçiniz)</p>
-                        <p class = "p-1"><i class="far fa-comment-dots pr-2"></i>Aşağı sağ köşedeki yuvarlak mesaj kutusuna tıklayarak direkt site içi mesaj yaza bilirsiniz. Operatorlerimiz kısa sürede size cevap vereceklerdir</p>
+                        <p class = "p-1"><i class="fas fa-phone-alt pr-2"></i>Cuma hariç hergün saat 10:00 ile 17:00 arası arama yapınız. Çalışma saati haricinde whatsappdan yaza bilirsinizz: +90 530 184 45 50</p>
+                        <p class = "p-1">
+                            <a href="https://wa.me/+905301844550" class="text-decoration-none text-dark">
+                                <img src="/assets/whatsapp.png" style="width: 50px"/> Whatsapp
+                            </a>
+                        </p>
                     </div>
                 </div>
                 <!--map-->
