@@ -27,7 +27,7 @@
                     for($i=0;$i<sizeof($articles);$i++){
                         $article = $articles[$i];
                         $desc = $article['description'];
-                        $desc = strlen($desc)>300?mb_substr($desc,0, 300).'...':$desc;
+                        $desc = strlen($desc)>300?substr($desc,0, 299).'...':$desc;
                     ?>
                     <div class="row my-3 hover">
                         <div class="col-4">
