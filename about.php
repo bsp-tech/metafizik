@@ -22,7 +22,14 @@
 
 					Türkiye’de bu alanın gelişmesi ve ülkeye pozitif anlamda katkı sağlaması için profesyonel çalışmalara devam eden Akkaya, yerli ve milli önem kaygısı ile yurtiçinde çeşitli eğitimler vermektedir.</br>
 				</p>
+
 			</div>
+            <div class="col-sm-12 col-md-12 col-lg-12 mt-4" >
+                <iframe width="100%" height="500" src="https://www.youtube.com/embed/padZPcOUD_8" frameborder="0"
+                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe>
+            </div>
+
 		</div>		
 	</div>
 <?php require ('footer.php'); ?>

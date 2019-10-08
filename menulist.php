@@ -1,5 +1,5 @@
 <ul class="list-unstyled text-light mt-2">
-                    <li class="d-inline-block border border-light rounded-pill mt-2   px-3 py-1"><a href="/"
+                    <li class="d-inline-block border border-light rounded-pill mt-2   px-3 py-1"><a href="/ "
                             class="text-decoration-none text-white">Ana Sayfa</a></li>
                     <li class="d-inline-block  border border-light rounded-pill mt-2 ml-2   px-3 py-1"><a
                             href="/sessions.php" class="text-decoration-none text-white">Seanslar</a></li>

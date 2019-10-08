@@ -20,14 +20,11 @@ body{
     right:20px;
 }
 .abs-navbar{
-    position: absolute;
     width: 100%;
-    z-index: 9999;
     padding: 0px !important;
 }
 .back_image{
     background-image: url("../img/bg.jpg");
-    
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -78,12 +75,18 @@ hr{
     border-color: gainsboro;
 }
 .back_image_content{
-    margin-top: 25%;
+    /*margin-top: 16%;*/
 }
 .back_image_text {
     font-size: 40px;
     font-family: 'Montserrat', sans-serif;
     font-weight:600 ;
+}
+.back_image_title {
+    margin-bottom: 13%;
+    /*margin-top: 8%;*/
+    font-size: 24px;
+    font-family: inherit;
 }
 
 .own_logo span{

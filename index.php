@@ -8,63 +8,70 @@
 
 <body>
     <?php require ('whatsapp.php');?>
-    <nav class="navbar mobilnav navbar-inverse  abs-navbar d-lg-none">
-        <div class="container-fluid">
-            <a href="/" class="col-8 own_logo text-decoration-none">
-                <span style="color: #ff7700;">SELAHATTIN</span><span class="text-light"> AKKAYA</span>
-            </a>
-            <div class="navbar-header">
-                <button type="button" class="clicknav navbar-toggle border-0 bg-transparent text-white"
-                    data-toggle="collapse" data-target="#myNavbar" aria-expanded="true">
-                    <span style="font-size: 2.5em;">
-                        <i class="fas fa-bars"></i>
-                    </span>
-                </button>
+    <section class="back_image">
+        <nav class="navbar mobilnav navbar-inverse  abs-navbar d-lg-none">
+            <div class="container-fluid">
+                <a href="/" class="col-8 own_logo text-decoration-none">
+                    <span style="color: #ff7700;">SELAHATTIN</span><span class="text-light"> AKKAYA</span>
+                </a>
+                <div class="navbar-header">
+                    <button type="button" class="clicknav navbar-toggle border-0 bg-transparent text-white"
+                        data-toggle="collapse" data-target="#myNavbar" aria-expanded="true">
+                        <span style="font-size: 2.5em;">
+                            <i class="fas fa-bars"></i>
+                        </span>
+                    </button>
+                </div>
+                <div class="navbar-collapse collapse" id="myNavbar">
+                <?php require('menulistmobile.php');?>
+                </div>
             </div>
-            <div class="navbar-collapse collapse" id="myNavbar">
-            <?php require('menulistmobile.php');?>
+        </nav>
+        <section style="margin-bottom: 5%;" class="text-right bg-transparent abs-navbar  navbar  text-white d-none d-lg-block">
+            <div class="row m-0 pt-3 pb-2">
+                <a href="/" class="text-center own_logo col-4 mt-3 text-decoration-none">
+                    <span style="color: #ff7700;">SELAHATTIN</span><span class="text-light"> AKKAYA</span>
+                </a>
+                <div class="col-8">
+                    <?php require('menulist.php');?>
+                </div>
             </div>
-        </div>
-    </nav>
-    <section style="z-index: 9999;" class="text-right bg-transparent abs-navbar  navbar  text-white d-none d-lg-block">
-        <div class="row m-0 pt-3 pb-2">
-            <a href="/" class="text-center own_logo col-4 mt-3 text-decoration-none">
-                <span style="color: #ff7700;">SELAHATTIN</span><span class="text-light"> AKKAYA</span>
-            </a>
-            <div class="col-8">
-                <?php require('menulist.php');?>
-            </div>
-        </div>
-    </section>
-    </section>
+        </section>
 
-    <section>
-        <div class="back_image">
-            <div class="container">
-                <div class="row">
-                    <div class="d-flex col-md-8 mx-auto back_image_content text-light flex-column align-items-center justify-content-center ">
+        <section>
+                <div class="container">
+                    <div class="row">
+                        <div class="d-flex col-md-8 mx-auto back_image_content text-light flex-column align-items-center justify-content-center ">
+                            <span class="back_image_title text-center">
+                                   Metafizik ve Bionerji seanslarıyla hastalıklarınızdan kurtulun
+                            </span>
+                            <div class="back_image_text text-center">Selahattin Akkaya Kimdir</div>
 
-                        <div class="back_image_text text-center">Selahattin Akkaya Kimdir</div>
-
-                        <div style="width: 132px">
-                            <div class="border border-light rounded-pill mt-2 px-3 py-1 text-center">
-                                <a href="/about.php" class="text-decoration-none text-white" target="_blank">
-                                    DAHA FAZLA
-                                </a>
+                            <div style="width: 132px" class="mt-4">
+                                <div class="border border-light rounded-pill mt-2 px-3 py-1 text-center">
+                                    <a href="/about.php" class="text-decoration-none text-white" target="_blank">
+                                        DAHA FAZLA
+                                    </a>
+                                </div>
                             </div>
-                        </div>
-                        <div class="text-center border border-light rounded-pill px-3 py-1 down">
-                            <span>Hastalarımızın yorumları</span>
+                            <div class="text-center border border-light rounded-pill px-3 py-1 down" data-ol-has-click-handler="">
+                                <span>Hastalarımızın yorumları</span>
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
-        </div>
+        </section>
     </section>
-        
     <section>
-        <div class="container up pt-4">
-            <h2 class="mb-4 text-center">HASTALARIMIZIN DİLİNDEN</h2>
+        <div class="container pt-4">
+            <div class="row mt-3 mb-4">
+                <div class="col-md-12">
+                    <iframe width="100%" height="500" src="https://www.youtube.com/embed/padZPcOUD_8" frameborder="0"
+                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen></iframe>
+                </div>
+            </div>
+            <h2 class="mb-4 text-center up">HASTALARIMIZIN DİLİNDEN</h2>
             <?php
             $videos = RestApi::getFromYousMain();
             $b = true;
