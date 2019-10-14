@@ -2,7 +2,10 @@
 <html>
 
 <head>
-    <?php require ('headhead.php'); ?>
+    <?php require ('headhead.php');
+
+    $actual_link = 'https://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];
+    ?>
 </head>
 
 <body>
@@ -32,19 +35,10 @@
 										allowfullscreen></iframe>
 								</div>
 					</div>
-					<div class="col-12">
-						<div class="row">
-							<div class="ml-auto">
-								<span class="text-danger fa-2x">SHARE ON</span>
-								<a href="/videodetails.php"
-									class="bg-primary px-1 py-1 mx-1 text-white fa-2x fab fa-twitter"></a>
-								<a href="/videodetails.php" style="background-color: #3B5998"
-									class="px-1 py-1 mx-1 text-white fa-2x fab fa-facebook"></a>
-								<a href="/videodetails.php"
-									class="bg-danger px-1 py-1 mx-1 text-white fa-2x fab fa-youtube"></a>
-							</div>
-						</div>
-					</div>
+                    <div class="col-12 row">
+                        <div class="ml-auto fb-share-button mt-3"
+                             data-href="<?=$actual_link?>" data-layout="button" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
+                    </div>
 				</div>
 				<div class="col-md-12">
 					<div class="row mr-3">
@@ -67,19 +61,10 @@
 									allowfullscreen></iframe>
 						</div>
 					</div>
-					<div class="col-12">
-						<div class="row">
-							<div class="ml-auto">
-								<span class="text-danger fa-2x">SHARE ON</span>
-								<a href="/videodetails.php"
-								  class="bg-primary px-1 py-1 mx-1 text-white fa-2x fab fa-twitter"></a>
-								<a href="/videodetails.php" style="background-color: #3B5998"
-								  class="px-1 py-1 mx-1 text-white fa-2x fab fa-facebook"></a>
-								<a href="/videodetails.php"
-								  class="bg-danger px-1 py-1 mx-1 text-white fa-2x fab fa-youtube"></a>
-							</div>
-						</div>
-					</div>
+                    <div class="col-12 row">
+                        <div class="ml-auto fb-share-button mt-3"
+                             data-href="<?=$actual_link?>" data-layout="button" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
+                    </div>
 				</div>
 			</div>
             <div class="col-md-12 mt-3 text-center">

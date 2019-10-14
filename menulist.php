@@ -32,5 +32,5 @@
                     <li class="d-inline-block mt-2  ml-1"><a href="/" class="text-decoration-none text-white"><img
                                 width="26px" src="/assets/icons8-turkey-96.png" alt="" srcset=""></a></li>
                     <li class="d-inline-block mt-2  ml-1"><a href="/" class="text-decoration-none text-white"><img
-                                width="26px" src="/assets/icons8-germany-96.png" alt="" srcset=""></a></li>
+                                width="26px" src="/assets/icons8-great-britain-96.png" alt="" srcset=""></a></li>
                 </ul>

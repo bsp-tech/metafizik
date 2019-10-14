@@ -22,44 +22,20 @@ class RestApi
         return $response;
     }
 
-    public static function getFromYous(){
-
-        $ids = [
-                "L9hyI-UYZ2E",
-                "P6xFPPBCYYE",
-                "xklD_AZqXJA",
-                "u1-2OjkpR8Y",
-                "yq-48XFGuso",
-                "WigdL7IFlbE",
-                "aa7KDTkNT54",
-                "v7vIXGdnZdU",
-                "9jauzNItZg4",
-                "rzVM99jOAr4"
-        ];
-
-        $response = RestApi::getYoutubeVideoList($ids);
+    public static function getFromYous($nextPageToken){
+        $response = RestApi::getYoutubePlaylistVideos("PL-YgwWLit4iupYDrms9j9Phew09QHGJ3i",$nextPageToken);
         return $response;
     }
 
-    public static function getSessions(){
+    public static function getSessions($nextPageToken){
+        $response = RestApi::getYoutubePlaylistVideos("PL-YgwWLit4iuxzxQqjwuhdQYYfJN4_lzH",$nextPageToken);
+        return $response;
+    }
 
-        $ids = [
-            "iD4nyV-XR5E",
-            "vaaGpOcLcxc",
-            "CXTJbTRxs3g",
-            "bJ--1vcLkok",
-            "7oLJMYV80lY",
+    public static function getYoutubePlaylistVideos($playlistId, $nextPageToken){
+        $url = "https://www.googleapis.com/youtube/v3/playlistItems?part=snippet%2CcontentDetails&maxResults=10&playlistId=$playlistId&key=AIzaSyBtTOG57nn_5uLg9odfByQXl5O3xjiQ8xg&order=date&pageToken=$nextPageToken";
+        $response = RestApi::sendGetRequest($url);
 
-            "W6pFKBEhFqE",
-
-            "29ZmFAF-huo",
-
-            "3XoAIjNURkU",
-
-            "7XQDnZt9XAs"
-        ];
-
-        $response = RestApi::getYoutubeVideoList($ids);
         return $response;
     }
 

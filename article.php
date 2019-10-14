@@ -3,7 +3,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <?php require ('headhead.php'); ?>
+    <?php require ('headhead.php');
+    $actual_link = 'https://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];
+    ?>
 </head>
 <body>
 <?php
@@ -22,6 +24,10 @@
                     <?=$article['description']?>
                 </p>
 			</div>
+            <div class="col-12 row">
+                <div class="ml-auto fb-share-button mt-3"
+                     data-href="<?=$actual_link?>" data-layout="button" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
+            </div>
 		</div>		
 	</div>
 <?php require ('footer.php'); ?>

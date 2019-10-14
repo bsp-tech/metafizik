@@ -5,15 +5,21 @@
 
 <head>
     <?php require ('headhead.php'); ?>
+    <?php
+    $response = RestApi::getFromYous(null);
+    $videos   = $response['items'];
+    $video    = RestApi::getYoutubeVideoList([$_GET['id']])[0];
+    $actual_link = 'https://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];
+    ?>
+    <meta property="og:title"       content="<?=$video['snippet']['title']?>"                     />
+    <meta property="og:description" content="<?=$video['snippet']['description']?>"               />
+    <meta property="og:image"       content="<?=$video['snippet']['thumbnails']['high']['url']?>" />
 </head>
 
 <body>
 
 
-    <?php
-        $videos = RestApi::getFromYous();
-        $video = RestApi::getYoutubeVideoList([$_GET['id']])[0];
-    ?>
+
 
 	<?php require('header.php');?>
 	<section class="videos pt-5">
@@ -35,32 +41,23 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-12">
-						<div class="row">
-							<div class="ml-auto">
-								<span class="text-danger fa-2x">SHARE ON</span>
-								<a href="/videodetails.php"
-									class="bg-primary px-1 py-1 mx-1 text-white fa-2x fab fa-twitter"></a>
-								<a href="/videodetails.php" style="background-color: #3B5998"
-									class="px-1 py-1 mx-1 text-white fa-2x fab fa-facebook"></a>
-								<a href="/videodetails.php"
-									class="bg-danger px-1 py-1 mx-1 text-white fa-2x fab fa-youtube"></a>
-							</div>
-						</div>
+					<div class="col-12 row">
+                        <div class="ml-auto fb-share-button"
+                             data-href="<?=$actual_link?>" data-layout="button" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
 					</div>
 				</div>
 				<div class="col-md-3">
 					<div class="row">
                         <?php
+
                         for($i=0;$i<sizeof($videos);$i++){
                             $video = $videos[$i];
                             $videoSnippet = $video['snippet'];
-
                             $videoImage = $videoSnippet['thumbnails']['high']['url'];
                         ?>
 						<div class="row pb-3">
 							<div class="col-12">
-								<a href="/fromyoudetails.php?id=<?=$video['id']?>">
+								<a href="/fromyoudetails.php?id=<?=$videoSnippet['resourceId']['videoId']?>">
                                     <div style="background-image: url(<?=$videoImage?>);"
                                          class="img-thumbnail yt-thumbnail"></div>
 								</a>
