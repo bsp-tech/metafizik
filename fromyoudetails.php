@@ -9,7 +9,6 @@
     $response = RestApi::getFromYous(null);
     $videos   = $response['items'];
     $video    = RestApi::getYoutubeVideoList([$_GET['id']])[0];
-    $actual_link = 'https://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];
     ?>
     <meta property="og:title"       content="<?=$video['snippet']['title']?>"                     />
     <meta property="og:description" content="<?=$video['snippet']['description']?>"               />
