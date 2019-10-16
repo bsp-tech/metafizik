@@ -3,12 +3,17 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <?php require ('headhead.php');?>
+    <?php require ('headhead.php');
+    $article = RestApi::getArticleById($_GET['id']);
+    ?>
+    <meta property="og:title"       content="<?=$article['title']?>"                     />
+    <meta property="og:description" content="<?=$article['description']?>"               />
+    <meta property="og:image"       content="<?=$article['thumbnail']?>"                 />
 </head>
 <body>
 <?php
         require('header.php');
-        $article = RestApi::getArticleById($_GET['id']);
+
 
 ?>
 <div class="container ">

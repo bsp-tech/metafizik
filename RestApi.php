@@ -66,7 +66,7 @@ class RestApi
             [
                 'id'=>1,
                 'title'=>'MANNA',
-                'thumbnail'=>'https://www.ormusmanna.com/wp-content/uploads/2014/10/gold-ormus-ormus-gold-manna-672x372.jpg',
+                'thumbnail'=>'/img/article1.jpg',
                 'description'=> '   Antik Mısır’da Manna diye isimlendirilen bu gizemli madde, esasında mono atomik altındır, beyaz toz halindedir. Literatürde “ORMUS” olarak da geçmektedir. Ancak ORMUS içerisinde radyum, altın, gümüş, plâtin, magnezyum oksit bulunan bir nevi kokteyldir. Manna ise saf altındandır.
                                     MANNA NIN SAĞLIKLA İLGİLİ FAYDALARI!
                                     •    Manna Epifiz bezini tetikleyerek, diğer hormonlarla beraber Melatonin hormon salınımınıda artırmaktadır. Melatonin hormonu bağışıklık sistemini geliştiren ve koruyan bir hormon olarak, daha çok salındığında bağışıklık sistemini daha çok güçlendirdiği için insanların kansere ve diğer hastalıklara yakalanma riski çok düşük olmaktadır.
@@ -77,7 +77,7 @@ class RestApi
             [
                 'id'=>2,
                 'title'=>'Gümüş suyu',
-                'thumbnail'=>'https://anapara.com/wp-content/uploads/2016/01/gumus-300x253.jpg',
+                'thumbnail'=>'/img/article2.jpg',
                 'description'=>'Kanıtlanmış En İyi 8 Kolloidal Gümüş Suyu Faydaları
                                 Antibakteriyel.
                                 Yara Bakımı / Cilt Sağlığı
@@ -91,7 +91,7 @@ class RestApi
             [
                 'id'=>3,
                 'title'=>'ALTIN SUYU',
-                'thumbnail'=>'https://img.etimg.com/thumb/height-480,width-640,imgsize-148822,msid-68370965/gold-4-ts.jpg',
+                'thumbnail'=>'/img/article3.jpg',
                 'description'=>'    FAYDALARI eklem ağrısı ve iltihabı azaltmak için altın SUYU kullanılır. Eklemdeki şişme rijitliğe neden olan ve eklem hareketliliğini etkileyen romatoid artrit vakalarında bile iyi çalışır. Düzenli alımda ağrı hafifletilir ve eklemlerin normal hareketi çok kısa bir süre içinde eski haline getirilir.
                                     Eklem ağrısı gidermede topikal olarak kullanılabilen 
                                     altın SUYU vücudumuzun hücreleri için doğal uyarıcı olarak davranır. Böylece beyindeki sinir hücreleri arasındaki elektrik sinyallerinin iletimi artar ve zihinsel uyanıklık artar ve konsantrasyonu artırır.
@@ -104,13 +104,13 @@ class RestApi
             [
                 'id'=>4,
                 'title'=>'MAGNEZYUM SUYU',
-                'thumbnail'=>'https://www.fitekran.com/static/0251c50563b2c4d06ed8086cbeb21f9d/b7dfe/732adc34e36a8d2ebd5551944205400a.jpg',
+                'thumbnail'=>'/img/article4.jpg',
                 'description'=>'MAGNEZYUM SUYU eksikliğinde uyuma güçlüğü,kas spazmları/ ağrı, endişe/ depresyon, kısırlık,/PMS(adet öncesi sendromu), başağrısı,yorgunluk gibi rahatsızlıklara neden olur .'
             ],
             [
                 'id'=>5,
                 'title'=>'POTASYUM SUYU ',
-                'thumbnail'=>'http://i4.hurimg.com/i/hurriyet/75/750x422/5ab36e9dd3806c16a02f7e65.jpg',
+                'thumbnail'=>'/img/article5.jpg',
                 'description'=>'POTASYUM SUYU EKSİKLİGİNDE OLUŞABİLCEK RAHATSIZLIKLAR:
                                 Karın şişkinliği/krampları
                                 Kalp çarpıntıları
@@ -122,21 +122,21 @@ class RestApi
             [
                 'id'=>6,
                 'title'=>'ÇİNKO SUYU',
-                'thumbnail'=>'https://www.enerjiportali.com/wp-content/uploads/2018/10/%C3%A7inko.jpg',
+                'thumbnail'=>'/img/article6.jpg',
                 'description'=>'ÇİNKO SUYU EKSİKLİGİN DE OLUŞABİLECEK RAHATSIZLIKLAR
                                 Zayıf bağışıklık, sivilce ya da isilik, ncelen saçlar,ishal, alerjiler, enfeksiyonlar'
             ],
             [
                 'id'=>7,
                 'title'=>'KALSİYUM SUYU',
-                'thumbnail'=>'https://www.larousse.net/gallery/Food-supplements-%E2%80%93-calcium%2C-the-most-abundant-mineral-of-the-human-body-pictures/Food-supplements-calcium-the-most-abundant-mineral-of-the-human-body.jpg',
+                'thumbnail'=>'/img/article7.jpg',
                 'description'=>'KALSİYUM SUYU EKSİKLİĞİNDE OLUŞABİLECEK RAHATSIZLIKLAR
                                 Kolay kırılan tırnaklar/ kuru cilt, yüksek tansiyon, parmaklarda karıncalanma,kronik kaşınma, dişlerin çürümesi,uyuşukluk'
             ],
             [
                 'id'=>8,
                 'title'=>'Hayat Enerjisi Suyu',
-                'thumbnail'=>'https://suntaramusic.com/wp-content/uploads/2019/03/movinglifeenergy_plain.gif',
+                'thumbnail'=>'/img/article8.jpg',
                 'description'=>'Hayat Enerjisi Suyu 
 
                                 Bazı açıklamalar hayal ötesi gibi geliyor. Gerçekten hayal mi? Özellikle Kuran’ın dediği mucizeler. Kehf 31:
@@ -166,7 +166,7 @@ class RestApi
             [
                 'id'=>9,
                 'title'=>'Bedeninizin Gizli Yöneticisi: Hipotalamus',
-                'thumbnail'=>'https://onedir.net/wp-content/uploads/2018/11/Hipotalamus.jpg',
+                'thumbnail'=>'/img/article9.jpg',
                 'description'=>'Bedeninizin Gizli Yöneticisi: Hipotalamus
                                 Beynin hemen altında bulunan ve bir fındık tanesi büyüklü¤ünde olan hipotalamus, vücutta metabolizmanın düzenlenmesi, böbrek üstü bezlerinin faaliyetlerinin yürütülmesi, büyümenin kontrolü, süt üretimi gibi pek çok hayati mekanizmayı kontrol eder. Bunu yaparken de emrindeki diğer hormonal bezleri kullanır. Yukarıdaki flemada hipotalamusa bağlı olarak çalışan hormonların hangileri oldukları belirtilmiştir. Bu küçük et parçalarının şuurlu insanlar gibi haberleşmeleri ve ortaklaşa çalışmalar yürütmeleri düşünen insanlar için
                                 Allah’ın yüceliğini kavramada bir vesiledir'
