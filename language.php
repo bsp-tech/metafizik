@@ -1,6 +1,7 @@
 <?php
 
  $words=[
+     'articles_title'=>'The minerals, vitamins, bacteria, oxides and acids that Selahattin Akkaya has obtained as a result of his science, knowledge, metaphysics studies that has proved the healing effect of all these elements on all living things. The following articles describe the effects of some minerals on living things.',
     'Ana Sayfa'=>'Home',
     'Seanslar'=>'Sessions',
     'Makaleler'=>'Articles',
@@ -13,6 +14,7 @@
     'Iletişim'=>'Contact us',
      'Sosyal ağ'=>'Social Network',
      'DAHA FAZLA'=>'MORE',
+     'Daha fazla'=>'More',
      'Hastalarımızın Yorumları'=>'Reviews of Our Patients',
      'HASTALARIMIZIN DILINDEN'=>'REVIEWS OF OUR PATIENTS',
      'DIĞER HASTALARIMIZI DA DINLEYIN'=>'LISTEN TO OTHER PATIENTS',

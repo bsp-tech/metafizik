@@ -15,10 +15,10 @@
 <section>
         <div class="container my-4">
             <h4 class = "py-2 text-center">
-                Selahattin Akkaya hocamızın ilim, bilim, metafizik ve arge çalışmalarının sonucunda elde etmiş olduğu
+                <?=lang('articles_title','Selahattin Akkaya hocamızın ilim, bilim, metafizik ve arge çalışmalarının sonucunda elde etmiş olduğu
                 minareller, vitaminler, bakteriler, oksitler ve asitler bu elementlerin tamamının tüm canlılar üzerinde
                 şifa etkisini kanıtlamış sular hazırlamaktadır. Aşağıdaki makalelerdede bazı minerallerin canlılar üzerindeki
-                etkileri anlatılmaktadır.
+                etkileri anlatılmaktadır.')?>
             </h4>
             <div class="row">
                 <div class="col-11">
@@ -31,22 +31,22 @@
                     ?>
                     <div class="row my-3 hover">
                         <div class="col-4">
-                             <a href="/article.php?id=<?=$article['id']?>" class = "text-decoration-none text-dark">
+                             <a href="<?=get_link("/article.php?id=".$article['id'])?>" class = "text-decoration-none text-dark">
                                  <img src="<?=$article['thumbnail']?>" alt="" class = "w-100">
                              </a>
                         </div>
                         <div class="col-8">
                             <h5>
-                                <a href="/article.php?id=<?=$article['id']?>" class = "text-decoration-none text-dark">
+                                <a href="<?=get_link("/article.php?id=".$article['id'])?>" class = "text-decoration-none text-dark">
                                     <?=$article['title']?>
                                 </a>
                             </h5>
                             <p class = "text-muted pb-0 mb-0">
-                                <a href="/article.php?id=<?=$article['id']?>" class = "text-decoration-none text-dark">
+                                <a href="<?=get_link("/article.php?id=".$article['id'])?>" class = "text-decoration-none text-dark">
                                 <?=$desc?>
                                 </a>
                             </p>
-                            <a href="/article.php?id=<?=$article['id']?>">Daha fazla</a>
+                            <a href="<?=get_link("/article.php?id=".$article['id'])?>"><?=lang('Daha fazla')?></a>
                         </div>
                     </div>
                     <?php } ?>

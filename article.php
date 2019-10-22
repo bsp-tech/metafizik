@@ -13,8 +13,6 @@
 <body>
 <?php
         require('header.php');
-
-
 ?>
 <div class="container ">
 		<div class="row mt-5">
@@ -29,7 +27,15 @@
 			</div>
             <div class="col-12 row">
                 <div class="ml-auto fb-share-button mt-3"
-                     data-href="<?=$actual_link?>" data-layout="button" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
+                     data-href="<?=$actual_link?>"
+                     data-layout="button"
+                     data-size="large">
+                    <a target="_blank"
+                       href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse"
+                       class="fb-xfbml-parse-ignore">
+                        Share
+                    </a>
+                </div>
             </div>
 		</div>		
 	</div>
