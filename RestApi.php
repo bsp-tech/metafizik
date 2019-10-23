@@ -185,31 +185,77 @@ class RestApi
                     'id'=>9,
                     'title'=>'Hayat Enerjisi Suyu',
                     'thumbnail'=>'/img/article8.jpg',
-                    'description'=>'Hayat Enerjisi Suyu 
-
-                                Bazı açıklamalar hayal ötesi gibi geliyor. Gerçekten hayal mi? Özellikle Kuran’ın dediği mucizeler. Kehf 31:
-                                
-                                İşte onlara (onlar için) adn cennetleri vardır. Onların altından nehirler akar. Orada altın bileziklerle süslenirler. İnce ipek ve atlastan yeşil elbiseler giyerler. Orada tahtlar üzerine yaslanırlar. Ne güzel bir sevap ve ne güzel bir destektir.
-                                Bu şekilde meali ile pek anlaşılamıyor. Hâlbuki orada akımdan bahis eder. Bu akım insan bedeninin de olan elektrik sistemi ise bakınız:
-                                İnsan vücudu yaşamsal fonksiyonlarını yerine getirebilmek için elektrokimyasal bir enerji sistemi kullanır. Vücudumuzun elektrikle işleyen bölümünü sinir sistemi oluşturur. Bir kaza veya sakatlık durumu olduğunda bile vücudumuz elektrik üretimini gerçekleştirir, ürettiği elektrik enerjisiyle yaşamsal faaliyetlerini sürdürür. Canlılardaki bu elektriksel sistem, metallerdeki elektrik sistemlerinden çok daha fazla avantaja sahiptir. Bu avantajların başında biyolojik sistemlerin kendi kendini tamir edebilmesi gelir. Örneğin parmağınızda bir kesik oluştuğunda kısa zamanda bu yara iyileşir. Bunu sağlayan sistemlerin ardında yine elektriksel bir düzen vardır. Bu hiçbir insan yapımı makinede mevcut olmayan taklit edilemez bir özelliktir.
-                                
-                                İnsan bu enerji ile yaşamını sürdürür?
-                                Etrafımızda gördüğümüz her şeyin yapıtaşı atomdur. Atomun içinde ise proton, nötron ve elektron vardır. Proton ve nötron çekirdekte bulunur, elektronlar ise çekirdeğin etrafında sürekli dönen hareketli taneciklerdir. Protonlar pozitif, elektronlar negatif elektrik yüklü, nötron ise yüksüzdür. Atomdaki elektron ve proton miktarı birbirine eşittir. Bu eşitlik de atomun nötr durumda olmasına neden olur. Atom fazladan bir elektron kazandığında bu onu negatif hale getirir ve denge bozulur. Atom bir elektron kaybettiğinde ise bu kez de pozitif yüklü olur. Bu dengesizlik elektron akımı başlamasına yol açar ve işte bu elektron akımı da ‘elektrik’ olarak tanımlanır. Trilyonlarca atomdan meydana gelen insan vücudu elektronların hareketiyle ortaya çıkan enerjiyle çalışır.
-                                Nefes almak, yürüyüp koşmak, yemek yemek, konuşmak, hareket etmek, kısacası yaşamımıza dair ne varsa bu enerjiye ihtiyaç duyarız ve bu enerji olmadan vücudun
-                                SAYFA 94
-                                yaşamsal faaliyetlerini sürdürmesi söz konusu bile olamaz. İnsanın yaşamı boyunca vücudunda gerçekleşen sayısız hücre faaliyetinin temelinde hep elektrik vardır. Başka bir deyişle, vücuttaki tüm kimyasal işlemler elektrikle olup biter.
-                                İnsan vücudunun temel enerji kaynağı kimyasaldır ve elektrik temelli tek sistem olan sinir sistemi, karmaşık bir haberleşme, eşgüdüm ve yönetim sistemi olarak işlev görür. İnsan vücudundaki elektriği (DC) ya da (AC) olarak sınıflayamayız. İnsan vücudundaki sinyal iletisi, sinir sistemini oluşturan nöronlar tarafından iletilen atkılardan oluşur. Bu sistem, bir AC ya da DC güç sistemlerinden çok, bir telgraf sistemine benzetilebilir. Telgraf sistemi, çeşitli kodlar kullanılmak suretiyle mesafeler arasında elektrik sinyalleriyle yazılı bilgi gönderilmesini sağlayan bir cihazdır. Bizim vücudumuzda gerçeklesen ise elektriksel bilginin yazısız aktarımıdır. Yani ayağımıza batan bir dikeni hissedip değerlendirme ve tepki verme sırasında elektrik sinyalleri ile bilgi akışı sağlanır.
-                                
-                                İnsan Vücudunda Nasıl Elektrik Üretiliyor?
-                                Bu sorunun cevabı aslında muazzam bir dengenin ürünüdür ve oldukça şaşırtıcıdır. Vücut, elektrik üretimini kendisi gerçekleştirir. Bu görevi vücudumuzdaki trilyonlarca hücre hep birlikte yerine getirirler. Küçük birer ‘pil’e benzetebileceğimiz hücrelerin dış çevresi potasyum, iç kısmı ise sodyum sıvısı ile doludur. Tüm hücrelerde, hücre zarları boyunca bir voltaj (elektriksel gerilim farkı) vardır. Hücre zarındaki voltaj farkı “elektrik potansiyeli” olarak ifade edilen bir elektrik akımının oluşmasını sağlar. Hücre zarının içerisindeki bu elektrik potansiyeline “dinlenme potansiyeli” de denir ve bu potansiyelin miktarı yaklaşık 50 milivolttur. Bütün hücreler bu potansiyel enerjilerini hücre içindeki faaliyetlerini yürütmek için kullanırlar. Ancak sinir ve kas hücreleri diğer hücrelerden farklı olarak bu enerjiyi fizyolojik görevler için de kullanırlar. Kas hücrelerinde bu akım sayesinde kasılma gerçekleşirken, sinir hücrelerinde bu akım uyarı iletimini sağlar.
-                                Hücre zarı üzerinde sadece belirli iyonların geçişine izin veren kanallar mevcuttur. Bu kanallar aracılığıyla iyonlar hücre içine veya dışına hareket edebilir. Artı ve eksi yüklü parçacıkların hareketiyle hücre içi ve dışı arasında elektriksel bir dengesizlik meydana gelir. Hücre içi ve hücre dışı sıvılarındaki bu fark, denge oluşana kadar bir geçiş eğilimi oluşturur. İçerisini dışarıdan ayıran hücre zarı bazı iyonların geçmesine izin verirken diğerlerinin geçişini engelleyen yarı-geçirgen özelliktedir. Bu yüzden hücre, elektriğe ihtiyaç duyduğunda tüm yapması gereken, elektrik devresini tamamlamak için bu kanalların birini açmaktır.
-                                
-                                İnsan Vücudu’nda Üretilen Elektriğin Miktarı Ne Kadardır?
-                                Bir hücrenin dışındaki yük ile içerisindeki yük arasındaki fark yaklaşık 50 milivolttur. Washington Eyalet Üniversitesi’nden farmakolog Prof. Steven M. Simasko’nun hesaplarına göre vücuttaki trilyonlarca hücrenin ürettiği elektrik toplanırsa elde edeceğimiz enerji, 40 watt’lık bir elektrik ampulünün aydınlatmasına denk bir enerjidir. Bazı hücreler diğerlerinden daha fazla elektrik üretir. Bunun miktarı hücrelerin yaptıkları işe ve elektriği neden kullandıklarına göre değişir. Örneğin sinir hücreleri ve kalp hücreleri çok fazla elektrik üretirler, çünkü sinir hücrelerinin, mesajlarını uzak.
-                                mesafelere iletmeleri gerekir bu yüzden hem kendileri için hem de bu mesajları iletmek için daha fazla enerjiye ihtiyaç duyarlar.
-                                En büyük elektrik mekanizmalarından biridir insan vücudu biz farkında olmasak da. İçimizdeki muazzam elektrik sistemi nefes aldığımız sürece bizi yaşatmaya devam ettirecektir.
-                                İnsanın bu elektrik üretme sistemi arıza yaptığında?
-                                Kehf 31 burada bizlere bunun yolunu öğretmektedir. Hatta gösterdiği Esmalarla yaraları tedavi edebilir, bedenin istenilen merkezlerine komutlar gönderebiliriz. Kısacası bildiğimiz yaşam enerjisini artırabiliriz'
+                    'description'=>'
+                                Some explanations seem like an imagination. Is it really dream? Especially the miracles of the Qur\'an.
+                                <br/>
+                                <br/> Kehf 31:There is adn haven to them (for them). Rivers flow under them. There they are decorated with gold bracelets.
+                                They wear fine silk and green dresses from atlas.
+                                There they lean on the thrones. What a good deed and what a nice support.
+                                <br/> <br/>With the translation it is not much clear. There is talking about flow.
+                                The human body uses an electrochemical energy system to perform its vital functions.
+                                The electrically operated part of our body is the nervous system.
+                                Even in the event of an accident or disability, our bodies produce electricity,
+                                continues its vital activities with the electrical energy it produces.
+                                This electrical system in living beings has more advantages than electrical systems in metals.
+                                One of these advantages is the ability of biological systems to self-repair.
+                                For example, if a cut occurs on your finger, it will heal quickly.
+                                Behind these systems, there is again an electrical order.
+                                This is an inimitable feature that is not present in any human-made machine.
+                                <br/>
+                                Human lives with this energy.
+                                The base of everything we see around us is the atom. In the atom, there are protons, neutrons and electrons.
+                                Protons and neutrons are found in the nucleus, electrons are moving particles that rotate around the nucleus continuously.
+                                Protons are positive, electrons are negatively charged, and neutrons are uncharged.
+                                The amount of electrons and protons in the atom is equal.
+                                                                
+                                                                
+                                //                                translate
+                                This equation causes the atom to be in a neutral state. When the atom gains an extra electron,
+                                it makes it negative and the balance is disrupted.
+                                When the atom loses an electron, it becomes positively charged.
+                                This imbalance leads to the initiation of an electron current, which is defined as tanımlan electricity..
+                                The human body, made up of trillions of atoms, works with the energy generated by the movement of electrons.
+                                We need this energy to breathe, walk, run, eat, talk, move, in short, and without this energy
+                                the body cannot even maintain its vital activities. On the basis of the countless cell activities taking place throughout the human\'s life
+                                There is no electricity. In other words, all chemical processes in the body end up electrically.
+                                The basic energy source of the human body is chemical, and the nervous system, the only system based on electricity,
+                                is a complex communication, coordination and management system.
+                                functions as. We cannot classify the electricity in the human body as (DC) or (AC).
+                                Signal transmission in the human body, neurons that make up the nervous system
+                                consists of wefts. This system can be compared to a telegraph system rather than an AC or DC power system. Telegraph system,
+                                A device for transmitting written information by electrical signals between distances using various codes.
+                                What happens in our body is the unwritten transfer of electrical information. So you feel a thorn in our feet and evaluate and
+                                information is provided by electrical signals during response.
+                                <br/> <br/>
+                                How Electricity is Produced in the Human Body? <br/>
+                                The answer to this question is in fact the product of a tremendous balance and is quite surprising. 
+                                The body produces electricity itself. Trillions of cells in our body do this task together.
+                                Cells, which can be compared to small cells, are filled with potassium and the inner part is filled with sodium.
+                                All cells have a voltage (electrical voltage difference) across the cell membranes.The voltage difference in the cell membrane is expressed 
+                                as “electrical potential” an electric current is generated. 
+                                This electrical potential within the cell membrane is also called “resting potential ve and the amount of this potential
+                                about 50 millivolts. All cells use these potential energies to carry out their activities within the cell.
+                                However, nerve and muscle cells use this energy unlike other cells for physiological tasks.
+                                Contraction occurs in muscle cells due to this current, while nerve current in this cell provides stimulation conduction.
+                                There are only channels on the cell membrane that allow the passage of certain ions. Through these channels, the ions can move into or out of the cell.
+                                An electrical imbalance occurs between the inside and outside of the cell by the movement of the plus and minus charged particles. 
+                                This difference in intracellular and extracellular fluids, it creates a transition tendency until equilibrium occurs. 
+                                The cell membrane separating it from the outside allows some ions to pass while preventing the passage of others. semi-permeable. 
+                                So when the cell needs electricity, all it has to do is open one of these channels to complete the electrical circuit.
+                                                                <br/>
+                                                                <br/>
+                                How Much Electricity is Produced in the Human Body? <br/>
+                                The difference between the load outside a cell and the load inside is approximately 50 millivolts.
+                                Pharmacologist from Washington State University According to the calculations of Steven M. Simasko trillions of cells in the body
+                                If the electricity produced is collected, the energy we will obtain is equivalent to the lighting of a 40 watt electric bulb.
+                                Some cells produce more electricity than others. The amount depends on what the cells do and why they use the electricity.
+                                For example, nerve cells and heart cells produce a lot of electricity because nerve cells need to transmit their messages over long distances.
+                                So they need more energy both for themselves and to transmit these messages.
+                                Although we are not aware, the human body is one of the greatest electrical mechanisms.
+                                The enormous electrical system within us will keep us alive as long as we breathe.
+                                When a person\'s electricity generation system fails? <br/> <br/>
+                                Kehf 31 teaches us the way here. We can even treat wounds with the Esmalar, and send commands to the desired centers of the body.
+                                In short, we can increase the life energy we know'
                 ]
 
             ];
@@ -318,31 +364,67 @@ class RestApi
                     'id' => 8,
                     'title' => 'Hayat Enerjisi Suyu',
                     'thumbnail' => '/img/article8.jpg',
-                    'description' => 'Hayat Enerjisi Suyu 
-
-                                Bazı açıklamalar hayal ötesi gibi geliyor. Gerçekten hayal mi? Özellikle Kuran’ın dediği mucizeler. Kehf 31:
-                                
-                                İşte onlara (onlar için) adn cennetleri vardır. Onların altından nehirler akar. Orada altın bileziklerle süslenirler. İnce ipek ve atlastan yeşil elbiseler giyerler. Orada tahtlar üzerine yaslanırlar. Ne güzel bir sevap ve ne güzel bir destektir.
-                                Bu şekilde meali ile pek anlaşılamıyor. Hâlbuki orada akımdan bahis eder. Bu akım insan bedeninin de olan elektrik sistemi ise bakınız:
-                                İnsan vücudu yaşamsal fonksiyonlarını yerine getirebilmek için elektrokimyasal bir enerji sistemi kullanır. Vücudumuzun elektrikle işleyen bölümünü sinir sistemi oluşturur. Bir kaza veya sakatlık durumu olduğunda bile vücudumuz elektrik üretimini gerçekleştirir, ürettiği elektrik enerjisiyle yaşamsal faaliyetlerini sürdürür. Canlılardaki bu elektriksel sistem, metallerdeki elektrik sistemlerinden çok daha fazla avantaja sahiptir. Bu avantajların başında biyolojik sistemlerin kendi kendini tamir edebilmesi gelir. Örneğin parmağınızda bir kesik oluştuğunda kısa zamanda bu yara iyileşir. Bunu sağlayan sistemlerin ardında yine elektriksel bir düzen vardır. Bu hiçbir insan yapımı makinede mevcut olmayan taklit edilemez bir özelliktir.
-                                
-                                İnsan bu enerji ile yaşamını sürdürür?
-                                Etrafımızda gördüğümüz her şeyin yapıtaşı atomdur. Atomun içinde ise proton, nötron ve elektron vardır. Proton ve nötron çekirdekte bulunur, elektronlar ise çekirdeğin etrafında sürekli dönen hareketli taneciklerdir. Protonlar pozitif, elektronlar negatif elektrik yüklü, nötron ise yüksüzdür. Atomdaki elektron ve proton miktarı birbirine eşittir. Bu eşitlik de atomun nötr durumda olmasına neden olur. Atom fazladan bir elektron kazandığında bu onu negatif hale getirir ve denge bozulur. Atom bir elektron kaybettiğinde ise bu kez de pozitif yüklü olur. Bu dengesizlik elektron akımı başlamasına yol açar ve işte bu elektron akımı da ‘elektrik’ olarak tanımlanır. Trilyonlarca atomdan meydana gelen insan vücudu elektronların hareketiyle ortaya çıkan enerjiyle çalışır.
-                                Nefes almak, yürüyüp koşmak, yemek yemek, konuşmak, hareket etmek, kısacası yaşamımıza dair ne varsa bu enerjiye ihtiyaç duyarız ve bu enerji olmadan vücudun
-                                SAYFA 94
-                                yaşamsal faaliyetlerini sürdürmesi söz konusu bile olamaz. İnsanın yaşamı boyunca vücudunda gerçekleşen sayısız hücre faaliyetinin temelinde hep elektrik vardır. Başka bir deyişle, vücuttaki tüm kimyasal işlemler elektrikle olup biter.
-                                İnsan vücudunun temel enerji kaynağı kimyasaldır ve elektrik temelli tek sistem olan sinir sistemi, karmaşık bir haberleşme, eşgüdüm ve yönetim sistemi olarak işlev görür. İnsan vücudundaki elektriği (DC) ya da (AC) olarak sınıflayamayız. İnsan vücudundaki sinyal iletisi, sinir sistemini oluşturan nöronlar tarafından iletilen atkılardan oluşur. Bu sistem, bir AC ya da DC güç sistemlerinden çok, bir telgraf sistemine benzetilebilir. Telgraf sistemi, çeşitli kodlar kullanılmak suretiyle mesafeler arasında elektrik sinyalleriyle yazılı bilgi gönderilmesini sağlayan bir cihazdır. Bizim vücudumuzda gerçeklesen ise elektriksel bilginin yazısız aktarımıdır. Yani ayağımıza batan bir dikeni hissedip değerlendirme ve tepki verme sırasında elektrik sinyalleri ile bilgi akışı sağlanır.
-                                
-                                İnsan Vücudunda Nasıl Elektrik Üretiliyor?
-                                Bu sorunun cevabı aslında muazzam bir dengenin ürünüdür ve oldukça şaşırtıcıdır. Vücut, elektrik üretimini kendisi gerçekleştirir. Bu görevi vücudumuzdaki trilyonlarca hücre hep birlikte yerine getirirler. Küçük birer ‘pil’e benzetebileceğimiz hücrelerin dış çevresi potasyum, iç kısmı ise sodyum sıvısı ile doludur. Tüm hücrelerde, hücre zarları boyunca bir voltaj (elektriksel gerilim farkı) vardır. Hücre zarındaki voltaj farkı “elektrik potansiyeli” olarak ifade edilen bir elektrik akımının oluşmasını sağlar. Hücre zarının içerisindeki bu elektrik potansiyeline “dinlenme potansiyeli” de denir ve bu potansiyelin miktarı yaklaşık 50 milivolttur. Bütün hücreler bu potansiyel enerjilerini hücre içindeki faaliyetlerini yürütmek için kullanırlar. Ancak sinir ve kas hücreleri diğer hücrelerden farklı olarak bu enerjiyi fizyolojik görevler için de kullanırlar. Kas hücrelerinde bu akım sayesinde kasılma gerçekleşirken, sinir hücrelerinde bu akım uyarı iletimini sağlar.
-                                Hücre zarı üzerinde sadece belirli iyonların geçişine izin veren kanallar mevcuttur. Bu kanallar aracılığıyla iyonlar hücre içine veya dışına hareket edebilir. Artı ve eksi yüklü parçacıkların hareketiyle hücre içi ve dışı arasında elektriksel bir dengesizlik meydana gelir. Hücre içi ve hücre dışı sıvılarındaki bu fark, denge oluşana kadar bir geçiş eğilimi oluşturur. İçerisini dışarıdan ayıran hücre zarı bazı iyonların geçmesine izin verirken diğerlerinin geçişini engelleyen yarı-geçirgen özelliktedir. Bu yüzden hücre, elektriğe ihtiyaç duyduğunda tüm yapması gereken, elektrik devresini tamamlamak için bu kanalların birini açmaktır.
-                                
-                                İnsan Vücudu’nda Üretilen Elektriğin Miktarı Ne Kadardır?
-                                Bir hücrenin dışındaki yük ile içerisindeki yük arasındaki fark yaklaşık 50 milivolttur. Washington Eyalet Üniversitesi’nden farmakolog Prof. Steven M. Simasko’nun hesaplarına göre vücuttaki trilyonlarca hücrenin ürettiği elektrik toplanırsa elde edeceğimiz enerji, 40 watt’lık bir elektrik ampulünün aydınlatmasına denk bir enerjidir. Bazı hücreler diğerlerinden daha fazla elektrik üretir. Bunun miktarı hücrelerin yaptıkları işe ve elektriği neden kullandıklarına göre değişir. Örneğin sinir hücreleri ve kalp hücreleri çok fazla elektrik üretirler, çünkü sinir hücrelerinin, mesajlarını uzak.
-                                mesafelere iletmeleri gerekir bu yüzden hem kendileri için hem de bu mesajları iletmek için daha fazla enerjiye ihtiyaç duyarlar.
-                                En büyük elektrik mekanizmalarından biridir insan vücudu biz farkında olmasak da. İçimizdeki muazzam elektrik sistemi nefes aldığımız sürece bizi yaşatmaya devam ettirecektir.
-                                İnsanın bu elektrik üretme sistemi arıza yaptığında?
-                                Kehf 31 burada bizlere bunun yolunu öğretmektedir. Hatta gösterdiği Esmalarla yaraları tedavi edebilir, bedenin istenilen merkezlerine komutlar gönderebiliriz. Kısacası bildiğimiz yaşam enerjisini artırabiliriz'
+                    'description' => 'Bazı açıklamalar hayal ötesi gibi geliyor. Gerçekten hayal mi? Özellikle Kuran’ın dediği mucizeler. 
+                                <br/>
+                                <br/>Kehf 31:
+                                İşte onlara (onlar için) adn cennetleri vardır. Onların altından nehirler akar. Orada altın bileziklerle süslenirler.
+                                İnce ipek ve atlastan yeşil elbiseler giyerler. 
+                                Orada tahtlar üzerine yaslanırlar. Ne güzel bir sevap ve ne güzel bir destektir.
+                                <br/><br/>Bu şekilde meali ile pek anlaşılamıyor. Hâlbuki orada akımdan bahis eder.
+                                İnsan vücudu yaşamsal fonksiyonlarını yerine getirebilmek için elektrokimyasal bir enerji sistemi kullanır. 
+                                Vücudumuzun elektrikle işleyen bölümünü sinir sistemi oluşturur. 
+                                Bir kaza veya sakatlık durumu olduğunda bile vücudumuz elektrik üretimini gerçekleştirir, 
+                                ürettiği elektrik enerjisiyle yaşamsal faaliyetlerini sürdürür. 
+                                Canlılardaki bu elektriksel sistem, metallerdeki elektrik sistemlerinden çok daha fazla avantaja sahiptir. 
+                                Bu avantajların başında biyolojik sistemlerin kendi kendini tamir edebilmesi gelir. 
+                                Örneğin parmağınızda bir kesik oluştuğunda kısa zamanda bu yara iyileşir. 
+                                Bunu sağlayan sistemlerin ardında yine elektriksel bir düzen vardır. 
+                                Bu hiçbir insan yapımı makinede mevcut olmayan taklit edilemez bir özelliktir.
+                                <br/>
+                                İnsan bu enerji ile yaşamını sürdürür.
+                                Etrafımızda gördüğümüz her şeyin yapıtaşı atomdur. Atomun içinde ise proton, nötron ve elektron vardır. 
+                                Proton ve nötron çekirdekte bulunur, elektronlar ise çekirdeğin etrafında sürekli dönen hareketli taneciklerdir. 
+                                Protonlar pozitif, elektronlar negatif elektrik yüklü, nötron ise yüksüzdür. Atomdaki elektron ve proton miktarı birbirine eşittir. 
+                                Bu eşitlik de atomun nötr durumda olmasına neden olur. Atom fazladan bir elektron kazandığında bu onu negatif hale getirir ve denge bozulur. 
+                                Atom bir elektron kaybettiğinde ise bu kez de pozitif yüklü olur. 
+                                Bu dengesizlik elektron akımı başlamasına yol açar ve işte bu elektron akımı da ‘elektrik’ olarak tanımlanır. 
+                                Trilyonlarca atomdan meydana gelen insan vücudu elektronların hareketiyle ortaya çıkan enerjiyle çalışır.
+                                Nefes almak, yürüyüp koşmak, yemek yemek, konuşmak, hareket etmek, kısacası yaşamımıza dair ne varsa bu enerjiye ihtiyaç duyarız ve bu enerji olmadan 
+                                vücudun yaşamsal faaliyetlerini sürdürmesi söz konusu bile olamaz. İnsanın yaşamı boyunca vücudunda gerçekleşen sayısız hücre faaliyetinin temelinde hep 
+                                elektrik vardır. Başka bir deyişle, vücuttaki tüm kimyasal işlemler elektrikle olup biter.
+                                İnsan vücudunun temel enerji kaynağı kimyasaldır ve elektrik temelli tek sistem olan sinir sistemi, karmaşık bir haberleşme, eşgüdüm ve yönetim sistemi 
+                                olarak işlev görür. İnsan vücudundaki elektriği (DC) ya da (AC) olarak sınıflayamayız. İnsan vücudundaki sinyal iletisi, sinir sistemini oluşturan nöronlar 
+                                tarafından iletilen atkılardan oluşur. Bu sistem, bir AC ya da DC güç sistemlerinden çok, bir telegraf sistemine benzetilebilir. Telegraf sistemi, 
+                                çeşitli kodlar kullanılmak suretiyle mesafeler arasında elektrik sinyalleriyle yazılı bilgi gönderilmesini sağlayan bir cihazdır. 
+                                Bizim vücudumuzda gerçekleşen ise elektriksel bilginin yazısız aktarımıdır. Yani ayağımıza batan bir dikeni hissedip değerlendirme ve 
+                                tepki verme sırasında elektrik sinyalleri ile bilgi akışı sağlanır.
+                                <br/> <br/>
+                                İnsan Vücudunda Nasıl Elektrik Üretiliyor? <br/>
+                                Bu sorunun cevabı aslında muazzam bir dengenin ürünüdür ve oldukça şaşırtıcıdır. Vücut, elektrik üretimini kendisi gerçekleştirir. Bu görevi vücudumuzdaki trilyonlarca hücre hep birlikte yerine getirirler. 
+                                Küçük birer ‘pil’e benzetebileceğimiz hücrelerin dış çevresi potasyum, iç kısmı ise sodyum sıvısı ile doludur. 
+                                Tüm hücrelerde, hücre zarları boyunca bir voltaj (elektriksel gerilim farkı) vardır. Hücre zarındaki voltaj farkı “elektrik potansiyeli” olarak ifade edilen
+                                bir elektrik akımının oluşmasını sağlar. Hücre zarının içerisindeki bu elektrik potansiyeline “dinlenme potansiyeli” de denir ve bu potansiyelin miktarı 
+                                yaklaşık 50 milivolttur. Bütün hücreler bu potansiyel enerjilerini hücre içindeki faaliyetlerini yürütmek için kullanırlar. 
+                                Ancak sinir ve kas hücreleri diğer hücrelerden farklı olarak bu enerjiyi fizyolojik görevler için de kullanırlar. 
+                                Kas hücrelerinde bu akım sayesinde kasılma gerçekleşirken, sinir hücrelerinde bu akım uyarı iletimini sağlar.
+                                Hücre zarı üzerinde sadece belirli iyonların geçişine izin veren kanallar mevcuttur. Bu kanallar aracılığıyla iyonlar hücre içine veya dışına hareket edebilir. 
+                                Artı ve eksi yüklü parçacıkların hareketiyle hücre içi ve dışı arasında elektriksel bir dengesizlik meydana gelir. Hücre içi ve hücre dışı sıvılarındaki bu fark, 
+                                denge oluşana kadar bir geçiş eğilimi oluşturur. İçerisini dışarıdan ayıran hücre zarı bazı iyonların geçmesine izin verirken diğerlerinin geçişini engelleyen 
+                                yarı-geçirgen özelliktedir. Bu yüzden hücre, elektriğe ihtiyaç duyduğunda tüm yapması gereken, elektrik devresini tamamlamak için bu kanalların birini açmaktır.
+                                <br/>
+                                <br/>
+                                İnsan Vücudu’nda Üretilen Elektriğin Miktarı Ne Kadardır?<br/>
+                                Bir hücrenin dışındaki yük ile içerisindeki yük arasındaki fark yaklaşık 50 milivolttur. 
+                                Washington Eyalet Üniversitesi’nden farmakolog Prof. Steven M. Simasko’nun hesaplarına göre vücuttaki trilyonlarca hücrenin 
+                                ürettiği elektrik toplanırsa elde edeceğimiz enerji, 40 watt’lık bir elektrik ampulünün aydınlatmasına denk bir enerjidir. 
+                                Bazı hücreler diğerlerinden daha fazla elektrik üretir. Bunun miktarı hücrelerin yaptıkları işe ve elektriği neden kullandıklarına göre değişir. 
+                                Örneğin sinir hücreleri ve kalp hücreleri çok fazla elektrik üretirler, çünkü sinir hücrelerinin, mesajlarını uzak mesafelere iletmeleri gerekir 
+                                Bu yüzden hem kendileri için hem de bu mesajları iletmek için daha fazla enerjiye ihtiyaç duyarlar.
+                                Biz farkında olmasak da insan vücudu en büyük elektrik mekanizmalarından biridir. 
+                                İçimizdeki muazzam elektrik sistemi nefes aldığımız sürece bizi yaşatmaya devam ettirecektir.
+                                İnsanın bu elektrik üretme sistemi arıza yaptığında?<br/><br/>
+                                Kehf 31 burada bizlere bunun yolunu öğretmektedir. Hatta gösterdiği Esmalarla yaraları tedavi edebilir, bedenin istenilen merkezlerine komutlar gönderebiliriz. 
+                                Kısacası bildiğimiz yaşam enerjisini artırabiliriz'
                 ],
                 [
                     'id' => 9,
