@@ -1,6 +1,10 @@
 body{
     font-family: 'Fira Sans', sans-serif;
 }
+
+.open{
+    background-color: #ab422a;
+}
 /* logo */
 .logo{
     width:150px;

@@ -252,7 +252,7 @@
             </div>
 
             <div>
-                <a href="/services.php#" class=" text-decoration-none" style="font-size: 45px;color: #F58529">
+                <a href="https://www.instagram.com/prof.selahattinakkaya/" class=" text-decoration-none" style="font-size: 45px;color: #F58529">
                     <i class="fab fa-instagram mr-3"></i>Instagram</a>
             </div>
         </div>

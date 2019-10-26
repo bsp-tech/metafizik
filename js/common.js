@@ -22,10 +22,10 @@ $(function () {
         button.click(function () {
             if (mobilnav.hasClass('open')) {
                 mobilnav.removeClass('open');
-                $(".mobilnav").css("background-color", "transparent");
+                // $(".mobilnav").css("background-color", "transparent");
             } else {
                 mobilnav.addClass('open');
-                $(".mobilnav").css("background-color", "#ab422a");
+                // $(".mobilnav").css("background-color", "");
             }
         });
 });

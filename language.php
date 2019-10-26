@@ -21,7 +21,7 @@
      'Selahattin Akkaya Kimdir'=>'Who Is Selahattin Akkaya',
      'Sosyal Medyada Bizi Takib Edin'=>'Follow Us',
      'Iletişime Geçin'=>'Contact Us',
-     'tr'=>'en',
+     'en'=>'en',
      'Egzama'=>'Eczema',
      'Astım'=>'Asthma',
      'Bağırsak Iltihabı'=>'Intestinal inflammation',
@@ -60,8 +60,29 @@
      'yq-48XFGuso'=>'EYE TREATMENT',
      'xklD_AZqXJA'=>'Ending Epilepsy Seizures',
      'u1-2OjkpR8Y'=>'MIRACLE!!! SURVIVED FROM HIS ALL ADDICTED BAD HABITS',
-     'Yaşam Koçluğu'=>'Life Coaching'
-
+     'Yaşam Koçluğu'=>'Life Coaching',
+     'contact_us'=>'
+     This number is available only for whatsapp chats and callings. It is not available to call it directly by cellular. 
+     You can call or write through whatsapp.
+     Working ours everyday between 10:00 and 17:00, except Friday. If you want to call please call only in working hours and by using whatsapp.
+     If you want to write us you can write anytime you want. We will read and reply as soon as possible. 
+     ',
+     'contact_us_direct'=>'(It is not available to call outside of whatsapp. You can write or call only by using whatsapp.)',
+     'address'=>'Yenibosna centeral neighborhood güneşli Yolu str. no 2/3 h block floor 2 ofice 27 houses of ikebana-Bahçelievler Istanbul Turkey',
+     'about_us'=>'WHO IS SELAHATTIN AKKAYA?',
+     'about_us_desc'=>'
+            Selahattin AKKAYA was born in 1966 in Erzurum. He completed his education in Istanbul. 
+            He provides this service globally. AKKAYA has the necessary knowledge, experience and reference in this speciality.
+            <b><u>He specializes in metaphysics, bioenergy and frequency therapy.</b></u>
+                <b>
+                    <u>
+                    Akkaya manages these processes in the light of science by giving importance to all possibilities in the diagnosis and treatment process of patients.
+                    </u>
+                </b>
+            </br>
+            Akkaya has made his name known to the world as a result of the studies he has made both in Turkey and abroad in his fields of expertise.<br/>
+            S.Akkaya serves a variety of trainings to contribute of development of this area in Turkey.
+     '
 ];
 
 function lang($key, $default=null){

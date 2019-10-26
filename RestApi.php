@@ -67,9 +67,9 @@ class RestApi
             $result = [
                 [
                     'id'=>1,
-                    'title'=>'Silver Water',
+                    'title'=>'WATER OF SILVER',
                     'thumbnail'=>'/img/article2.jpg',
-                    'description'=>'Proven Top 8 Colloidal Silver Water Benefits:<br/>
+                    'description'=>'Proven Top 8 Colloidal Water of Silver Benefits:<br/>
                                     1. Antibacterial. <br/>
                                     2. Wound Care / Skin Health <br/>
                                     3. Pink Eye / Ear Infections <br/>
@@ -81,9 +81,9 @@ class RestApi
                 ],
                 [
                     'id'=>2,
-                    'title'=>'MAGNESIUM WATER',
+                    'title'=>'WATER OF MAGNESIUM',
                     'thumbnail'=>'/img/article4.jpg',
-                    'description'=>'Lack of Magnesium water causes the following ailments:<br/>
+                    'description'=>'Lack of water of Magnesium causes the following ailments:<br/>
                                     1. Sleeping difficulty <br/>
                                     2. Muscle spasms / pain <br/>
                                     3. Anxiety / depression <br/>
@@ -94,9 +94,9 @@ class RestApi
                 ],
                 [
                     'id'=>3,
-                    'title'=>'POTASSIUM WATER',
+                    'title'=>'WATER OF POTASSIUM',
                     'thumbnail'=>'/img/article5.jpg',
-                    'description'=>'Lack of Potassium water causes the following ailments:<br/>
+                    'description'=>'Lack of water of Potassium causes the following ailments:<br/>
                                     1. Abdominal bloating / cramps <br/>
                                     2. Heart palpitations <br/>
                                     3. Nausea / vomiting <br/>
@@ -107,9 +107,9 @@ class RestApi
                 ],
                 [
                     'id'=>4,
-                    'title'=>'ZINC WATER',
+                    'title'=>'WATER OF ZINC',
                     'thumbnail'=>'/img/article6.jpg',
-                    'description'=>'Lack of Zinc water causes the following ailments:<br/>
+                    'description'=>'Lack of water of Zinc causes the following ailments:<br/>
                                     1. Weak immunity <br/>
                                     2. Pimples or rashes <br/>
                                     3. Examined hair <br/>
@@ -121,7 +121,7 @@ class RestApi
                     'id' => 5,
                     'title' => 'CALCIUM WATER',
                     'thumbnail' => '/img/article7.jpg',
-                    'description' => 'Lack of Calcium water causes the following ailments:<br/>
+                    'description' => 'Lack of water of Calcium causes the following ailments:<br/>
                                         1. Easy broken nails / dry skin <br/>
                                         2. High blood pressure <br/>
                                         3. Tingling in the fingers <br/>
@@ -167,7 +167,7 @@ class RestApi
                 ],
                 [
                     'id'=>8,
-                    'title'=>'GOLD WATER',
+                    'title'=>'WATER OF GOLD',
                     'thumbnail'=>'/img/article3.jpg',
                     'description'=>'
                               BENEFITS:
@@ -183,15 +183,18 @@ class RestApi
                     '],
                 [
                     'id'=>9,
-                    'title'=>'Hayat Enerjisi Suyu',
+                    'title'=>'WATER OF LIFE ENERGY',
                     'thumbnail'=>'/img/article8.jpg',
                     'description'=>'
-                                Some explanations seem like an imagination. Is it really dream? Especially the miracles of the Qur\'an.
+                                Some explanations seem like an imagination. Is it really an imagination? Especially the miracles of the Quran.
                                 <br/>
-                                <br/> Kehf 31:There is adn haven to them (for them). Rivers flow under them. There they are decorated with gold bracelets.
+                                <br/> 
+                                Kehf 31: There is adn haven to them (for them). Rivers flow under them. There they are decorated with gold bracelets.
                                 They wear fine silk and green dresses from atlas.
                                 There they lean on the thrones. What a good deed and what a nice support.
-                                <br/> <br/>With the translation it is not much clear. There is talking about flow.
+                                <br/> 
+                                <br/>
+                                With the translation it is not much clear. There is talking about flow.
                                 The human body uses an electrochemical energy system to perform its vital functions.
                                 The electrically operated part of our body is the nervous system.
                                 Even in the event of an accident or disability, our bodies produce electricity,
@@ -207,55 +210,58 @@ class RestApi
                                 Protons and neutrons are found in the nucleus, electrons are moving particles that rotate around the nucleus continuously.
                                 Protons are positive, electrons are negatively charged, and neutrons are uncharged.
                                 The amount of electrons and protons in the atom is equal.
-                                                                
-                                                                
-                                //                                translate
                                 This equation causes the atom to be in a neutral state. When the atom gains an extra electron,
                                 it makes it negative and the balance is disrupted.
                                 When the atom loses an electron, it becomes positively charged.
-                                This imbalance leads to the initiation of an electron current, which is defined as tanımlan electricity..
+                                This imbalance leads to the initiation of an electron stream, which is defined as electricity..
                                 The human body, made up of trillions of atoms, works with the energy generated by the movement of electrons.
                                 We need this energy to breathe, walk, run, eat, talk, move, in short, and without this energy
-                                the body cannot even maintain its vital activities. On the basis of the countless cell activities taking place throughout the human\'s life
-                                There is no electricity. In other words, all chemical processes in the body end up electrically.
+                                the body cannot even maintain its vital activities. 
+                                On the basis of the countless cell activities taking place throughout the human\'s life always
+                                there is electricity.
+                                In other words, all chemical processes in the body end up electrically.
                                 The basic energy source of the human body is chemical, and the nervous system, the only system based on electricity,
                                 is a complex communication, coordination and management system.
-                                functions as. We cannot classify the electricity in the human body as (DC) or (AC).
+                                We cannot classify the electricity in the human body as (DC) or (AC).
                                 Signal transmission in the human body, neurons that make up the nervous system
                                 consists of wefts. This system can be compared to a telegraph system rather than an AC or DC power system. Telegraph system,
                                 A device for transmitting written information by electrical signals between distances using various codes.
-                                What happens in our body is the unwritten transfer of electrical information. So you feel a thorn in our feet and evaluate and
-                                information is provided by electrical signals during response.
-                                <br/> <br/>
+                                What happens in our body is the transfer of electrical information without writing it. 
+                                So during the pricking thorn in our feet, information about the feeling and responding to it is provided by electrical signals.
+                                <br/> 
+                                <br/>
+
                                 How Electricity is Produced in the Human Body? <br/>
                                 The answer to this question is in fact the product of a tremendous balance and is quite surprising. 
                                 The body produces electricity itself. Trillions of cells in our body do this task together.
                                 Cells, which can be compared to small cells, are filled with potassium and the inner part is filled with sodium.
-                                All cells have a voltage (electrical voltage difference) across the cell membranes.The voltage difference in the cell membrane is expressed 
-                                as “electrical potential” an electric current is generated. 
-                                This electrical potential within the cell membrane is also called “resting potential ve and the amount of this potential
-                                about 50 millivolts. All cells use these potential energies to carry out their activities within the cell.
+                                All cells have a voltage (electrical voltage difference) across the cell membranes.The voltage difference in the cell membrane is generating 
+                                electric stream which is called “electrical potential”. 
+                                This electrical potential within the cell membrane is also called “resting potential“ and the amount of this potential
+                                about 50 millivolts. 
+                                All cells use these potential energies to carry out their activities within the cell.
                                 However, nerve and muscle cells use this energy unlike other cells for physiological tasks.
-                                Contraction occurs in muscle cells due to this current, while nerve current in this cell provides stimulation conduction.
-                                There are only channels on the cell membrane that allow the passage of certain ions. Through these channels, the ions can move into or out of the cell.
+                                Contraction occurs in stream cells due to this stream, while nerve stream in this cell provides stimulation conduction.
+                                There are only channels on the cell membrane that allow the passage of certain ions. 
+                                Through these channels, the ions can move into or out of the cell.
                                 An electrical imbalance occurs between the inside and outside of the cell by the movement of the plus and minus charged particles. 
                                 This difference in intracellular and extracellular fluids, it creates a transition tendency until equilibrium occurs. 
-                                The cell membrane separating it from the outside allows some ions to pass while preventing the passage of others. semi-permeable. 
+                                The cell membrane separating it from the outside allows some ions to pass while preventing the passage of others. 
                                 So when the cell needs electricity, all it has to do is open one of these channels to complete the electrical circuit.
-                                                                <br/>
-                                                                <br/>
-                                How Much Electricity is Produced in the Human Body? <br/>
+                                <br/>
+                                <br/>
+                                How Much Electricity is Produced in the Human Body? 
                                 The difference between the load outside a cell and the load inside is approximately 50 millivolts.
-                                Pharmacologist from Washington State University According to the calculations of Steven M. Simasko trillions of cells in the body
-                                If the electricity produced is collected, the energy we will obtain is equivalent to the lighting of a 40 watt electric bulb.
-                                Some cells produce more electricity than others. The amount depends on what the cells do and why they use the electricity.
+                                According to the calculations of Pharmacologist from Washington State University Steven M. Simasko 
+                                If the electricity produced by trillions of cells in the body is collected, 
+                                the energy we will obtain is equivalent to the lighting of a 40 watt electric bulb.
+                                Some cells produce more electricity than others. 
+                                The amount depends on what the cells do and why they use the electricity.
                                 For example, nerve cells and heart cells produce a lot of electricity because nerve cells need to transmit their messages over long distances.
                                 So they need more energy both for themselves and to transmit these messages.
                                 Although we are not aware, the human body is one of the greatest electrical mechanisms.
                                 The enormous electrical system within us will keep us alive as long as we breathe.
-                                When a person\'s electricity generation system fails? <br/> <br/>
-                                Kehf 31 teaches us the way here. We can even treat wounds with the Esmalar, and send commands to the desired centers of the body.
-                                In short, we can increase the life energy we know'
+                                '
                 ]
 
             ];
@@ -263,6 +269,82 @@ class RestApi
             $result = [
                 [
                     'id' => 1,
+                    'title' => 'Gümüş suyu',
+                    'thumbnail' => '/img/article2.jpg',
+                    'description' => 'Kanıtlanmış En İyi 8 Kolloidal Gümüş Suyu Faydaları:<br/><br/>
+                                1. Antibakteriyel.<br/>
+                                2. Yara Bakımı / Cilt Sağlığı<br/>
+                                3. Pembe Göz / Kulak Enfeksiyonları<br/>
+                                4. Antiviral- Virüslere Karşı Etkili.<br/>
+                                5. Anti-inflamatuar.<br/>
+                                6. Sinüzit.<br/>
+                                7. Soğuk Algınlığı / Grip.<br/>
+                                8. Zatürre (Pnömoni)'
+                ],
+                [
+                    'id'=>2,
+                    'title'=>'MAGNEZYUM SUYU',
+                    'thumbnail'=>'/img/article4.jpg',
+                    'description'=>'Magnezyum suyu eksikliğinde oluşa bilecek rahatsızlıklar:<br/><br/>
+                     1. Uyuma güçlüğü<br/>
+                     2. Kas spazmları/ağrı <br/>
+                     3. Endişe/depresyon<br/>
+                     4. Kısırlık<br/>
+                     5. PMS(adet öncesi sendromu)<br/>
+                     6. Başağrısı<br/>
+                     7. Yorgunluk<br/>'
+                ],
+                [
+                    'id'=>3,
+                    'title'=>'POTASYUM SUYU',
+                    'thumbnail'=>'/img/article5.jpg',
+                    'description'=>'Potasyum suyu eksikliğinde oluşa bilecek rahatsızlıklar:<br/><br/>
+                                1. Karın şişkinliği/krampları<br/>
+                                2. Kalp çarpıntıları<br/>
+                                3. Mide bulantısı/kusma<br/>
+                                4. Kulaklarda çınlama<br/>
+                                5. Göz karaması<br/>
+                                6. Baş dönmesi<br/>
+                                7. Kabızlık<br/>'
+                ],
+                [
+                    'id'=>4,
+                    'title'=>'ÇINKO SUYU',
+                    'thumbnail'=>'/img/article6.jpg',
+                    'description'=>'Çinko suyu eksikliğinde oluşa bilecek rahatsızlıklar:<br/><br/>
+                                1. Zayıf bağışıklık<br/>
+                                2. Sivilce ya da isilik<br/>
+                                3. Incelen saçlar<br/>
+                                4. Ishal<br/>
+                                5. Alerjiler<br/>
+                                6. Enfeksiyonlar<br/>'
+                ],
+                [
+                    'id' => 5,
+                    'title' => 'KALSIYUM SUYU',
+                    'thumbnail' => '/img/article7.jpg',
+                    'description' => 'Kalsiyum suyu eksikliğinde oluşa bilecek rahatsızlıklar:<br/><br/>
+                                      1. Kolay kırılan tırnaklar/kuru cilt<br/>
+                                      2. Yüksek tansiyon<br/>
+                                      3. Parmaklarda karıncalanma<br/>
+                                      4. Kronik kaşınma<br/>
+                                      5. Dişlerin çürümesi<br/>
+                                      6. Uyuşukluk<br/>'
+                ],
+                [
+                    'id' => 6,
+                    'title' => 'Bedeninizin Gizli Yöneticisi: Hipotalamus',
+                    'thumbnail' => '/img/article9.jpg',
+                    'description' => 'Beynin hemen altında bulunan ve bir fındık tanesi büyüklüğünde olan hipotalamus, <br/>
+                                1. Vücutta metabolizmanın düzenlenmesi<br/>
+                                2. Böbrek üstü bezlerinin faaliyetlerinin yürütülmesi, <br/>
+                                3. Büyümenin kontrolü<br/>
+                                4. Süt üretimi <br/>
+                                gibi pek çok hayati mekanizmayı kontrol eder. Bunu yaparken de emrindeki diğer hormonal bezleri kullanır. Bu küçük et parçalarının şuurlu insanlar gibi haberleşmeleri ve ortaklaşa çalışmalar yürütmeleri düşünen insanlar için
+                                Allah’ın yüceliğini kavramada bir vesiledir'
+                ],
+                [
+                    'id' => 7,
                     'title' => 'MANNA',
                     'thumbnail' => '/img/article1.jpg',
                     'description' => 'Antik Mısır’da Manna diye isimlendirilen bu gizemli madde, esasında mono atomik altındır, beyaz toz halindedir. Literatürde “ORMUS” olarak da geçmektedir.
@@ -280,21 +362,7 @@ class RestApi
                                         <br/>9. Denge bozuklukları'
                 ],
                 [
-                    'id' => 2,
-                    'title' => 'Gümüş suyu',
-                    'thumbnail' => '/img/article2.jpg',
-                    'description' => 'Kanıtlanmış En İyi 8 Kolloidal Gümüş Suyu Faydaları:<br/><br/>
-                                1. Antibakteriyel.<br/>
-                                2. Yara Bakımı / Cilt Sağlığı<br/>
-                                3. Pembe Göz / Kulak Enfeksiyonları<br/>
-                                4. Antiviral- Virüslere Karşı Etkili.<br/>
-                                5. Anti-inflamatuar.<br/>
-                                6. Sinüzit.<br/>
-                                7. Soğuk Algınlığı / Grip.<br/>
-                                8. Zatürre (Pnömoni)'
-                ],
-                [
-                    'id' => 3,
+                    'id' => 8,
                     'title' => 'ALTIN SUYU',
                     'thumbnail' => '/img/article3.jpg',
                     'description' => 'FAYDALARI:<br/> 
@@ -311,57 +379,7 @@ class RestApi
                     '
                 ],
                 [
-                    'id'=>4,
-                    'title'=>'MAGNEZYUM SUYU',
-                    'thumbnail'=>'/img/article4.jpg',
-                    'description'=>'Magnezyum suyu eksikliğinde oluşa bilecek rahatsızlıklar:<br/><br/>
-                     1. Uyuma güçlüğü<br/>
-                     2. Kas spazmları/ağrı <br/>
-                     3. Endişe/depresyon<br/>
-                     4. Kısırlık<br/>
-                     5. PMS(adet öncesi sendromu)<br/>
-                     6. Başağrısı<br/>
-                     7. Yorgunluk<br/>'
-                ],
-                [
-                    'id'=>5,
-                    'title'=>'POTASYUM SUYU',
-                    'thumbnail'=>'/img/article5.jpg',
-                    'description'=>'Potasyum suyu eksikliğinde oluşa bilecek rahatsızlıklar:<br/><br/>
-                                1. Karın şişkinliği/krampları<br/>
-                                2. Kalp çarpıntıları<br/>
-                                3. Mide bulantısı/kusma<br/>
-                                4. Kulaklarda çınlama<br/>
-                                5. Göz karaması<br/>
-                                6. Baş dönmesi<br/>
-                                7. Kabızlık<br/>'
-                ],
-                [
-                    'id'=>6,
-                    'title'=>'ÇINKO SUYU',
-                    'thumbnail'=>'/img/article6.jpg',
-                    'description'=>'Çinko suyu eksikliğinde oluşa bilecek rahatsızlıklar:<br/><br/>
-                                1. Zayıf bağışıklık<br/>
-                                2. Sivilce ya da isilik<br/>
-                                3. Incelen saçlar<br/>
-                                4. Ishal<br/>
-                                5. Alerjiler<br/>
-                                6. Enfeksiyonlar<br/>'
-                ],
-                [
-                    'id' => 7,
-                    'title' => 'KALSIYUM SUYU',
-                    'thumbnail' => '/img/article7.jpg',
-                    'description' => 'Kalsiyum suyu eksikliğinde oluşa bilecek rahatsızlıklar:<br/><br/>
-                                      1. Kolay kırılan tırnaklar/kuru cilt<br/>
-                                      2. Yüksek tansiyon<br/>
-                                      3. Parmaklarda karıncalanma<br/>
-                                      4. Kronik kaşınma<br/>
-                                      5. Dişlerin çürümesi<br/>
-                                      6. Uyuşukluk<br/>'
-                ],
-                [
-                    'id' => 8,
+                    'id' => 9,
                     'title' => 'Hayat Enerjisi Suyu',
                     'thumbnail' => '/img/article8.jpg',
                     'description' => 'Bazı açıklamalar hayal ötesi gibi geliyor. Gerçekten hayal mi? Özellikle Kuran’ın dediği mucizeler. 
@@ -421,23 +439,9 @@ class RestApi
                                 Örneğin sinir hücreleri ve kalp hücreleri çok fazla elektrik üretirler, çünkü sinir hücrelerinin, mesajlarını uzak mesafelere iletmeleri gerekir 
                                 Bu yüzden hem kendileri için hem de bu mesajları iletmek için daha fazla enerjiye ihtiyaç duyarlar.
                                 Biz farkında olmasak da insan vücudu en büyük elektrik mekanizmalarından biridir. 
-                                İçimizdeki muazzam elektrik sistemi nefes aldığımız sürece bizi yaşatmaya devam ettirecektir.
-                                İnsanın bu elektrik üretme sistemi arıza yaptığında?<br/><br/>
-                                Kehf 31 burada bizlere bunun yolunu öğretmektedir. Hatta gösterdiği Esmalarla yaraları tedavi edebilir, bedenin istenilen merkezlerine komutlar gönderebiliriz. 
-                                Kısacası bildiğimiz yaşam enerjisini artırabiliriz'
+                                İçimizdeki muazzam elektrik sistemi nefes aldığımız sürece bizi yaşatmaya devam ettirecektir.'
                 ],
-                [
-                    'id' => 9,
-                    'title' => 'Bedeninizin Gizli Yöneticisi: Hipotalamus',
-                    'thumbnail' => '/img/article9.jpg',
-                    'description' => 'Beynin hemen altında bulunan ve bir fındık tanesi büyüklüğünde olan hipotalamus, <br/>
-                                1. Vücutta metabolizmanın düzenlenmesi<br/>
-                                2. Böbrek üstü bezlerinin faaliyetlerinin yürütülmesi, <br/>
-                                3. Büyümenin kontrolü<br/>
-                                4. Süt üretimi <br/>
-                                gibi pek çok hayati mekanizmayı kontrol eder. Bunu yaparken de emrindeki diğer hormonal bezleri kullanır. Bu küçük et parçalarının şuurlu insanlar gibi haberleşmeleri ve ortaklaşa çalışmalar yürütmeleri düşünen insanlar için
-                                Allah’ın yüceliğini kavramada bir vesiledir'
-                ],
+
 
             ];
         }
