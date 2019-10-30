@@ -128,23 +128,27 @@
             <div id="bio" class="col-md-12 ">
                 <p style="font-size: 25px"><img style="width: 28px;" class="mr-2"
                         src="assets/icons8-sprout-64.png" /><?=lang('Bioenerji')?></p>
-                <p>Bioenerji – son zamanlarda sıklıkla duymaya başladığımız bir kelimedir. Kelime anlamı olarak
-                    “biolojik enerji”, “doğal enerji” olarak tanımlanabilir. Her bir canlının kendisine ait bir enerji
-                    alanı vardır. Bu enerji alanı kozmik kaynaklıdır. Fizyolojinin bir parçası olan bu enerji alanları
-                    yani kişinin “elektromanyetik enerji alanı” bilim adamları tarafından kabul edilmiş, yapılan
-                    çalışmalarla enerji alanları görüntülenebilmiştir.</p>
-                <p>Bioenerjinin Özellikleri:</p>
-                1. Kozmik ve yüksek frekanslıdır.<br/>
-                2. Canlıların tümü bioenerji alanı ile çevrelenmiştir.<br/>
-                3. Biyoenerjinin kaynağı evrendir.<br/>
-                4. Enerji alanımız hareket halindedir.<br/>
-                5. Bu enerjinin kaynağı doğadan gelmektedir.<br/>
- 
+                <?=lang('Bioenerji_desc','
+                            <p>Bioenerji – son zamanlarda sıklıkla duymaya başladığımız bir kelimedir. Kelime anlamı olarak
+                                “biolojik enerji”, “doğal enerji” olarak tanımlanabilir. Her bir canlının kendisine ait bir enerji
+                                alanı vardır. Bu enerji alanı kozmik kaynaklıdır. Fizyolojinin bir parçası olan bu enerji alanları
+                                yani kişinin “elektromanyetik enerji alanı” bilim adamları tarafından kabul edilmiş, yapılan
+                                çalışmalarla enerji alanları görüntülenebilmiştir.</p>
+                            <p>Bioenerjinin Özellikleri:</p>
+                            1. Kozmik ve yüksek frekanslıdır.<br/>
+                            2. Canlıların tümü bioenerji alanı ile çevrelenmiştir.<br/>
+                            3. Biyoenerjinin kaynağı evrendir.<br/>
+                            4. Enerji alanımız hareket halindedir.<br/>
+                            5. Bu enerjinin kaynağı doğadan gelmektedir.<br/>
+                ')?>
             </div>
 
             <div id="eye" class="col-md-12 mt-5">
-                <p style="font-size: 25px;"><img style="width: 28px;" class="mr-2" src="assets/icons8-eye-160.png" />
-                    <?=lang('Göz Tedavisi (Frekans Yöntemi)')?></p>
+                <p style="font-size: 25px;">
+                    <img style="width: 28px;" class="mr-2" src="assets/icons8-eye-160.png" />
+                    <?=lang('Göz Tedavisi (Frekans Yöntemi)')?>
+                </p>
+                <?=lang('Göz Tedavisi (Frekans Yöntemi)_desc','
                 <p>
                     <strong><u>Astigmat:</u></strong> <br/>Gözlerimizin kornea bölümünde oluşan deformasyon sonucunda meydana gelen astigmat göz
                     hastalığı kendisini görmede bulanıklık ile belli eder<br/><br/>
@@ -163,7 +167,7 @@
                     
                     <strong><u>Glokam:</u></strong><br/> 
                     Halk arasında ‘Göz Tansiyonu’ ya da ‘Karasu Hastalığı’ olarak bilinen glokom’un göz 
-                    içi basıncının sıklıkla yükselmesi nedeniyle görme sinirinin arar görmesidir.<br/><br/>
+                    içi basıncının sıklıkla yükselmesi nedeniyle görme sinirinin zarar görmesidir.<br/><br/>
 
                     <strong><u>Ambliyopi:</u></strong><br/> 
                     Halk arasında göz tembelliği olarak da bilinen göz hastalığı, genellikle küçük yaşlarda
@@ -172,14 +176,229 @@
                     <strong><u>Göz enfeksiyonu:</u></strong><br/> 
                     Kızarıklık, sulanma, yanma, batma, bazen de çapaklanma gibi belirtilerle ortaya çıkan göz enfeksiyonu.
                 </p>
+                ')?>
             </div>
             <div class="col-md-12">
                 <p id="paralysis">
-                    <strong><span style="font-size: 25px;">
-                        <img style="width: 28px;" class="mr-2" src="assets/icons8-physical-therapy-100.png" /><?=lang('Kısmi Felç')?></span></strong></p>
-                <p>hafif (minör) felç, hafif şiddetteki sorunları ifade eder. Yani örneğin hasta elini kullanmakta
-                    güçlük çekse de hareket ettirebilir. Kısmi felç ile geçici felç birbirinden farklı kavramlardır.
-                    Geçici felce “mini inme” dendiği de olur.</p>
+                    <strong>
+                        <span style="font-size: 25px;">
+                        <img style="width: 28px;" class="mr-2" src="assets/icons8-physical-therapy-100.png" /><?=lang('Kısmi Felç')?></span>
+                    </strong>
+                </p>
+                <p>
+                    <?=lang('Kısmi Felç_desc','
+                        Hafif (minör) felç, hafif şiddetteki sorunları ifade eder.
+                        Yani örneğin hasta elini kullanmakta güçlük çekse de hareket ettirebilir. 
+                        Kısmi felç ile geçici felç birbirinden farklı kavramlardır.
+                        Geçici felce “mini inme” dendiği de olur.
+                    ')?>
+                </p>
+
+                <p id="kolit">
+                    <span style="font-size: 25px;">
+                        <img style="width: 28px;" class="mr-2" src="assets/icons8-colon-100.png" />
+                        <strong><?=lang('KOLIT')?></strong>
+                    </span>
+                </p>
+                <p><?=lang('KOLIT_desc','Kalın bağırsağın iltihabi hastalıklarına kolit denir.')?></p>
+                <p id="bowelinfection">
+                    <span style="font-size: 25px;">
+                        <img style="width: 28px;" class="mr-2" src="assets/icons8-colon-100 (1).png" />
+                        <strong><?=lang('Bağırsak Iltihabı')?></strong>
+                    </span>
+                </p>
+                <p>
+                    <?=lang('Bağırsak Iltihabı_desc','
+                    Bağırsak iltihabı, bağırsağın içinde bulunan ince zarın iltihaplanması sonucu bağırsağın etkin olarak
+                    görevlerini yerine getirememesine neden olan bir hastalıktır. Belirtileri farkedilebilir olsa da,
+                    tedavi edilmediğinde ciddi sonuçlara neden olmaktadır.
+                    ')?>
+                </p>
+                <p id="multiplskleroz">
+                    <span style="font-size: 25px;">
+                        <img style="width: 32px;" class="mr-2" src="assets/icons8-standing-man-80.png" />
+                        <strong><?=lang('Multipl Skleroz')?></strong>
+                    </span>
+                </p>
+                <p>
+                    <?=lang('Multipl Skleroz_desc','
+                    Multipl Skleroz hastalığı yorgunluk, düzgün yürüyememe, kaslarda güçsüzlük, ve görme bozuklukları gibi
+                    belirtilerle ortaya çıkabilen bir hastalıktır. Multipl Skleroz Hastalığı, bağışıklık
+                    sisteminizin sinirlerinizi kapsayan koruyucu dokuya (miyelin) saldırdığı potansiyel olarak
+                    zayıflatan bir hastalıktır.
+                    ')?>
+                </p>
+                <p id="koah">
+                    <span style="font-size: 25px;">
+                        <img style="width: 28px;" class="mr-2" src="assets/icons8-lungs-100.png" />
+                        <strong><?=lang('KOAH Hastalığı')?></strong>
+                    </span>
+                </p>
+                <p>
+                    <?=lang('KOAH Hastalığı_desc','
+                    Kalp-damar hastalıkları, zatürre ve AIDS’ten sonra 4’üncü en sık ölüm nedeni olarak bilinmektedir.
+                    Akciğerlerde yaşanan hava yollarında daralma nedeniyle tahribata neden olan KOAH, bu nedenle bu
+                    hastalarda nefes darlığı oluşmasına neden olur.
+                    ')?>
+                </p>
+                <p id="bowellaziness">
+                    <span style="font-size: 25px;">
+                        <img style="width: 28px;" class="mr-2" src="assets/icons8-colon-100 (2).png" />
+                        <strong><?=lang('Bağırsak Tembelliği')?></strong>
+                    </span>
+                </p>
+                <p><?=lang('Bağırsak Tembelliği_desc','
+                    Tembel bağırsak sendromu yani kabızlık sorunu genellikle dışkının çıkışında zorluk, 
+                    bağırsak hareketlerindeki yavaşlama ya da huzursuz bağırsak sendromudur.
+                ')?></p>
+
+
+                <p id="migren">
+                    <span style="font-size: 25px;">
+                        <img style="width: 28px;" class="mr-2" src="assets/icons8-headache-128.png" />
+                        <strong><?=lang('Migren')?></strong>
+                    </span>
+                </p>
+                <p>
+                    <?=lang('Migren_desc','
+                    Hastanın günlük yaşamını etkileyebilen, gün içerisindeki gerçekleştirdiği aktivitelerde kısıtlılık
+                    yaratabilen bir baş ağrısı tipidir. Genellikle ense, şakak veya göz çevresinde başlar ve ağrının
+                    çeşitine göre hareket ettikçe kötüleşebilir.')?>
+                </p>
+
+                <p id="asthma">
+                    <span style="font-size: 25px;">
+                        <img style="width: 28px;" class="mr-2" src="assets/icons8-asthma-60.png" />
+                        <strong><?=lang('Astım')?></strong>
+                    </span>
+                </p>
+                <?=lang('Astım_desc','
+                    <p>
+                        Genellikle; öksürük, nefes darlığı, hırıltılı nefes alıp verme ve göğüste sıkışma hissidir. Öksürük
+                        (genellikle kuru ve krizler halindedir, gece uykuda uyandırabilir.) Hırıltılı solunum. Göğüste
+                        tıkanıklık ve sıkışma hissi.
+                    </p>
+               ')?>
+                <p id="spine">
+                    <span style="font-size: 25px;">
+                            <img style="width: 28px;" class="mr-2" src="assets/icons8-posture-100.png" />
+                            <strong>
+                                <?=lang('Bel ve Boyun Fıtığı')?>
+                            </strong>
+                    </span>
+                </p>
+                <p>
+                    <?=lang('Bel ve Boyun Fıtığı_desc','
+                    Üst omurga disklerinin iç kısmında bulunan sıvı dışa doğru baskı uygulayarak sinirleri
+                    yırtar ve sıkıştırarak boyun fıtığına neden olur. Bu durum genellikle iskelet duruşu bozuk kişilerde
+                    ortaya çıkar. Yaşam kalitesini olumsuz etkiler. Bel fıtığı, beldeki omur kemikleri arasında bulunan
+                    ve adeta bir amortisör gibi görev yapan bu disklerin fıtıklaşması sonucu ortaya çıkan bir
+                    rahatsızlıktır. Sinire olan basgı bacağadek vuran ağrılara (siyatalji) ve bel ağrısına neden olur.
+                    ')?>
+
+                </p>
+                <p id="hair">
+                    <span style="font-size: 25px;">
+                        <img style="width: 28px;" class="mr-2" src="assets/icons8-hair-brush-100.png" />
+                        <strong><?=lang('Saç Tedavisi')?></strong>
+                    </span>
+                </p>
+                <p>
+                    <?=lang('Saç Tedavisi_desc','
+                    Mevcut her saç telinin bir yaşam siklusu vardır. Her saç teli 4-6 yıl yaşar, sonra dinlenir ve daha
+                    sonra da dökülür. Saçların bu şekilde dökülmesi son derece doğal bir süreçtir ve günde 50-100 tel
+                    saç dökülmesi normal kabul edilir. Eğer bu sayıdan daha fazla dökülüyorsa, banyo yaparken ele gelen
+                    saç miktarı artmışsa ya da yıkanmış kurulanmış saçı elle çektiğimizde elimize 3-5 adet saç teli
+                    geliyorsa bu durumun ciddiye alınması gerekir. Saç dökülmesinin çok farklı nedenleri olabilir.
+                    Önemli olan bu nedenin saptanması ve uygun tedavinin yapılmasıdır.
+                    ')?>
+
+                </p>
+                <p id="estetic">
+                        <span style="font-size: 25px;">
+                            <img style="width: 28px;" class="mr-2" src="assets/icons8-therapy-60.png" />
+                            <strong><?=lang('Estetik ve Cilt Tedavisi')?></strong>
+                        </span>
+                </p>
+                <p><?=lang('Estetik ve Cilt Tedavisi_desc','
+                    Cilt tedavileri cildin daha canlı, sağlıklı ve doğal görünmesi için uygulanan hem kişinin kendisini
+                    iyi hissetmesi bakımından, hem de çevredeki insanlar karşısında iyi his uyandırması bakımından
+                    önemlidir. Cildimizde herhangi bir sebepten dolayı birçok cilt problemleri oluşabilir. Birçok kişi
+                    için rahatsız edici görünen cilt problemlerinden kurtulmak ve psikolojik açıdan rahatlamak artık
+                    mümkün hale gelmiştir.
+                ')?>
+                </p>
+                <p id="epilepsi">
+                    <span style="font-size: 25px;">
+                        <img style="width: 32px;" class="mr-2" src="assets/icons8-epilepsy-smart-watch-128.png" />
+                        <strong><?=lang('Epilepsi')?></strong>
+                    </span>
+                </p>
+                <p>
+                    <?=lang('Epilepsi_desc','
+                    Metafizksel nedenler sebep olmak ile birlikte hiçbir metafiziksel neden olmaksızın tamamen tıbbi
+                    nedenler sebebi ile de karşımıza cıkmıştır. Epilepsi hastalığı beyinde sinir hücrelerinden
+                    kaynaklanan, kısa süreli nörolojik bir bozukluk yaşanmasıdır. 
+                    Beyinde anormal elektriksel aktivite sonucu beklenmedik nöbetler meydana gelir. 
+                    Epilepsi nöbetlerinin farklılıklar gösteren türleri vardır. 
+                    Bayılma ya da titremenin yanı sıra bazı hastalarda, 
+                    hastanın kendisi bile nöbetleri hissetmez ve bu da teşhisi güçleştirir
+                    
+                    ')?>
+
+                </p>
+                <p id="egzama">
+                    <span style="font-size: 25px;">
+                        <img style="width: 23px;" class="mr-2" src="assets/icons8-bandage-52.png" />
+                        <strong><?=lang('Egzama')?></strong>
+                    </span>
+                </p>
+                <p>
+                    <?=lang('Egzama_desc','
+                    Egzamanın birçok nedeni olabileceği gibi bilinmeyen birçok nedeni de olabilir.
+                    Egzamanın en sık görülen nedeni genetik, ikinci nedeni ise alerjik olmasıdır.
+                    Cildin yapısında bulunan yağ miktarında değişme olur ve deride su kaybı meydana gelir.
+                    Su kaybı kaşıntıya neden olur ve cildin yapısını bozar.
+                    Ayrıca egzama ciltte kaşıntının dışında döküntü, kızarıklık, kuruma, kabarma, tahriş ve çatlağa da yol açar.
+                    Egzamalı cilt çok kurudur ve sabun ve şampuanlar da cildin kuruluğunu daha da artırır.
+                    Ayrıca egzamalıların ciltleri çok narin olur bu yüzden giyime önem vermek gerekir,
+                    giyilen yünlü kıyafetler de cilde zarar verir.
+                    ')?>
+                </p>
+                <p id="zona">
+                    <span style="font-size: 25px;">
+                        <img style="width: 23px;" class="mr-2" src="assets/icons8-bandage-52.png" />
+                        <strong><?=lang('Zona')?></strong>
+                    </span>
+                </p>
+                <p>
+                    <?=lang('Zona_desc','
+                    Zona hastalığı, ciltte belli bir bölgede oluşan kabarık, kaşıntı ve döküntü gibi belirtiler gösterir.
+                    Aynı zamanda depresyon, stres, yaşlılık ve vücudun direncini düşüren hastalıklarda zonaya neden olmaktadır.
+                    Varisella zoster virüsü, sinir köklerine yerleşen bir virüs olduğundan zona hastalığına yakalanan kişilerin şiddetli ağrılar yaşamasına sebep olur.
+                    En çok göğüs ve baş bölgesini etkileyen zona hastalığı, sırt, karın, kalça, kol, bacak ve boyunda da görülür.
+                    ')?>
+
+                </p>
+                <p id="sleep">
+                    <span style="font-size: 25px;">
+                        <img style="width: 28px;" class="mr-2" src="assets/icons8-insomnia-160.png" />
+                        <strong>
+                            <?=lang('Uyku Apnesi')?>
+                        </strong>
+                    </span>
+                </p>
+                <p>
+                    <?=lang('Uyku Apnesi_desc','
+                    Uyku apnesi, horlamanın neden olduğu en önemli hastalıklardan biridir ve uykuda solunumun durması olarak ifade edilebilir.
+                    Uyku esnasında nefesin durması ve yüzeysel hale gelmesi anlamına gelen uyku apnesi gece boyunca defalarca tekrarlayabilir. 
+                    Uyku apnesi sırasında, üst solunum yolunun açık kalmasını sağlayan kaslarda gevşeme olur. 
+                    Dil kökü veya yumuşak damağın veya aşırı büyümüş bademciklerin hava yolunu tıkaması sonucunda 
+                    en az 10 saniye nefes alamamak uyku apnesi olarak adlandırılır.
+                    ')?>
+
+                </p>
+
                 <p id="emotion"><span style="font-size: 25px;">
                     <img style="width: 28px;" class="mr-2" src="assets/icons8-wise-mind-100.png" />
                     <strong><?=lang('Terapi (Duygusal ve Zihinsel)')?></strong></span>
@@ -199,7 +418,7 @@
                     ile “dertleşme”lerimiz gerçekten de “dert”leşmektir ve odak noktası derttir. Terapist ile
                     gerçekleştirilen terapi sürecinde ise odak noktası “değişim”dir</p>
                 <p id="meniskus"><span style="font-size: 25px;"><img style="width: 28px;" class="mr-2"
-                            src="assets/icons8-leg-48.png" /><strong><?=lang('Menisküs')?></strong></span></p>
+                                                                     src="assets/icons8-leg-48.png" /><strong><?=lang('Menisküs')?></strong></span></p>
                 <p>Diz eklemi oluşturan 3 kemikten bulunmaktadır. Uyluk (femur), bacak (tibia) kemiği ve önde diz kapağı
                     (patella) kemiğidir. Eklem yüzleri birbirlerine çok uygun olmadığı için diz eklemi; eklem
                     bağları(ligamentler) ve kıkırdak yapıdaki menisküslerle güçlendirilmiştir.</p>
@@ -209,7 +428,7 @@
                     geniş bir alana dağılmasını ve eklem kıkırdaklarının yüksek basınçtan korunmasını sağlar.Menisküs
                     yırtıklarının en sık yaşananları sırasıyla şu şekildedir;</p>
                 1. Oblik yani eğik menisküs yırtıkları en sık görülen menisküs yaralanmalardır. Bu tür menisküs
-                    yırtıkları genellikle genç hastalarda travma sonucu yaşanmaktadır.<br/>
+                yırtıkları genellikle genç hastalarda travma sonucu yaşanmaktadır.<br/>
                 2. Vertikal longitudinal menisküs yırtıkları<br/>
                 3. Dejeneratif menisküs yırtıkları<br/>
                 4. Radial (transvers) menisküs yırtıkları<br/>
@@ -230,89 +449,7 @@
                     ise çok yüksektir. Doğru teşhis konulamadığında fibromiyalji şikayetleri azalsa da bir süre sonra
                     yeniden başlama riski çok fazladır. Fibromiyalji tedavi edilmediğinde yaşam kalitesinde düşüş ve
                     işgücü kaybına neden olur.</p>
-                <p id="spine"><span style="font-size: 25px;"><img style="width: 28px;" class="mr-2"
-                            src="assets/icons8-posture-100.png" />
-                            <strong>
-                                <?=lang('Bel ve Boyun Fıtığı')?>
-                            </strong></span></p>
-                <p>Boyun fıtıgı Üst omurga disklerinin iç kısmında bulunan sıvı dışa doğru baskı uygulayarak sinirleri
-                    yırtar ve sıkıştırarak boyun fıtığına neden olur. Bu durum genellikle iskelet duruşu bozuk kişilerde
-                    ortaya çıkar. Yaşam kalitesini olumsuz etkiler. Bel fıtığı, beldeki omur kemikleri arasında bulunan
-                    ve adeta bir amortisör gibi görev yapan bu disklerin fıtıklaşması sonucu ortaya çıkan bir
-                    rahatsızlıktır. Sinire olan bası bacağa dek vuran ağrılara (siyatalji) ve bel ağrısına neden olur.
-                </p>
-                <p id="hair"><span style="font-size: 25px;"><img style="width: 28px;" class="mr-2"
-                            src="assets/icons8-hair-brush-100.png" /><strong><?=lang('Saç Tedavisi')?></strong></span></p>
-                <p>Mevcut her saç telinin bir yaşam siklusu vardır. Her saç teli 4- 6 yıl yaşar, sonra dinlenir ve daha
-                    sonra da dökülür. Saçların bu şekilde dökülmesi son derece doğal bir süreçtir ve günde 50-100 tel
-                    saç dökülmesi normal kabul edilir. Eğer bu sayıdan daha fazla dökülüyorsa, banyo yaparken ele gelen
-                    saç miktarı artmışsa ya da yıkanmış kurulanmış saçı elle çektiğimizde elimize 3-5 adet saç teli
-                    geliyorsa bu durumun ciddiye alınması gerekir. Saç dökülmesinin çok farklı nedenleri olabilir.
-                    Önemli olan bu nedenin saptanması ve uygun tedavinin yapılmasıdır.</p>
-                <p id="estetic"><span style="font-size: 25px;"><img style="width: 28px;" class="mr-2"
-                            src="assets/icons8-therapy-60.png" /><strong><?=lang('Estetik ve Cilt Tedavisi')?></strong></span></p>
-                <p>Cilt tedavileri cildin daha canlı, sağlıklı ve doğal görünmesi için uygulanan hem kişinin kendisini
-                    iyi hissetmesi bakımından hem de çevredeki insanlar karşısında iyi his uyandırması bakımından
-                    önemlidir. Cildimizde herhangi bir sebepten dolayı birçok cilt problemleri oluşabilir. Birçok kişi
-                    için rahatsız edici görünen cilt problemlerinden kurtulmak ve psikolojik açıdan rahatlamak artık
-                    mümkün hale gelmiştir cilt tedavileri gerek akne (sivilce) tedavisi ve skar izlerinde gerekse leke
-                    izleri olsun enerji&nbsp; tedavisi ile yeni halinize kavuşun.</p>
-                <p id="epilepsi"><span style="font-size: 25px;"><img style="width: 32px;" class="mr-2" src="assets/icons8-epilepsy-smart-watch-128.png" />
-                        <strong><?=lang('Epilepsi')?></strong></span></p>
-                <p>Metafizksel nedenler sebep olmak ile birlikte hiçbir metafiziksel neden olmaksızın tamamen tıbbi
-                    nedenler sebebi ilede karşımıza cıkmıştır.&nbsp; Epilepsi hastalığı beyinde sinir hücrelerinden
-                    kaynaklanan, kısa süreli nörolojik bir bozukluk yaşanmasıdır. Beyinde anormal elektriksel aktivite
-                    sonucu beklenmedik nöbetler meydana gelir. Epilepsi nöbetlerinin farklılıklar gösteren türleri
-                    vardır. Bayılma ya da titremenin yanı sıra bazı hastalarda, hastanın kendisi bile nöbetleri
-                    hissetmez ve bu da teşhisi güçleştirir</p>
-                <p id="egzama"><span style="font-size: 25px;"><img style="width: 23px;" class="mr-2" src="assets/icons8-bandage-52.png" />
-                    <strong><?=lang('Egzama')?></strong></span></p>
-                <p>Egzamanın birçok nedeni olabileceği gibi bilinmeyen birçok nedeni de olabilir. Egzamanın en sık
-                    görülen nedeni genetik, ikinci nedeni ise alerjik olmasıdır.</p>
-                <p>Egzama, cildin yapısında bulunan yağ miktarında değişme olur ve deride su kaybı meydana gelir. Su
-                    kaybı kaşıntıya neden olur ve cildin yapısını bozar. Ayrıca egzama ciltte kaşıntının dışında
-                    döküntü, kızarıklık, kuruma, kabarma, tahriş ve çatlağa da yol açar.</p>
-                <p>Egzamalı cilt çok kurudur ve sabun ve şampuanlar da cildin kuruluğunu daha da artırır. Ayrıca
-                    egzamalıların ciltleri çok narin olur bu yüzden giyime önem vermek gerekir, giyilen yünlü kıyafetler
-                    de cilde zarar verir.</p>
-                <p id="zona"><span style="font-size: 25px;"><img style="width: 23px;" class="mr-2" src="assets/icons8-bandage-52.png" />
-                    <strong><?=lang('Zona')?></strong></span></p>
-                <p>Zona hastalığı, ciltte belli bir bölgede oluşan kabarık, kaşıntı ve döküntü gibi belirtiler gösterir.
-                    Aynı zamanda depresyon, stres, yaşlılık ve vücudun direncini düşüren hastalıklarda zonaya neden
-                    olmaktadır.</p>
-                <p>Varisella zoster virüsü, sinir köklerine yerleşen bir virüs olduğundan zona hastalığına yakalanan
-                    kişilerin şiddetli ağrılar yaşamasına sebep olur. En çok göğüs ve baş bölgesini etkileyen zona
-                    hastalığı, sırt, karın, kalça, kol, bacak ve boyunda da görülür.</p>
-                <p id="sleep"><span style="font-size: 25px;"><img style="width: 28px;" class="mr-2" src="assets/icons8-insomnia-160.png" /><strong><?=lang('Uyku Apnesi')?></strong></span></p>
-                <p>Uyku apnesi, horlamanın neden olduğu en önemli hastalıklardan biridir ve uykuda solunumun durması
-                    olarak ifade edilebilir. Uyku esnasında nefesin durması ve yüzeysel hale gelmesi anlamına gelen uyku
-                    apnesi gece boyunca defalarca tekrarlayabilir. Uyku apnesi sırasında, üst solunum yolunun açık
-                    kalmasını sağlayan kaslarda gevşeme olur. Dil kökü veya yumuşak damağın veya aşırı büyümüş
-                    bademciklerin hava yolunu tıkaması sonucunda en az 10 saniye nefes alamamak uyku apnesi olarak
-                    adlandırılır.</p>
-                <p id="kolit"><span style="font-size: 25px;"> <img style="width: 28px;" class="mr-2" src="assets/icons8-colon-100.png" /><strong><?=lang('KOLIT')?></strong></span></p>
-                <p>Kalın bağırsağın iltihabi hastalıklarına kolit denir.</p>
-                <p id="bowelinfection"><span style="font-size: 25px;"><img style="width: 28px;" class="mr-2" src="assets/icons8-colon-100 (1).png" /><strong><?=lang('Bağırsak Iltihabı')?></strong></span></p>
-                <p>Bağırsak iltihabı, bağırsağın içinde bulunan ince zarın iltihaplanması sonucu bağırsağın etkin olarak
-                    görevlerini yerine getirememesine neden olan bir hastalıktır. Belirtileri farkedilebilir olsa da,
-                    tedavi edilmediğinde ciddi sonuçlara neden olmaktadır.</p>
-                <p id="multiplskleroz"><span style="font-size: 25px;"> <img style="width: 32px;" class="mr-2" src="assets/icons8-standing-man-80.png" /><strong><?=lang('Multipl Skleroz')?></strong></span></p>
-                <p>MS hastalığı yorgunluk, düzgün yürüyememe, kaslarda güçsüzlük, ve görme bozuklukları gibi
-                    belirtilerle ortaya çıkabilen bir hastalıktır. MS Hastalığı (Multipl skleroz), bağışıklık
-                    sisteminizin sinirlerinizi kapsayan koruyucu dokuya (miyelin) saldırdığı potansiyel olarak
-                    zayıflatan bir hastalıktır.</p>
-                <p id="koah"><span style="font-size: 25px;"><img style="width: 28px;" class="mr-2" src="assets/icons8-lungs-100.png" /><strong><?=lang('KOAH Hastalığı')?></strong></span></p>
-                <p>Kalp-damar hastalıkları, zatürre ve AIDS’ten sonra 4’üncü en sık ölüm nedeni olarak bilinmektedir.
-                    Akciğerlerde yaşanan hava yollarında daralma nedeniyle tahribata neden olan KOAH, bu nedenle bu
-                    hastalarda nefes darlığı oluşmasına neden olur.</p>
-                <p id="bowellaziness"><span style="font-size: 25px;"><img style="width: 28px;" class="mr-2" src="assets/icons8-colon-100 (2).png" /><strong><?=lang('Bağırsak Tembelliği')?></strong></span></p>
-                <p>Tembel bağırsak sendromu yani kabızlık sorunu genellikle dışkının çıkımında zorluk, bağırsak
-                    hareketlerindeki yavaşlama ya da huzursuz bağırsak sendromudur.</p>
-                <p id="migren"><span style="font-size: 25px;"><img style="width: 28px;" class="mr-2" src="assets/icons8-headache-128.png" />
-                    <strong>Migren</strong></span></p>
-                <p>Hastanın günlük yaşamanı etkileyebilen, gün içerisindeki gerçekleştirdiği aktivitelerde kısıtlılık
-                    yaratabilen bir baş ağrısı tipidir. Genellikle ense, şakak veya göz çevresinde başlar ve ağrının
-                    çeşitine göre hareket ettikçe kötüleşebilir.</p>
+
                 <p id="subsconcious"><span style="font-size: 25px;"><img style="width: 27px;" class="mr-2" src="assets/icons8-brain-stroke-100.png" /<strong><?=lang('Bilinçaltı Temizliği')?></strong></span></p>
                 <p>Temizlik denildiğinde bir arınmışlık hissi verdiği için bilinçaltı temizliği diyoruz. Bunun dışında
                     bilinçaltında bir silme işlemi gerçekleşmiyor. Böyle bir şey olması mümkün değil. Bunun için
@@ -324,11 +461,7 @@
                     bilinçaltına attığımız düşünce kalıplarıdır. Her çekirdek inancın kökenine indiğinizde buna sebep
                     olan mutlaka bir olay vardır.</p>
                 <p>Öncelikle kişinin bunun farkında olması ve kendi istemesi gerekiyor. Bir başkası için yapılamaz.</p>
-                <p id="asthma"><span style="font-size: 25px;"> <img style="width: 28px;" class="mr-2" src="assets/icons8-asthma-60.png" />
-                    <strong><?=lang('Astım')?></strong></span></p>
-                <p>Genellikle; öksürük, nefes darlığı, hırıltılı nefes alıp verme ve göğüste sıkışma hissidir. … Öksürük
-                    (genellikle kuru ve krizler halindedir gece uykuda uyandırabilir.) Hırıltılı solunum. Göğüste
-                    tıkanıklık ve sıkışma hissi.</p>
+
                 <p id="vitamind"><span style="font-size: 25px;"><img style="width: 28px;" class="mr-2" src="assets/icons8-olive-100.png" /><strong><?=lang('D Vitamini Eksikliği')?></strong></span></p>
                 <p>Yeterli güneş ışığı alamamak (özellikle vaktinin büyük bir bölümünü kapalı alanlarda geçirenler
                     için),</p>
