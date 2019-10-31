@@ -278,8 +278,16 @@ Eye infection with symptoms such as redness, wateryness, burning, stinging and s
      Abuse of the substance is the failure to fulfill basic life responsibilities, repeated physical exposures and legal offenses within a period of one year due to the multiple use of the substance.
      Substance addiction is defined as the substance begins to take the most important role in the life of the person, 
      the loss of control over the use of the substance and the existence of physical, psychological and social problems related to the substance use.
-     '
-];
+     ',
+     'media_title1'=>'
+         Havas expert Selahattin Akkaya, known for his remote metaphysics and bioenergy sessions
+         was guest in the TV program of the famous Turkish presenter Murat Yeni. 
+         Due to audience interest tv program aired for 4 consecutive days.
+     ',
+     'media_title21'=>'
+     Is there remote spiritual care, magic and haunting treatment?',
+     'media_title22'=>'You will watch the news broadcast of our teacher Selahattin Akkaya, who is an expert in metaphysics and bioenergy, which has come up frequently with his spiritual care, magic and haunting treatment on TV screens.'
+    ];
 
 function lang($key, $default=null){
     global $words;

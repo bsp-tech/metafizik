@@ -20,10 +20,12 @@
 									<div class="row">
 
 										<p style="font-size: 18px;padding-bottom: 30px" class="text-center">
-											Uzaktan yaptığı metafizik ve bioenerji seanslarıyla tanınan havas uzmanı Sattin Akkaya türk
-                                            ekranlarının tanınmış simalarından maceracı murat yeni'nin sunduğu bilinmeyenler ve sıradışı
-                                            programına konuk oldu ekran karşısındakilerin yoğun ilgisiyle karşıladığı Selahattin Akkaya'nın
+											<?=lang('media_title1','
+											Uzaktan yaptığı metafizik ve bioenerji seanslarıyla tanınan havas uzmanı Selahattin Akkaya türk
+                                            ekranlarının tanınmış simalarından maceracı Murat Yeni\'nin sunduğu bilinmeyenler ve sıradışı
+                                            programına konuk oldu. Ekran karşısındakilerin yoğun ilgisiyle karşıladığı Selahattin Akkaya\'nın
                                             programı kanal yöneticileri tarafından 4 gün üst üste yayınlandı
+											')?>
 										</p>
 									</div>
 								</div>
@@ -44,12 +46,16 @@
 						<div class="col-12 mt-2">
 							<div class="row">
 								<p class="text-center" style="font-weight: 600; font-size:23px;padding-bottom:20px;width:100%">
+									<?=lang('media_title21','
 									Uzaktan manevi bakım, büyü ve musallat tedavisi olur mu?
+									')?>
 								</p>
 								<p style="font-size: 18px;padding-bottom: 30px" class="text-center">
+                                    <?=lang('media_title22','
+                                    Son günlerde tv ekranlarında uzaktan yaptığı manevi bakım, büyü ve musallat tedavisiyle sık sık gündeme gelen 
+                                    metafizik, bioenerji uzmanı Selahattin Akkaya hocamızın üç tv kanalına yapmış olduğu haber niteliği taşıyan yayınını izleyeceksiniz.
+                                    ')?>
 
-									Son günlerde tv ekranlarinda uzaktan yaptığı manevi bakım, büyü ve musallat tedavisiyle sık sık gündeme gelen metafizik
-									Bioenerji uzmani <strong>Selahattin Akkaya</strong> hocamızın üç tv kanalina yapmış olduğu haber niteliği taşıyan yayınını izleyeceksiniz.
 								</p>
 							</div>
 						</div>
@@ -68,7 +74,7 @@
 			</div>
             <div class="col-md-12 mt-3 text-center">
                 <a href="https://www.youtube.com/channel/UCzyIznzYBn1jLCziyT7QCOg/videos" class="btn btn-warning">
-                    DAHA FAZLA
+                    <?=lang('DAHA FAZLA','DAHA FAZLA')?>
                 </a>
             </div>
 		</div>

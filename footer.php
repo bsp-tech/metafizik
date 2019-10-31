@@ -55,6 +55,12 @@
                         Instagram
                     </a>
                 </p>
+                <p>
+                    <a href="https://www.facebook.com/selahattinakkaya.com.tr/" class="text-decoration-none" style="font-size: 25px;color: #007bff">
+                        <i class="fab fa-instagram mr-3"></i>
+                        Facebook
+                    </a>
+                </p>
             </div>
         </div>
         <hr>

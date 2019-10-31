@@ -246,15 +246,18 @@
     <div class="d-flex justify-content-center mt-5 flex-column align-items-center">
         <h2 class="text-success text-center"><strong><?=lang('Sosyal Medyada Bizi Takib Edin')?></strong></h2>
         <div class="mt-4  justify-content-center d-flex flex-wrap flex-row">
-            <div class="">
-                <a href="https://www.youtube.com/channel/UCzyIznzYBn1jLCziyT7QCOg" class=" mr-4 text-decoration-none" style="font-size: 45px;color: #E62117">
-                    <i class="fab fa-youtube mr-3"></i>YouTube</a>
-            </div>
-
-            <div>
-                <a href="https://www.instagram.com/prof.selahattinakkaya/" class=" text-decoration-none" style="font-size: 45px;color: #F58529">
-                    <i class="fab fa-instagram mr-3"></i>Instagram</a>
-            </div>
+                <a href="https://www.youtube.com/channel/UCzyIznzYBn1jLCziyT7QCOg" class="mr-4 text-decoration-none" style="font-size: 45px;color: #E62117">
+                    <i class="fab fa-youtube mr-3"></i>
+                    YouTube
+                </a>
+                <a href="https://www.instagram.com/prof.selahattinakkaya/" class="mr-4 text-decoration-none" style="font-size: 45px;color: #F58529">
+                    <i class="fab fa-instagram mr-3"></i>
+                    Instagram
+                </a>
+                <a href="https://www.facebook.com/selahattinakkaya.com.tr/" class="text-decoration-none" style="font-size: 45px;color: #007bff">
+                    <i class="fab fa-facebook mr-3"></i>
+                    Facebook
+                </a>
         </div>
 
     </div>

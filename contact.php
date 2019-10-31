@@ -22,7 +22,7 @@ $text = lang('contact_us',"Numaramızda sadece whatsapp aktifdir. Direk olarak a
                 <div class="col-lg-6 py-3">
                     <div class="contact p-2 w-100 text-muted">
                         <p class = "p-1"><i class="fas fa-home pr-2"></i><?=lang('address','Yenibosna merkez mah güneşli Yolu Caddesi no 2/3 h blok kat 2 ofis 27 ikebana Evleri-Bahçelievler İstanbul Türkiye')?></p>
-                        <p class = "p-1"><i class="fas fa-envelope pr-2"></i>info@metafizik.com.tr</p>
+                        <p class = "p-1"><i class="fas fa-envelope pr-2"></i>sadanismanlikmetafizik@gmail.com</p>
                         <p class = "p-1"><i class="fas fa-phone-alt pr-2"></i><?=$whatsapp?>
                             <span class="text-danger"><?=lang('contact_us_direct','(Direk olarak arama mümkün değil. Sadece Whatsapp üzerinden arama yapa ve ya yaza bilirsiniz.)')?></span>
                         </p>
