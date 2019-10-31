@@ -195,8 +195,90 @@ Eye infection with symptoms such as redness, wateryness, burning, stinging and s
      'Egzama_desc'=>'Eczema can have many causes or unknown causes. The most common cause of eczema is genetic and the second is allergic. Changes in the amount of fat in the structure of the skin and water loss occurs in the skin. Loss of water causes itching and disrupts the structure of the skin. Eczema also causes skin rash, rash, dryness, blistering, irritation and cracking. Eczema is very dry and soaps and shampoos further increase the dryness of the skin. In addition, eczema\'s skin is very delicate, so it is necessary to give importance to clothing, woolen clothes worn will damage the skin.',
      'Zona_desc'=>'Shingles, puffiness, itching and rash appear on a certain area of the skin. It also causes shingles in depression, stress, old age and diseases that decrease the resistance of the body. Varicella zoster virus is a virus that settles in the nerve roots, causing people suffering from shingles to experience severe pain. Shingles affecting the chest and head. It is mostly seen in the back, abdomen, hips, arms, legs and neck.',
      'Uyku Apnesi_desc'=>'Sleep apnea is one of the most important diseases caused by snoring and can be expressed as a cessation of breathing during sleep. Sleep apnea, which means that breathing stops and becomes superficial during sleep, may recur repeatedly over night. During sleep apnea, there is relaxation in the muscles that keep the upper respiratory tract open. Inability to breathe for at least 10 seconds as a result of tongue root or soft palate or overgrown tonsils obstructing airway is called sleep apnea.',
-     ''=>'',
-
+     'Terapi (Duygusal ve Zihinsel)_desc'=>'
+     When we talk about therapy, most of us think of the therapy scenes in the movies. The client has reached a couch, the therapist\'s facial expression is almost non-existent and the therapy is overcome by "Let\'s go back to your childhood." Actually, this is not really what happened during therapy. Therapy is a process of discovery that allows you to realize your feelings, thoughts, beliefs about yourself and others, your attitudes and unconscious driving forces that you do not even realize in daily life, accompanied by mental health professionals who have completed their necessary training. The most important purpose of this discovery process is to gain insight into the challenges you are experiencing, to bring about changes in your thoughts and feelings, to identify the motivation you need to implement these changes and the appropriate ways for change. We all want someone to listen to us and understand. This is one of the reasons we came to therapy. Today, interest in therapy has increased, but some of us still have the idea that "I do it with my mother / father / wife, etc.". Our troubles with our relatives and friends are really troubles and the focus is on troubles. In the therapy process with the therapist, the focus is on change.     
+     ',
+     'Menisküs_desc'=>'
+                    There are 3 bones that make up the knee joint.
+                    Thigh (femur), leg (tibia) bone, and anterior knee cap (patella) bone.
+                    As the joint faces are not very suitable for each other, the knee joint is reinforced with ligaments and cartilage-shaped meniscus.
+                    Each knee has two meniscus, internal and external.
+                    C-shaped meniscus are elastic structures with dense tight weave collagen fibers to resist compression.
+                    The meniscus, which acts as a shock absorber between the knee pads and the joint, distributes the load over a larger area and protects the articular cartilage from high pressure.
+                    The most common meniscal tears are as follows:<br/>
+                    1. Oblique meniscus tears are the most common meniscus injuries. Such meniscus tears are usually caused by trauma in young patients. <br/>
+                    2. Vertical longitudinal meniscus tears <br/>
+                    3. Degenerative meniscus tears <br/>
+                    4. Radial (transverse) meniscus tears <br/>
+                    5. Horizontal meniscus tears <br/>
+                    6. Complex tears that contain many features <br/> <br/>
+     ',
+     'Fibromiyalji_desc'=>' Fibromyalgia syndrome is a chronic soft tissue rheumatic pain syndrome characterized by sleep disorder, widespread pain and tenderness in muscles, fatigue, weakness and morning stiffness. In particular, it manifests itself with extreme sensitivity from certain points of the body. Fibromyalgia syndrome which is seen in 3% of the population adversely affects the quality of life of the patients. Fibromyalgia, the second most common disease among rheumatic diseases, is three times more common in women than in men. Studies show that there are approximately 1.3 million fibromyalgia patients in our country. Fibromyalgia symptoms are very likely to be compared with different diseases. Although fibromyalgia complaints decrease when the correct diagnosis is not made, there is a high risk of restarting after a while. Fibromyalgia leads to a loss of quality of life and labor loss if left untreated.',
+     'Bilinçaltı Temizliği_desc'=>'
+         When we say cleaning, we call it subconscious cleaning because it gives a sense of purity. 
+         Otherwise, there is no subconscious deletion. 
+         There\'s no way that\'s gonna happen. 
+         For this your memory needs to be erased! 
+         It\'s more like subconscious reprogramming. 
+         What exactly happens is that the meanings you place on negative emotions are changing. 
+         There is a change-transformation. 
+         To turn a negative record into a positive. 
+         Transforming the energy of fear into the energy of love. 
+         Is this possible? Yes, Possible! 
+         What we call core beliefs are the patterns of thought that we throw into our subconscious from our family or environment since the moment we are born. 
+         Every time you go down to the origin of every core belief, there is always an something happened that causes it. 
+         First, one needs to be aware of this and ask for it. 
+         It can\'t be done for someone else.
+     
+     ',
+     'D Vitamini Eksikliği_desc'=>'
+     In most of us, vitamin D deficiency is seen due to not getting enough sunlight (especially for those who spend most of their time in closed areas), not to eat healthy, thinning of the skin as the age progresses, and decrease in vitamin D production.
+     ',
+     'Mineral Eksikliği_desc'=>'
+     If vitamin A deficiency occurs, skin dryness, high blood pressure, hair and nail breaks, visual impairment, weakness and resistance to infections may occur. Vitamin B1 deficiency may occur in the circulatory system, nervous system, digestive disorder and fatigue. Vitamin B6 deficiency can also cause kidney stone formation and anemia as well as nervous system and fatigue. Deficiency of vitamin B12 may cause permanent nervous system disorders such as Alzheimer\'s disease. The functions of minerals are interesting. They enable the formation of enzymes and other body chemicals that regulate vital activity. The most important regulatory structures of our body are hormones. Hormonal activity is not possible without minerals. Proteins that form the cornerstones of our body become available through minerals. Minerals regulate body fluids, blood pressure, PH balance. Many minerals have special functions. Some of these have not yet been discovered.
+     ',
+     'Yaşam Koçluğu_desc'=>'
+         Coaching, literally, means taking someone from one place to another. 
+         Coaching is a planned development relationship between the coach and the coachee to achieve the desired performance. 
+         It is a learning and development process that focuses on achievable goals and possibilities by revealing the existing potential of individuals. 
+         Today, there are different coaching practices in many subjects. 
+         These include: life coaching, student coaching, parent coaching, family coaching, relationship coaching, sports coaching, sales coaching etc.
+         Coaching is not a psychological counseling. 
+         Counseling is not at all. 
+         Coaching is a method that takes you to the point where you want to go in every aspect of your life and guides you on this journey by just shining light.
+     ',
+     'Motivasyon Artırım_desc'=>'
+     The word motivation comes from the Latin word movere, that is, the movement. 
+     Motivation is a general concept that includes desires, needs, impulses and interests. 
+     The motives of physiological origin such as hunger, thirst are called impulse. 
+     High impulses such as people\'s desire to be succeed is called the need. 
+     In understanding the motivation process, the relationships and meanings between needs and impulses are important. 
+     The limit of what people will be able to is determined by their level of education and skill, 
+     and the limit of what people can do is determined by the level of morale and motivation. 
+     
+     Our ability to do our best depends on our motivation. 
+     
+     Motivation is essential to success, but alone is not enough. 
+     
+     We all want to be more successful in life, we know what to do to succeed. 
+     We know why we should do this. 
+     We know how we can do this if we want, what we will gain by doing it, and what we have lost by not doing it. 
+     But, anyway, we don\'t do what we need to do. 
+     
+     So what\'s stopping us? 
+     
+     The answer is inertia! 
+     
+     Inertia means stasis, laziness, sloth, inactivity. The opposite of being in inertia is to be in motion.
+     ',
+     'Madde Bağımlılığı_desc'=>'
+     Addictive substances are natural or artificial pleasurable substances that affect the brain functions and all bodily structures 
+     and create permanent changes in organ systems over time, which are not necessary for life. 
+     Pathological use of substances is examined in two categories. 
+     Abuse of the substance is the failure to fulfill basic life responsibilities, repeated physical exposures and legal offenses within a period of one year due to the multiple use of the substance.
+     Substance addiction is defined as the substance begins to take the most important role in the life of the person, 
+     the loss of control over the use of the substance and the existence of physical, psychological and social problems related to the substance use.
+     '
 ];
 
 function lang($key, $default=null){

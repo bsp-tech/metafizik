@@ -403,129 +403,191 @@
                     <img style="width: 28px;" class="mr-2" src="assets/icons8-wise-mind-100.png" />
                     <strong><?=lang('Terapi (Duygusal ve Zihinsel)')?></strong></span>
                 </p>
-                <p>Terapi denince çoğumuzun aklına filmlerdeki terapi sahneleri gelir; danışan bir divana
-                    uzanmıştır, terapistin yüz ifadesi yok denecek kadar azdır ve terapi “Çocukluğunuza dönelim” ile
-                    başlar.. Aslında terapi boyunca olan gerçekte bu değildir. Terapi gerekli eğitimlerini tamamlamış
-                    ruh sağlığı profesyonelleri eşliğinde duygularınızı, düşüncelerinizi, hayata bakış açınızı, kendiniz
-                    ve diğerleri ile ilgili inançlarınızı, tutumlarınızı, günlük yaşamda sizin bile farkına varmadığınız
-                    bilinçdışı itici güçlerinizi fark etmenizi sağlayan bir keşif sürecidir. Bu keşif sürecinin en
-                    önemli amacı ise yaşadığınız zorluklara karşı iç görü kazanmanız, düşünce ve duygularınızda
-                    değişiklik meydana getirmeniz, bu değişiklikleri hayata geçirebilmek için ihtiyacınız olan
-                    motivasyonu ve değişim için uygun yolları belirlemektir.</p>
-                <p>Hepimiz birileri bizi dinlesin, anlasın isteriz. Bu da terapiye gelmemizin sebeplerinden biridir.
-                    Günümüzde terapiye olan ilgi artmıştır ancak hala bazılarımızın kafasında “Ben bunu
-                    annemle/babamla/eşimle vs. ile de yapıyorum” gibi bir düşünce vardır. Yakınlarımız ve dostlarımız
-                    ile “dertleşme”lerimiz gerçekten de “dert”leşmektir ve odak noktası derttir. Terapist ile
-                    gerçekleştirilen terapi sürecinde ise odak noktası “değişim”dir</p>
-                <p id="meniskus"><span style="font-size: 25px;"><img style="width: 28px;" class="mr-2"
-                                                                     src="assets/icons8-leg-48.png" /><strong><?=lang('Menisküs')?></strong></span></p>
-                <p>Diz eklemi oluşturan 3 kemikten bulunmaktadır. Uyluk (femur), bacak (tibia) kemiği ve önde diz kapağı
-                    (patella) kemiğidir. Eklem yüzleri birbirlerine çok uygun olmadığı için diz eklemi; eklem
-                    bağları(ligamentler) ve kıkırdak yapıdaki menisküslerle güçlendirilmiştir.</p>
-                <p>Her dizde iç ve dış olmak üzere iki adet menisküs bulunmaktadır. “C” şeklindeki menisküsler
-                    kompresyona direnç gösterecek biçimde yoğun sıkı örgü şeklinde kolajen lifleri bulunan elastikiyeti
-                    olan yapılardır. Diz yastıkları ve eklemi arasında amortisör görevini gören menisküsler; yükün daha
-                    geniş bir alana dağılmasını ve eklem kıkırdaklarının yüksek basınçtan korunmasını sağlar.Menisküs
-                    yırtıklarının en sık yaşananları sırasıyla şu şekildedir;</p>
-                1. Oblik yani eğik menisküs yırtıkları en sık görülen menisküs yaralanmalardır. Bu tür menisküs
-                yırtıkları genellikle genç hastalarda travma sonucu yaşanmaktadır.<br/>
-                2. Vertikal longitudinal menisküs yırtıkları<br/>
-                3. Dejeneratif menisküs yırtıkları<br/>
-                4. Radial (transvers) menisküs yırtıkları<br/>
-                5. Horizontal menisküs yırtıkları<br/>
-                6. Kompleks yani birçok özelliği barındıran yırtıklar<br/><br/>
-
-                <p id="fibro"><span style="font-size: 25px;">
-                    <img style="width: 28px;" class="mr-2" src="assets/icons8-general-massage-area-100.png" />
-                    <strong><?=lang('Fibromiyalji')?></strong></span>
+                <p><?=lang('Terapi (Duygusal ve Zihinsel)_desc','
+                    Terapi denince çoğumuzun aklına filmlerdeki terapi sahneleri gelir.
+                    Danışan bir divana uzanmıştır, terapistin yüz ifadesi yok denecek kadar azdır ve terapi "Çocukluğunuza dönelim" ile aşlar.
+                    Aslında terapi boyunca olan gerçekte bu değildir.
+                    Terapi gerekli eğitimlerini tamamlamış ruh sağlığı profesyonelleri eşliğinde duygularınızı, düşüncelerinizi, hayata bakış açınızı,
+                    kendiniz ve diğerleri ile ilgili inançlarınızı, tutumlarınızı, günlük yaşamda sizin bile farkına varmadığınız bilinçdışı itici güçlerinizi
+                    fark etmenizi sağlayan bir keşif sürecidir.
+                    Bu keşif sürecinin en önemli amacı ise yaşadığınız zorluklara karşı iç görü kazanmanız, düşünce ve duygularınızda değişiklik meydana getirmeniz,
+                    bu değişiklikleri hayata geçirebilmek için ihtiyacınız olan motivasyonu ve değişim için uygun yolları belirlemektir.
+                    Hepimiz birileri bizi dinlesin, anlasın isteriz. Bu da terapiye gelmemizin sebeplerinden biridir.
+                    Günümüzde terapiye olan ilgi artmıştır ancak hala bazılarımızın kafasında "Ben bunu annemle/babamla/eşimle vs. ile de yapıyorum" gibi bir düşünce vardır.
+                    Yakınlarımız ve dostlarımız ile dertleşmelerimiz gerçekten de dertleşmektir ve odak noktası derttir.
+                    Terapist ile gerçekleştirilen terapi sürecinde ise odak noktası "değişim"-dir.
+                ')?>
                 </p>
-                <p>Fibromiyalji sendromu, uyku bozukluğu, kaslarda yaygın ağrı ve hassasiyet, aşırı yorgunluk, halsizlik
-                    ve sabah tutukluğu ile kendini belli eden kronik yumuşak doku romatizmal ağrı sendromudur. Özellikle
-                    vücudun belli noktalarından aşırı hassasiyet ile kendini belli eder. Toplumun yüzde 3’ünde görülen
-                    fibromiyalji sendromu hastaların yaşam kalitesini olumsuz etkilemektedir. Romatizmal hastalıklar
-                    içerisinde en sık karşılaşılan ikinci hastalık olan Fibromiyalji kadınlarda erkeklere göre üç kat
-                    daha sık görülmektedir. Yapılan araştırmalar, ülkemizde yaklaşık 1,3 milyon fibromiyalji hastası
-                    olduğunu göstermektedir. Fibromiyalji belirtilerinin farklı hastalıklarla karşılaştırılma olasılığı
-                    ise çok yüksektir. Doğru teşhis konulamadığında fibromiyalji şikayetleri azalsa da bir süre sonra
-                    yeniden başlama riski çok fazladır. Fibromiyalji tedavi edilmediğinde yaşam kalitesinde düşüş ve
-                    işgücü kaybına neden olur.</p>
+                <p id="meniskus">
+                    <span style="font-size: 25px;">
+                        <img style="width: 28px;" class="mr-2" src="assets/icons8-leg-48.png" />
+                        <strong><?=lang('Menisküs')?></strong>
+                    </span>
+                </p>
+                <p>
+                    <?=lang('Menisküs_desc','
+                    Diz eklemi oluşturan 3 kemikten bulunmaktadır.
+                    Uyluk (femur), bacak (tibia) kemiği ve önde diz kapağı (patella) kemiğidir.
+                    Eklem yüzleri birbirlerine çok uygun olmadığı için diz eklemi, eklem bağları(ligamentler) ve kıkırdak yapıdaki menisküslerle güçlendirilmiştir.
+                    Her dizde iç ve dış olmak üzere iki adet menisküs bulunmaktadır.
+                    "C" şeklindeki menisküsler kompresyona direnç gösterecek biçimde yoğun sıkı örgü şeklinde kolajen lifleri bulunan elastikiyeti olan yapılardır.
+                    Diz yastıkları ve eklemi arasında amortisör görevini gören menisküsler yükün daha geniş bir alana dağılmasını ve eklem kıkırdaklarının yüksek basınçtan korunmasını sağlar.
+                    Menisküs yırtıklarının en sık yaşananları sırasıyla şu şekildedir:
+                    1. Oblik yani eğik menisküs yırtıkları en sık görülen menisküs yaralanmalarıdır.
+                    Bu tür menisküs yırtıkları genellikle genç hastalarda travma sonucu yaşanmaktadır.<br/>
+                    2. Vertikal longitudinal menisküs yırtıkları<br/>
+                    3. Dejeneratif menisküs yırtıkları<br/>
+                    4. Radial (transvers) menisküs yırtıkları<br/>
+                    5. Horizontal menisküs yırtıkları<br/>
+                    6. Kompleks yani birçok özelliği barındıran yırtıklar<br/><br/>
+                    ')?>
+                </p>
+                <p id="fibro">
+                    <span style="font-size: 25px;">
+                        <img style="width: 28px;" class="mr-2" src="assets/icons8-general-massage-area-100.png" />
+                        <strong><?=lang('Fibromiyalji')?></strong>
+                    </span>
+                </p>
+                <p>
+                    <?=lang('Fibromiyalji_desc','
+                    Fibromiyalji sendromu uyku bozukluğu, kaslarda yaygın ağrı ve hassasiyet, aşırı yorgunluk, halsizlik
+                    ve sabah tutukluğu ile kendini belli eden kronik yumuşak doku romatizmal ağrı sendromudur.
+                    Özellikle vücudun belli noktalarından aşırı hassasiyet ile kendini belli eder.
+                    Toplumun yüzde 3’ünde görülen fibromiyalji sendromu hastaların yaşam kalitesini olumsuz etkilemektedir.
+                    Romatizmal hastalıklar içerisinde en sık karşılaşılan ikinci hastalık olan Fibromiyalji kadınlarda erkeklere göre üç kat daha sık görülmektedir.
+                    Yapılan araştırmalar, ülkemizde yaklaşık 1,3 milyon fibromiyalji hastası olduğunu göstermektedir.
+                    Fibromiyalji belirtilerinin farklı hastalıklarla karşılaştırılma olasılığı ise çok yüksektir.
+                    Doğru teşhis konulamadığında fibromiyalji şikayetleri azalsa da bir süre sonra yeniden başlama riski çok fazladır.
+                    Fibromiyalji tedavi edilmediğinde yaşam kalitesinde düşüş ve işgücü kaybına neden olur.
+                    ')?>
 
-                <p id="subsconcious"><span style="font-size: 25px;"><img style="width: 27px;" class="mr-2" src="assets/icons8-brain-stroke-100.png" /<strong><?=lang('Bilinçaltı Temizliği')?></strong></span></p>
-                <p>Temizlik denildiğinde bir arınmışlık hissi verdiği için bilinçaltı temizliği diyoruz. Bunun dışında
-                    bilinçaltında bir silme işlemi gerçekleşmiyor. Böyle bir şey olması mümkün değil. Bunun için
-                    hafızanızın silinmesi gerek! Buna daha çok bilinçaltını yeniden programlama diyebiliriz. Tam olarak
-                    olan şu aslında, olumsuz duygulara yüklediğiniz anlamlar değişiyor.</p>
-                <p>Bir değişim-dönüşüm söz konusu. Olumsuz bir kaydı pozitife çevirmek. Korku enerjisini sevgi
-                    enerjisine dönüştürmek. Bu mümkün mü? Mümkün!</p>
-                <p>Çekirdek inanç dediğimiz şey doğduğumuz andan itibaren ailemiz veya çevremizden aldığımız
-                    bilinçaltına attığımız düşünce kalıplarıdır. Her çekirdek inancın kökenine indiğinizde buna sebep
-                    olan mutlaka bir olay vardır.</p>
-                <p>Öncelikle kişinin bunun farkında olması ve kendi istemesi gerekiyor. Bir başkası için yapılamaz.</p>
+                </p>
 
-                <p id="vitamind"><span style="font-size: 25px;"><img style="width: 28px;" class="mr-2" src="assets/icons8-olive-100.png" /><strong><?=lang('D Vitamini Eksikliği')?></strong></span></p>
-                <p>Yeterli güneş ışığı alamamak (özellikle vaktinin büyük bir bölümünü kapalı alanlarda geçirenler
-                    için),</p>
-                <p>Sağlıklı beslenmemek,</p>
-                <p>Yaş ilerledikçe cildin incelmesi,</p>
-                <p>D vitamini üretiminin azalması gibi sebeplerle çoğumuzda D vitamini eksikliği görülür.</p>
-                <p>Bağırsak parazitleri</p>
-                <p>Bağırsak parazitleri gözle görülmeyecek derecede ufak olan yumurtaların ağız yoluyla alınmasından
-                    belli bir süre sonra ortaya çıkan ve sindirim sisteminde yaşamaya başlayan kurtçuklardır. Bağırsak
-                    parazitlerinin neden oluştuğu ve neler olduğu ise hemen her gün aratılan konular arasında yer
-                    alıyor. Bu parazitlerin oluşmasında etkili olan, belli başlı sebepler bulunmaktadır. Bunlar hijyen
-                    ve temiz ortamında olmaması, kişisel bakım ve temizliğe özen göstermemek gibi nedenlerinde içinde
-                    bulunduğu birçok nedendir.</p>
-                <p id="substanceabuse"><span style="font-size: 25px;"><img style="width: 28px;" class="mr-2" src="assets/icons8-syringe-128.png" /><strong><?=lang('Madde Bağımlılığı')?></strong></span></p>
-                <p>Bağımlılık yapıcı madde, beyin işlevlerini ve tüm bedensel yapıları etkileyerek, zamanla organ
-                    sistemlerinde kalıcı değişiklikler oluşturan, yaşam için gerekli olmayan, doğal ya da yapay keyif
-                    verici maddelerdir.</p>
-                <p>Maddelerin patolojik kullanımı iki kategori içerisinde incelenmektedir.</p>
-                <p>Maddenin kötüye kullanımı, maddenin birçok kere kullanılmasına bağlı olarak bir yıllık süre içinde
-                    tekrarlayacak şekilde temel yaşam sorumluluklarını yerine getirmeme, fiziksel tehlikelere maruz
-                    kalma, yasal suçlar işleme gibi sorunlar yaşamaktır.</p>
-                <p>Madde bağımlılığı ise, maddenin kişinin yaşamında en önemli rol oynaması, bireyin madde kullanımı
-                    üzerinde kontrolünü kaybetmesi ve madde kullanımına bağlı olarak fiziksel, psikolojik ve toplumsal
-                    sorunların varlığı şeklinde tanımlanır.</p>
-                <p id="minerallack"><span style="font-size: 25px;"><img style="width: 28px;" class="mr-2" src="assets/icons8-bottle-of-water-100.png" /><strong><?=lang('Mineral Eksikliği')?></strong></span></p>
-                <p>A vitamini, vücutta eksikliği oluşursa, ciltte kuruluk, yüksek tansiyon, saç ve tırnak kırılmaları,
-                    görmede bozukluk, halsizlik ve enfeksiyonlara karşı dirençsizlik oluşabilir. B1 vitamini
-                    eksikliğinde dolaşım sistemi, sinir sistemi, sindirim bozukluğu ve halsizlik oluşabilir. B6 vitamini
-                    eksikliğinde de sinir sistemi ve halsizliğin yanı sıra böbrek taşı oluşumu ve kansızlık
-                    görülebilmektedir. B12 vitamininin eksikliğinde ise alzheimer gibi kalıcı sinir sistemi bozuklukları
-                    ortaya çıkabilir”&nbsp; minerallerin işlevleri ilginçtir;</p>
-                <p>Yaşamsal faaliyeti düzenleyen enzimlerin ve diğer vücut kimyasallarının oluşmasını sağlarlar.</p>
-                <p>Bedenimizin en önemli düzenleyici yapıları hormonlardır. Mineraller olmadan hormonal faaliyet mümkün
-                    değildir.</p>
-                <p>Vücudumuzun temel taşlarını oluşturan proteinler, mineraller sayesinde kullanılır hale gelirler.</p>
-                <p>Vücut sıvılarını, kan basıncını, PH dengesini mineraller düzenler. Birçok minerallerin özel işlevleri
-                    vardır. Bunların bazıları henüz keşfedilmemiştir.</p>
+                <p id="subsconcious">
+                    <span style="font-size: 25px;">
+                        <img style="width: 27px;" class="mr-2" src="assets/icons8-brain-stroke-100.png"/>
+                        <strong><?=lang('Bilinçaltı Temizliği')?></strong>
+                    </span>
+                </p>
+                <p>
+                    <?=lang('Bilinçaltı Temizliği_desc','
+                     Temizlik denildiğinde bir arınmışlık hissi verdiği için bilinçaltı temizliği diyoruz.
+                    Bunun dışında bilinçaltında bir silme işlemi gerçekleşmiyor.
+                    Böyle bir şey olması mümkün değil.
+                    Bunun için hafızanızın silinmesi gerek! Buna daha çok bilinçaltını yeniden programlama diyebiliriz.
+                    Tam olarak olan şu aslında, olumsuz duygulara yüklediğiniz anlamlar değişiyor.
+                    Bir değişim-dönüşüm söz konusu.
+                    Olumsuz bir kaydı pozitife çevirmek.
+                    Korku enerjisini sevgi enerjisine dönüştürmek.
+                    Bu mümkün mü? Mümkün!
+                    Çekirdek inanç dediğimiz şey doğduğumuz andan itibaren ailemiz veya çevremizden aldığımız bilinçaltına attığımız düşünce kalıplarıdır.
+                    Her çekirdek inancın kökenine indiğinizde buna sebep olan mutlaka bir olay vardır.
+                    Öncelikle kişinin bunun farkında olması ve kendi istemesi gerekiyor.
+                    Bir başkası için yapılamaz.
+                    
+                    ')?>
+
+                </p>
+
+                <p id="vitamind">
+                    <span style="font-size: 25px;">
+                        <img style="width: 28px;" class="mr-2" src="assets/icons8-olive-100.png" />
+                        <strong><?=lang('D Vitamini Eksikliği')?></strong>
+                    </span>
+                </p>
+                <p><?=lang('D Vitamini Eksikliği_desc','
+                Yeterli güneş ışığı alamamak (özellikle vaktinin büyük bir bölümünü kapalı alanlarda geçirenler
+                    için),
+                    Sağlıklı beslenmemek,
+                    Yaş ilerledikçe cildin incelmesi,
+                    D vitamini üretiminin azalması gibi sebeplerle çoğumuzda D vitamini eksikliği görülür.
+                ')?>
+
+                </p>
+                <p id="substanceabuse">
+                    <span style="font-size: 25px;">
+                        <img style="width: 28px;" class="mr-2" src="assets/icons8-syringe-128.png" />
+                        <strong><?=lang('Madde Bağımlılığı')?></strong>
+                    </span>
+                </p>
+                <p>
+                    <?=lang('Madde Bağımlılığı_desc','
+                    Bağımlılık yapıcı madde, beyin işlevlerini ve tüm bedensel yapıları etkileyerek, zamanla organ sistemlerinde kalıcı değişiklikler oluşturan, yaşam için gerekli olmayan, doğal ya da yapay keyif verici maddelerdir. 
+                    Maddelerin patolojik kullanımı iki kategori içerisinde incelenmektedir. 
+                    Maddenin kötüye kullanımı maddenin birçok kere kullanılmasına bağlı olarak bir yıllık süre içinde tekrarlayacak şekilde temel yaşam sorumluluklarını yerine getirmeme, fiziksel tehlikelere maruz kalma, yasal suçlar işleme gibi sorunlar yaşamaktır.
+                    Madde bağımlılığı ise, maddenin kişinin yaşamında en önemli rol oynaması, bireyin madde kullanımı üzerinde kontrolünü kaybetmesi ve madde kullanımına bağlı olarak fiziksel, psikolojik ve toplumsal sorunların varlığı şeklinde tanımlanır.
+                    ')?>
+
+                </p>
+
+                <p id="minerallack">
+                    <span style="font-size: 25px;">
+                        <img style="width: 28px;" class="mr-2" src="assets/icons8-bottle-of-water-100.png" />
+                        <strong><?=lang('Mineral Eksikliği')?></strong>
+                    </span>
+                </p>
+                <p>
+                    <?=lang('Mineral Eksikliği_desc','
+                    A vitamini eksikliği oluşursa, ciltte kuruluk, yüksek tansiyon, saç ve tırnak kırılmaları,
+                    görmede bozukluk, halsizlik ve enfeksiyonlara karşı dirençsizlik oluşabilir.
+                    B1 vitamini eksikliğinde dolaşım sistemi, sinir sistemi, sindirim bozukluğu ve halsizlik oluşabilir. 
+                    B6 vitamini eksikliğinde de sinir sistemi ve halsizliğin yanı sıra böbrek taşı oluşumu ve kansızlık görülebilmektedir.
+                    B12 vitamininin eksikliğinde ise alzheimer gibi kalıcı sinir sistemi bozuklukları ortaya çıkabilir”&nbsp;minerallerin işlevleri ilginçtir.
+                    Yaşamsal faaliyeti düzenleyen enzimlerin ve diğer vücut kimyasallarının oluşmasını sağlarlar.
+                    Bedenimizin en önemli düzenleyici yapıları hormonlardır. Mineraller olmadan hormonal faaliyet mümkün değildir.
+                    Vücudumuzun temel taşlarını oluşturan proteinler, mineraller sayesinde kullanılır hale gelirler.
+                    Vücut sıvılarını, kan basıncını, PH dengesini mineraller düzenler. Birçok minerallerin özel işlevleri vardır.
+                    Bunların bazıları henüz keşfedilmemiştir.
+                    ')?>
+
+                </p>
+
+
                 <p id="life"><span style="font-size: 25px;"> <img style="width: 28px;" class="mr-2" src="assets/icons8-personal-trainer-100.png" />
                     <strong><?=lang('Yaşam Koçluğu')?></strong></span></p>
-                <p>kelime anlamı olarak koçluk (coaching), birini bir yerden bir yere götürme anlamına gelir. Koçluk,
-                    istenen performansa ulaşmak için, koç (coach) ve danışan (coachee) arasında kurulan planlı bir
-                    gelişim ilişkisidir. Kişilerin var olan potansiyellerini ortaya çıkararak, ulaşılabilir hedeflere ve
-                    olasılıklara odaklanan bir öğrenme ve gelişim sürecidir.</p>
-                <p>Günümüzde pek çok konuda farklı koçluk uygulamaları vardır. Bunlardan bazıları; yaşam koçluğu,
-                    öğrenci koçluğu, ebeveyn koçluğu, aile koçluğu, ilişki koçluğu, sporcu koçluğu, satış koçluğudur.
+                <p>
+                    <?=lang('Yaşam Koçluğu_desc','
+                    Kelime anlamı olarak koçluk (coaching), birini bir yerden bir yere götürme anlamına gelir.
+                    Koçluk, istenen performansa ulaşmak için, koç (coach) ve danışan (coachee) arasında kurulan planlı bir gelişim ilişkisidir.
+                    Kişilerin var olan potansiyellerini ortaya çıkararak, ulaşılabilir hedeflere ve olasılıklara odaklanan bir öğrenme ve gelişim sürecidir.
+                    Günümüzde pek çok konuda farklı koçluk uygulamaları vardır.
+                    Bunlardan bazıları:
+                    Yaşam koçluğu, öğrenci koçluğu, ebeveyn koçluğu, aile koçluğu, ilişki koçluğu, sporcu koçluğu, satış koçluğu ve s.
+                    
+                    Koçluk, psikolojik bir danışmanlık değildir. 
+                    Danışmanlık hiç değildir. 
+                    Koçluk yaşamınızın her alanında gitmek istediğiniz noktaya sizi taşıyan ve bu yolculukta size sadece ışık tutarak rehberlik eden bir yöntemdir.
+                    ')?>
+
                 </p>
-                <p>Koçluk, psikolojik bir danışmanlık değildir. Danışmanlık hiç değildir. Koçluk yaşamınızın her
-                    alanında gitmek istediğiniz noktaya sizi taşıyan ve bu yolculukta size sadece ışık tutarak rehberlik
-                    eden bir yöntemdir.</p>
-                <p id="motivation"><span style="font-size: 25px;"><img style="width: 28px;" class="mr-2" src="assets/icons8-development-skill-48.png" /><strong><?=lang('Motivasyon Artırım')?></strong></span></p>
-                <p>Motivasyon kelimesi Latince “movere”, yani “hareket ettirme, hareketlendirme” kelimesinden
-                    gelmektedir. Motivasyon, istekleri, arzuları, ihtiyaçları, dürtüleri ve ilgileri kapsayan genel bir
-                    kavramdır. Açlık, susuzluk, gibi fizyolojik kökenli güdülere dürtü adı verilir. İnsanlara özgü
-                    başarma isteği gibi yüksek dürtülere de ihtiyaç denir. Motivasyon sürecini anlamada ihtiyaçlar,
-                    dürtüler ve özendirici uyarcılar arasındaki ilişkiler ve anlamları önemlidir.</p>
-                <p>Kişilerin yapabiliceklerinin limitini,eğitim ve yetenenek seviyeleri, yapabildiklerinin limitini ise
-                    moral ve motivasyon seviyeleri belirler. Elimizden gelenin en iyisini yapabilmemiz, motive olmamıza
-                    bağlıdır. Motivasyon, başarı için şarttır ama tek başına yeterli değildir. Hepimiz hayatta daha
-                    başarılı olmak isteriz, başarılı olmak için yapmamız gerekenleri biliriz. Bunları niçin yapmamız
-                    gerektiğini biliriz. İstersek nasıl yapabileceğimizi de, yapmakla neler kazanacağımızı, yapmamakla
-                    neler kaybettiğimizi de biliriz. Ama,yine de o “yapmamız gerekenleri” yapmayız? Peki bizi durduran
-                    nedir? Cevap atalet! Atalet; durağanlık,tembellik,miskinlik,üzerine ölü toprağı serilmiş gibi
-                    hareket etmek, hareketsizlik gibi anlamlara gelir. Atalet halinde olmanın tersi, hareket halinde
-                    olmaktır.</p>
+                <p id="motivation">
+                    <span style="font-size: 25px;">
+                        <img style="width: 28px;" class="mr-2" src="assets/icons8-development-skill-48.png" />
+                        <strong><?=lang('Motivasyon Artırım')?></strong>
+                    </span>
+                </p>
+                <p>
+                    <?=lang('Motivasyon Artırım_desc','
+                            Motivasyon kelimesi Latince "movere", yani "hareket ettirme, hareketlendirme" kelimesinden gelmektedir.
+                            Motivasyon, istekleri, arzuları, ihtiyaçları, dürtüleri ve ilgileri kapsayan genel bir kavramdır.
+                            Açlık, susuzluk, gibi fizyolojik kökenli güdülere dürtü adı verilir.
+                            İnsanlara özgü başarma isteği gibi yüksek dürtülere de ihtiyaç denir.
+                            
+                            Motivasyon sürecini anlamada ihtiyaçlar, dürtüler ve özendirici uyarcılar arasındaki ilişkiler ve anlamları önemlidir.
+                            Kişilerin yapabiliceklerinin limitini, eğitim ve yetenenek seviyeleri, yapabildiklerinin limitini ise moral ve motivasyon seviyeleri belirler.
+                            Elimizden gelenin en iyisini yapabilmemiz, motive olmamıza bağlıdır.
+                            Motivasyon, başarı için şarttır ama tek başına yeterli değildir.
+                            Hepimiz hayatta daha başarılı olmak isteriz, başarılı olmak için yapmamız gerekenleri biliriz.
+                            Bunları niçin yapmamız gerektiğini biliriz.
+                            İstersek nasıl yapabileceğimizi de, yapmakla neler kazanacağımızı, yapmamakla neler kaybettiğimizi de biliriz.
+                            Ama, yine de o "yapmamız gerekenleri" yapmayız.
+                            Peki bizi durduran nedir?
+                            Cevap atalet!
+                            Atalet; durağanlık, tembellik, miskinlik, üzerine ölü toprağı serilmiş gibi hareket etmek, hareketsizlik gibi anlamlara gelir.
+                            Atalet halinde olmanın tersi, hareket halinde olmaktır.
+                    ')?>
+
+                </p>
             </div>
         </div>
     </div>
